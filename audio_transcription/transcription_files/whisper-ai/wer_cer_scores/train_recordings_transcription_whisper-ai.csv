@@ -1,0 +1,501 @@
+file_name,Transcription,phrase,merged_prompt,word_error_rate,character_error_rate
+1249120_15004831_103229689.wav, my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected,my son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected,Wound and injury,0.0455,0.0196
+1249120_15004831_93767590.wav, my back hurts so much i cant bend down to tie my shoelaces,my back hurts so much i cant bend down to tie my shoelaces,"Neck, back or spinal issues",0.0,0.0172
+1249120_15830408_55921206.wav, i was travelling by ship and i feel dizzy,i was travelling by ship and i feel dizzy,Dizziness and vertigo,0.0,0.0244
+1249120_15830408_37803938.wav, i do not know why i feel cold,i do not know why i feel cold,Feeling cold/hot,0.0,0.0345
+1249120_2171654_19438090.wav, my hair is falling out after i take a shower,my hair is falling out after i take a shower,Hair and skin issues,0.0,0.0227
+1249120_13842059_64044535.wav, i have a feeling like my whole body is complaining,i have a feeling like my whole body is complaining,Muscle and joint pain,0.0,0.02
+1249120_13842059_36985247.wav, i feel dizzy and out of sight,i feel dizzy and out of sight,Dizziness and vertigo,0.0,0.0345
+1249120_1853182_104613772.wav, i feel pain in my neck while im working,i feel pain in my neck while im working,"Neck, back or spinal issues",0.0,0.0256
+1249120_15004831_80093096.wav, i complain a lot with skin allergy,i complain alot with skin allergy,Hair and skin issues,0.3333,0.0606
+1249120_14353703_29225925.wav, i have a throbbing in my joints,i have a throbbing in my joints,Muscle and joint pain,0.0,0.0323
+1249120_1853182_22487381.wav, ive had this cough for two weeks,ive had this cough for two weeks,Respiratory issue,0.0,0.0312
+1249120_15004831_43783926.wav, when i get up i feel dizzy and fall down,when i get up i feel dizzy and fall down,Dizziness and vertigo,0.0,0.025
+1249120_15004831_20587565.wav, im having a hard time reading because the letters are all fuzzy,im having a hard time reading because the letters are all fuzzy,Sensory issues,0.0,0.0159
+1249120_15004831_83170404.wav, there is this pain that radiates from my chest up to my left arm,there is this pain that radiates from my chest up to my left arm,Chest pain,0.0,0.0156
+1249120_6338946_49886993.wav, my left side aches much,my left side aches much,Internal pain,0.0,0.0435
+1249120_14353703_83543281.wav, i got injured exercising,i got injured exercising,Wound and injury,0.0,0.0417
+1249120_15004831_71961366.wav, sometimes i cough because i am a smoker,sometimes i cough because im a smoker,Respiratory issue,0.2857,0.0811
+1249120_1853182_19905600.wav, i was playing basketball yesterday i have sprained ankle,i was playing basketball yesterday i have sprained ankle,Wound and injury,0.0,0.0179
+1249120_6338946_43939076.wav, my shoulder hurts me so much,my shoulder hurts me so much,Shoulder pain,0.0,0.0357
+1249120_2171654_71989604.wav, i have an earache when i go to the pool,i have a ear ache when i go to the pool,Sensory issues,0.2727,0.0769
+1249120_1853182_12144833.wav, i feel depressed when i see my hair falling out,i feel depressed when i see my hair falling out,Hair and skin issues,0.0,0.0213
+1249120_15830408_35382218.wav, when i force my eyes to view i have blurry vision,when i force my eyes to view i have blurry vision,Sensory issues,0.0,0.0204
+1249120_6338946_63123514.wav, when i play football i have muscle pain,when i play football i have muscle pain,Muscle and joint pain,0.0,0.0256
+1249120_15830408_94297385.wav, i have eruptions on my face that come and go,i have eruptions on my face that come and go ,Hair and skin issues,0.0,0.0444
+1249120_6338946_108388847.wav, my neck hurts me and i cant stand with this pain,my neck hurts me and i cant stand with this pain,"Neck, back or spinal issues",0.0,0.0208
+1249120_15965551_99791985.wav, im not good im feeling so cold,im not good im feeling so cold,Feeling cold/hot,0.0,0.0333
+1249120_14353703_78646084.wav, my entire body is freezing,my entire body is freezing,Feeling cold/hot,0.0,0.0385
+1249120_1853182_100689643.wav, i feel a burning sensation in my shoulder muscle,i feel a burning sensation in my shoulder muscle,Muscle and joint pain,0.0,0.0208
+1249120_1853182_28883766.wav, i got a divorce last year and i just cant stop dwelling on how to get revenge on my exhusband,i got a divorce last year and i just cant stop dwelling on how to get revenge on my ex husband,Emotional and mental health,0.0952,0.0213
+1249120_6338946_79218256.wav, my head aches since i woke up this morning,my head ache since i woke up this morning,,0.1111,0.0488
+1249120_1853182_16171679.wav, i am feeling so dizzy body is so fragile,i am feeling so dizzy body is so fragile,General weakness,0.0,0.025
+1249120_13842059_95082870.wav, sometimes i feel like a claw on my chest that leaves me breathless,sometimes i feel like a claw on my chest that leaves me breathless,,0.0,0.0152
+1249120_14353703_92298432.wav, my neck is annoying me i cant sleep because of it,my neck is annoying me i cant sleep bacause of it,"Neck, back or spinal issues",0.0909,0.0408
+1249120_17632529_72644850.wav, i was playing basketball yesterday i have sprained ankle,i was playing basketball yesterday i have sprained ankle,Wound and injury,0.0,0.0179
+1249120_6338946_14309885.wav, my ear hurts me badly,my ear hurts me badly,Sensory issues,0.0,0.0476
+1249120_15830408_74933291.wav, i feel very hard to breathe,i feel very hard to breathe,,0.0,0.037
+1249120_1853182_75761633.wav, i feel increased heart rate with prick,i feel increased heart rate with prick,Chest pain,0.0,0.0263
+1249120_14054543_14236676.wav, i have apnea in my face and other problems in my derma like itching,i have acne in my face and other problema in my derma like itching,Hair and skin issues,0.1429,0.0606
+1249120_17632529_62680983.wav, i feel pain when i think of her,i feel pain when i think of her,Emotional and mental health,0.0,0.0323
+1249120_15965551_85311616.wav, i have injured myself during the soccer match,i have injured myself during the soccer match,Wound and injury,0.0,0.0222
+1249120_17632529_27636563.wav, i break out on my face very frequently,i break out on my face very frequently,Hair and skin issues,0.0,0.0263
+1249120_1853182_95096394.wav, my arm hurts when i stretch,my arm hurts when i stretch,Muscle and joint pain,0.0,0.037
+1249120_6338946_18792627.wav, longitudinal burning line across back with hard respiratory movements,longitudinal burning line across back with hard respiratory movements,"Neck, back or spinal issues",0.0,0.0145
+1249120_15004831_13536344.wav, i have a hair shortage,i have a hair shortage,Hair and skin issues,0.0,0.0455
+1249120_15830408_19526724.wav, i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,Wound and injury,0.0,0.0078
+1249120_13842059_63309891.wav, i feel pain inside i dont know what it is,i feel pain inside i do not know what it is,Internal pain,0.1818,0.0698
+1249120_13842059_12420758.wav, i feel a sharp pain in my ankle joint when i stand,i feel a sharp pain in my ankle joint when i stand,Muscle and joint pain,0.0,0.02
+1249120_14353703_48660231.wav, i have shoulder pain when i try to carry my groceries,i have shoulder pain when i try to carry my groceries,Shoulder pain,0.0,0.0189
+1249120_15004831_100921051.wav, my stomach aches after i drink any soda drink why,my stomach aches after i drink any soda drink why,Digestive issues,0.0,0.0204
+1249120_15830408_100458275.wav, i have acne in my face and other problems in my derma like itching,i have acne in my face and other problema in my derma like itching,Hair and skin issues,0.0714,0.0303
+1249120_6338946_85710292.wav, the last time i clipped my toenails i cut them too short and now i have an infected nail,the last time i clipped my toenails i cut them too short and now i have an infected nail,Wound and injury,0.0,0.0114
+1249120_15830408_17444382.wav, i love to garden but i get a terrible twinge in my lower back when i lean over,i love to garden but i get a terrible twinge in my lower back when i lean over,"Neck, back or spinal issues",0.0,0.0128
+1249120_6338946_75933476.wav, i think i overdid it when i carried all that lumber from the yard my lower back is killing me,i think i overdid it when i carried all that lumber from the yard my lower back is killing me,"Neck, back or spinal issues",0.0,0.0108
+1249120_2171654_102887397.wav, i have blurry vision after i used a wrong medicine,i have blurry vision after i used a wrong medicine,Sensory issues,0.0,0.02
+1249120_14353703_98831982.wav, i feel a soreness in my knees when i walk,i feel a soreness in my knees when i walk,Muscle and joint pain,0.0,0.0244
+1249120_14353703_23494896.wav, the area around my heart doesnt feel good,the area around my heart doesnt feel good,Chest pain,0.0,0.0244
+1249120_1853182_48590607.wav, i have difficulty breathing in crowded places,i have difficulty in breathing in crowded places,,0.125,0.0833
+1249120_13842059_55538328.wav, i have a break in the skin between my thumb and index finger and it will not close,i have a break in the skin between my thumb and index finger and it will not close,Wound and injury,0.0,0.0122
+1249120_15965551_41232322.wav, when i raise my hand i feel pain in my shoulder,when i raise my hand i feel pain in my shoulder,Shoulder pain,0.0,0.0213
+1249120_1853182_12060422.wav, oh my head hurts me i tried to be calm and i cant,oh my heart hurts me i tried to be calm and i cant,Chest pain,0.0769,0.06
+1249120_13842059_72691774.wav, i often get a stomach ache after i eat i havent been able to plan point which foods might be the trigger,i often get a stomach ache after i eat  i havent been able to pinpoint which foods might be the trigger,Digestive issues,0.0952,0.0485
+1249120_14353703_49287804.wav, i love to garden but i get a terrible twinge in my lower back when i lean over,i love to garden but i get a terrible twinge in my lower back when i lean over,"Neck, back or spinal issues",0.0,0.0128
+1249120_15830408_37988192.wav, i am having running nose,i am having running nose,Feeling cold/hot,0.0,0.0417
+1249120_15004831_35646374.wav, i think my body temperature is very low,i think my body temperature is very low,Feeling cold/hot,0.0,0.0256
+1249120_6338946_95204514.wav, i cant stand with this horrible feeling in my stomach,i cant stand with this horrible feeling in my stomach,Digestive issues,0.0,0.0189
+1249120_6338946_45821188.wav, i cant stand up i feel my brain is moving inside my skull,i cant stand up i feel my brain is moving inside my skull,,0.0,0.0175
+1249120_1853182_94150189.wav, my wound was infected when i was planting some flowers in my garden,my wound was infected when i was planting some flowers in my garden,Wound and injury,0.0,0.0149
+1249120_14054543_78596230.wav, i have a pain in my stomach,i have a pain in my stomach,Internal pain,0.0,0.037
+1249120_2171654_58828948.wav, the warming system of my house is broken and feels so cold,the warming system of my house is broken and  feel so cold,Feeling cold/hot,0.0833,0.0517
+1249120_6338946_100134591.wav, my ear hurts when i touch it,my ear hurts when i touch it,Sensory issues,0.0,0.0357
+1249120_1853182_56750588.wav, i feel that its hard to breathe for me especially after running or making any effort,i feel that its hard to breath for me specially after running or making any effort,,0.125,0.0366
+1249120_15830408_17297780.wav, im disappointed,im disappointed,Emotional and mental health,0.0,0.0667
+1249120_13842059_99076771.wav, my airache when i am listening to music,my ear ache when im listening to music,Sensory issues,0.5,0.1579
+1249120_15830408_74646148.wav, i have a hard muscle pain since i went to the gym,i have a hard muscle pain since i went to the gym,Muscle and joint pain,0.0,0.0204
+1249120_6338946_69351278.wav, i feel pain in my legs muscles after i ran yesterday i took some painkillers but it doesnt help,i feel pain in my legs muscles after i ran yesterday i took some pain killers but it doesnt help,Muscle and joint pain,0.1,0.0208
+1249120_13842059_91612242.wav, i have tried to relieve it but i cant,i have tried to relief it but i cant,General weakness,0.1111,0.0833
+1249120_14353703_41100151.wav, it is like i have a needle pushing through my heart,it is like i have a needle pushing through my heart,Chest pain,0.0,0.0196
+1249120_1853182_98369408.wav, it is hard to breathe when im in the underground metro station why,it is hard to breath when i am in the underground metro station why,,0.2143,0.0597
+1249120_15004831_71037307.wav, i am having problems seeing things feel like a cloud in my eyes everything is blurry,i am having problems seeing things feel like a cloud on my eyes everything is blurry,Sensory issues,0.0625,0.0238
+1249120_15004831_53028981.wav, whenever i stand up i feel dizzy,whenever i stand up i feel dizzy,Dizziness and vertigo,0.0,0.0312
+1249120_15965551_35401223.wav, i have terrible pain in my heart,i have terrible pain in my heart,Chest pain,0.0,0.0312
+1249120_13842059_55129614.wav, i have a break in the skin inside one of my nostrils that has become infected and is now filled with pus,i have a break in the skin inside one of my nostrils that has become infected and is now filled with pus,Wound and injury,0.0,0.0096
+1249120_15004831_56405823.wav, theyre pain in my foot,there pain in my foot,Leg and foot pain,0.2,0.0952
+1249120_1853182_93232694.wav, i have a blurry vision during my swimming training in the pool why,i have a blurry vision during my swimming training in the pool why,Sensory issues,0.0,0.0152
+1249120_2171654_41770159.wav, i have acne in my face and other problema in my derma like itching,i have acne in my face and other problema in my derma like itching,Hair and skin issues,0.0,0.0152
+1249120_15004831_88007774.wav, this long score on my left butt talk is from falling off my mountain bike,this long scar on my left buttock is from falling off my mountain bike,Wound and injury,0.2143,0.1
+1249120_15830408_80479236.wav, when i raise my hand i feel pain in my shoulder,when i raise my hand i feel pain in my shoulder,Shoulder pain,0.0,0.0213
+1249120_6338946_32796166.wav, im injured i cant play sports,im injured i cant play sports,Wound and injury,0.0,0.0345
+1249120_13842059_18949363.wav, i was playing soccer and i twisted my ankle,i was playing soccer and i twisted my ankle,Wound and injury,0.0,0.0233
+1249120_15004831_23170013.wav, i feel a pain in my neck,i feel a pain in my neck,"Neck, back or spinal issues",0.0,0.0417
+1249120_15004831_72078546.wav, chronic bone disease at the level of the doubles of the lower extremidates,chronic bone disease at the level of the doubles of the lower estremidades,Leg and foot pain,0.0769,0.0405
+1249120_15004831_12021665.wav, i feel a stiffness in my elbows and shoulders,i fell a stiffness in my elbows and shoulders,Muscle and joint pain,0.1111,0.0444
+1249120_15004831_69709527.wav, i feel pain in my body,i feel pain in my body,Internal pain,0.0,0.0455
+1249120_17632529_41187706.wav, i feel hurt lot of pain in my heart,i feel hurt lot of pain in my heart,Emotional and mental health,0.0,0.0286
+1249120_2171654_68349696.wav, my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,,0.0,0.0066
+1249120_1853182_20103370.wav, i cant carry anything i have a pain in my shoulder,i cant carry anything i have a pain in my shoulder,Shoulder pain,0.0,0.02
+1249120_15965551_67804099.wav, i get a knee pain when i walk a lot,i get a knee pain when i walk a lot,Leg and foot pain,0.0,0.0286
+1249120_6338946_62766927.wav, i cough a lot when i smell perfume what is wrong with my lungs,i cough a lot when i smell perfume what is wrong with my lungs,Respiratory issue,0.0,0.0161
+1249120_2171654_72266245.wav, i feel a soreness in my knees when i walk,i feel a soreness in my knees when i walk,Muscle and joint pain,0.0,0.0244
+1249120_13842059_92379589.wav, i feel pain in my right shoulder after the tennis match,i feel pain in my right shoulder after the tennis match,Wound and injury,0.0,0.0182
+1249120_15830408_45907625.wav, i feel a soreness in my knees when i walk,i feel a soreness in my knees when i walk,Muscle and joint pain,0.0,0.0244
+1249120_13842059_20940439.wav, i feel a tightness in my chest,i feel a tightness in my chest,,0.0,0.0333
+1249120_6338946_34608804.wav, i have a cut on my foot that became infected from using the showers at the gym,i have a cut on my foot that became infected from using the showers at the gym,Wound and injury,0.0,0.0128
+1249120_13842059_77775569.wav, i feel pain in my back,i feel pain in my back,"Neck, back or spinal issues",0.0,0.0455
+1249120_17632529_12148940.wav, i have a sharp pain in my neck,i have a sharp pain in my neck,"Neck, back or spinal issues",0.0,0.0333
+1249120_17632529_69017104.wav, my wound was infected when i was planting some flowers in my garden,my wound was infected when i was planting some flowers in my garden,Wound and injury,0.0,0.0149
+1249120_2171654_15523921.wav, i am having running nose,i am having running nose,Feeling cold/hot,0.0,0.0417
+1249120_13842059_40335111.wav, the pain in my ear is unbearable,the pain in my ear is unbearable,Sensory issues,0.0,0.0312
+1249120_13842059_35924031.wav, i feel pain in my eyes i can see fog,i feel pain in my eyes i can see fog,Sensory issues,0.0,0.0278
+1249120_6338946_30170394.wav, i cant ride my car at night because i have blurry vision,i cant ride my car at night because i have blurry vision,Sensory issues,0.0,0.0179
+1249120_2171654_51607090.wav, i do not know why i feel cold,i do not know why i feel cold,Feeling cold/hot,0.0,0.0345
+1249120_15830408_49631021.wav, i have blurry vision and i cant see in the darkness what is the reason doctor,i have a blurry vision and i cant see in the darkness  what is the reason doctor ,Sensory issues,0.0588,0.0617
+1249120_15004831_103019463.wav, i have acne all over my face,i have acne all over my face,Hair and skin issues,0.0,0.0357
+1249120_2171654_15700530.wav, yesterday i had shoulder pain,yesterday i had a shouder pain,Shoulder pain,0.3333,0.1333
+1249120_17632529_61627685.wav, i have an open wound in my arm,i have an open wound in my arm,Wound and injury,0.0,0.0333
+1249120_14353703_65062339.wav, my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,my nose is congested all the time and theres this gluey secretion in my throat that makes it impossible for me to sleep i often have to nap sitting down,,0.0,0.0066
+1249120_15830408_84643418.wav, i feel a great pain in my shoulder when i try to lift something heavy,i feel a great pain in my shoulder when i try to lift something heavy,Shoulder pain,0.0,0.0145
+1249120_17632529_72353055.wav, i feel weak,i feel weak,General weakness,0.0,0.0909
+1249120_17632529_21875553.wav, my kneecap feels like it is grating bone on bone when i walk,my kneecap feels like it is grating bone on bone when i walk,Leg and foot pain,0.0,0.0167
+1249120_13842059_55866997.wav, my stomach aches after i drink any soda why,my stomach aches after i drink any soda drink why,Digestive issues,0.1,0.1429
+1249120_2171654_56923849.wav, my neck is annoying me i cant sleep because of it,my neck is annoying me i cant sleep bacause of it,"Neck, back or spinal issues",0.0909,0.0408
+1249120_15004831_54034570.wav, i have a foot ache although i dont walk a lot,i have a foot ache although i dont walk a lot,Leg and foot pain,0.0,0.0222
+1249120_2171654_36549904.wav, i love to garden but i get a terrible twinge in my lower back when i lean over,i love to garden but i get a terrible twinge in my lower back when i lean over,"Neck, back or spinal issues",0.0,0.0128
+1249120_15004831_30046759.wav, i feel pain in my back,i feel pain in my back,"Neck, back or spinal issues",0.0,0.0455
+1249120_15830408_79309819.wav, i feel dizzy when i sit in front of my laptop for an hour or two what possibly could be the reason,i feel dizzy when i set infront of my laptop for an hour or two what possibly could be the reason,Dizziness and vertigo,0.1429,0.0309
+1249120_15004831_74682993.wav, i feel a tightness in my chest,i feel a tightness in my chest,,0.0,0.0333
+1249120_1853182_108211492.wav, i feel hurt a lot of pain in my heart,i feel hurt lot of pain in my heart,Emotional and mental health,0.1111,0.0857
+1249120_15004831_109863958.wav, i have difficulty moving my neck,i have difficulty moving my neck,"Neck, back or spinal issues",0.0,0.0312
+1249120_15830408_46145042.wav, i have throbbing in my joints,i have a throbbing in my joints,Muscle and joint pain,0.1429,0.0968
+1249120_13842059_57540056.wav, my knees ache on cold and rainy days,my knees ache on cold and rainy days,Leg and foot pain,0.0,0.0278
+1249120_1853182_20242420.wav, i feel like painting the wall,i feel pain in the lower back,"Neck, back or spinal issues",0.5714,0.5517
+1249120_15004831_68584765.wav, im suffering from sharp cough accompanied by phlegm,im suffering from sharp cough accompanied by  phlegm,Respiratory issue,0.0,0.0385
+1249120_15965551_82958180.wav, the area around my heart doesnt feel good,the area around my heart doesnt feel good,Chest pain,0.0,0.0244
+1249120_6338946_95779210.wav, my ankle is hurting me,my ankle is hurting me,Muscle and joint pain,0.0,0.0455
+1249120_13842059_55474114.wav, i feel pain in my foot,i feel pain in my foot,Leg and foot pain,0.0,0.0455
+1249120_15830408_87042261.wav, my entire body is freezing,my entire body is freezing,Feeling cold/hot,0.0,0.0385
+1249120_13842059_72683703.wav, i had a cold the last time i traveled by plane and i still have discomfort in my ears,i had a cold the last time i travelled by plane and i still have a discomfort in my ears,Sensory issues,0.1,0.0455
+1249120_6338946_65091298.wav, i have a sharp pain and clicking sound in my ankle joint when i try to stand on it and walk,i have a sharp pain and clicking sound in my ankle joint when i try to stand on it and walk,Muscle and joint pain,0.0,0.011
+1249120_13842059_64943737.wav, i get terrible headaches every few months and when i get done my vision is affected,i get terrible headaches every few months and when i get them my vision is affected,,0.0625,0.0602
+1249120_6338946_57435861.wav, i get tired too fast i can barely put on my clothes in the morning,i get tired too fast i can barely put on my clothes in the morning,General weakness,0.0,0.0152
+1249120_13842059_28311301.wav, sometimes i cough because i am a snoker,sometimes i cough because im a smoker,Respiratory issue,0.4286,0.1081
+1249120_15004831_72284888.wav, my chest hurts when i smoke,my chest hurts when i smoke,Internal pain,0.0,0.037
+1249120_13842059_19662889.wav, i have pimples and patches along with a lot of redness on my face,i have pimples in patches along with a lot of redness on my face,Hair and skin issues,0.0714,0.0469
+1249120_2171654_104363236.wav, i have eruptions on my face that come and go,i have eruptions on my face that come and go ,Hair and skin issues,0.0,0.0444
+1249120_13842059_96006573.wav, my shower drain is full of hair every time,my shower drain is full of hair every time,Hair and skin issues,0.0,0.0238
+1249120_14353703_44429790.wav, i feel dizzy when i sit in front of my laptop for an hour or two what possibly could be the reason,i feel dizzy when i set infront of my laptop for an hour or two what possibly could be the reason,Dizziness and vertigo,0.1429,0.0309
+1249120_6338946_97962298.wav, i cant walk because i have a great foot ache,i cant walk because i have a great foot ache,Leg and foot pain,0.0,0.0227
+1249120_14353703_99001242.wav, when i raise my hand i feel pain in my shoulder,when i raise my hand i feel pain in my shoulder,Shoulder pain,0.0,0.0213
+1249120_2171654_31081785.wav, i have a hard muscle pain since i went to the gym,i have a hard muscle pain since i went to the gym,Muscle and joint pain,0.0,0.0204
+1249120_1853182_58291933.wav, i feel pain in my heart when i wake up,i feel pain in my heart when i wake up,Chest pain,0.0,0.0263
+1249120_6338946_73054929.wav, i feel pain in my shoulders when i write on the keyboard,i feel pain in my shoulders when i write on the keyboard,Shoulder pain,0.0,0.0179
+1249120_15830408_23240699.wav, i had an accident and my wound was open when i arrived to hospital,i had an accident and my wound was open when i arrived to hospital,Wound and injury,0.0,0.0152
+1249120_6338946_37878461.wav, i feel lightheaded,i feel lightheaded,Dizziness and vertigo,0.0,0.0556
+1249120_13842059_46589335.wav, i have a foot ache adult i dont walk a lot,i have a foot ache although i dont walk a lot,Leg and foot pain,0.0909,0.1556
+1249120_15004831_90007572.wav, i see pain in my eyes i can see fog,i feel pain in my eyes i can see fog,Sensory issues,0.1,0.0833
+1249120_1853182_67194097.wav, i have a dull ache in my head,i have a dull ache in my head,,0.0,0.0345
+1249120_2171654_46240770.wav, i got injured exercising,i got injured exercising,Wound and injury,0.0,0.0417
+1249120_15830408_39530967.wav, i usually have a bad cough when i get blue,i usually have a bad cough when i get flu,Respiratory issue,0.1,0.0732
+1249120_1853182_67762065.wav, im having a hard time reading because the letters are all fuzzy,im having a hard time reading because the letters are all fuzzy,Sensory issues,0.0,0.0159
+1249120_13842059_62150593.wav, my muscle in my shoulder burns when i move my arm,my muscle in my shoulder burns when i move my arm,Muscle and joint pain,0.0,0.0204
+1249120_17632529_20793910.wav, my body feels weak and i try to make it relax but it still pains me,my body feels weak and i tried to make it relax but it stills pain me,General weakness,0.1875,0.087
+1249120_13842059_51065552.wav, i am having problems seeing things feel like a cloud on my eyes everything is blurry,i am having problems seeing things feel like a cloud on my eyes everything is blurry,Sensory issues,0.0,0.0119
+1249120_15004831_53846275.wav, i had a cold the last time i traveled by plane and i still have a discomfort in my ears,i had a cold the last time i travelled by plane and i still have a discomfort in my ears,Sensory issues,0.05,0.0227
+1249120_17632529_72713426.wav, i feel a huge emotional pain after i broke up with my girlfriend,i feel a huge emotional pain after i broke up with my girlfriend,Emotional and mental health,0.0,0.0156
+1249120_2171654_57630650.wav, i feel something hurt me in taking breath and i cant take my breath,i feel something hurt me in taking breath and i cant take my breath,,0.0,0.0149
+1249120_15004831_85662551.wav, i feel pain in my neck,i feel pain in my neck,"Neck, back or spinal issues",0.0,0.0455
+1249120_15004831_19178925.wav, my foot hurts me a lot of playing football,my foot hurts me a lot of playing football,Leg and foot pain,0.0,0.0238
+1249120_6338946_52491866.wav, there are some pimples on my face that bother me a lot,there are some pimples on my face that bother me a lot,Hair and skin issues,0.0,0.0185
+1249120_1853182_70597499.wav, my body feels weak and i tried to make it relax but it still pains me,my body feels weak and i tried to make it relax but it stills pain me,General weakness,0.125,0.0435
+1249120_1853182_36093484.wav, i have a blurry vision since i woke up this morning what could be the reason,i have a blurry vision since i woke up this morning what could be the reason,Sensory issues,0.0,0.0132
+1249120_15004831_75104127.wav, i feel congestion in my chest,i feel congestion in my chest,Respiratory issue,0.0,0.0345
+1249120_15004831_95054458.wav, the pain in my ear is unbearable,the pain in my ear is unbearable,Sensory issues,0.0,0.0312
+1249120_14353703_21660925.wav, my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puppy oozing,my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing,Wound and injury,0.0833,0.0588
+1249120_2171654_84541043.wav, it is like i have a needle pushing through my heart,it is like i have a needle pushing through my heart,Chest pain,0.0,0.0196
+1249120_2171654_22578521.wav, i usually have a bad cough when i get flu,i usually have a bad cough when i get flu,Respiratory issue,0.0,0.0244
+1249120_15965551_82673379.wav, i usually have a bad cough when i get flu,i usually have a bad cough when i get flu,Respiratory issue,0.0,0.0244
+1249120_13842059_65679587.wav, i had a collision while playing soccer my knee buckled and now is unstable,i had a collision while playing soccer  my knee buckled and now its unstable,Wound and injury,0.0714,0.0395
+1249120_6338946_44891510.wav, after playing football i have muscle pain with both my legs,after playing football i have muscle pain with my both legs,Muscle and joint pain,0.1818,0.1186
+1249120_15004831_90291037.wav, i cut my hand a couple of days ago and although i didnt think i needed it stitched it hasnt closed up,i cut my hand a couple of days ago and although i didnt think i needed it stitches it hasnt closed up,Wound and injury,0.0455,0.0198
+1249120_14353703_42273436.wav, every time i comb my hair there are so many hair in my comb,every time i comb my hair there are so many hair in my comb,Hair and skin issues,0.0,0.0169
+1249120_2171654_48514077.wav, my shoulder has a great pain,my shoulder has agreat pain,Shoulder pain,0.4,0.0741
+1249120_13842059_42512507.wav, i feel a pain in my neck,i feel a pain in my neck,"Neck, back or spinal issues",0.0,0.0417
+1249120_17632529_47778782.wav, i used to have acne when i was  years old,i used to have acne when i was  years old,Hair and skin issues,0.0,0.0244
+1249120_2171654_109407598.wav, belles skull is cracked like nuts,fell skull is cracked like nuts,,0.1667,0.129
+1249120_15004831_88949400.wav, i get terrible headaches every few months and when i get them my vision is affected,i get terrible headaches every few months and when i get them my vision is affected,,0.0,0.012
+1249120_13842059_71224787.wav, this long scar on my left buttocks is from falling off my mountain bike,this long scar on my left buttock is from falling off my mountain bike,Wound and injury,0.0714,0.0286
+1249120_1853182_67830309.wav, i hate my acne,i hate my acne,Hair and skin issues,0.0,0.0714
+1249120_1853182_31786018.wav, heavy breath with fatigue,heavy breath with fatigue,Emotional and mental health,0.0,0.04
+1249120_6338946_41985736.wav, the knee feels like it rusted and i suddenly cannot bend it anymore,the knee feels like it rusted and i suddenly cannot bend it anymore,Leg and foot pain,0.0,0.0149
+1249120_15830408_57089351.wav, my neck is annoying me i cant sleep because of it,my neck is annoying me i cant sleep bacause of it,"Neck, back or spinal issues",0.0909,0.0408
+1249120_14353703_18061815.wav, i have terrible pain in my heart,i have terrible pain in my heart,Chest pain,0.0,0.0312
+1249120_1853182_24371252.wav, my name is,my knees hurt so bad to walk that i stay sitting more than i should,Leg and foot pain,0.9333,0.8657
+1249120_6338946_65675543.wav, my son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal,my son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal,Wound and injury,0.0,0.0095
+1249120_13842059_25097031.wav, i feel a lot of pain in the joints,i feel a lot of pain in the joints,Muscle and joint pain,0.0,0.0294
+1249120_2171654_12812436.wav, i get knee pain when i walk a lot,i get a knee pain when i walk a lot,Leg and foot pain,0.1,0.0857
+1249120_14353703_46447461.wav, my shoulder has a great pain,my shoulder has agreat pain,Shoulder pain,0.4,0.0741
+1249120_14353703_11074766.wav, i do not know why i feel cold,i do not know why i feel cold,Feeling cold/hot,0.0,0.0345
+1249120_17632529_28040077.wav, i do not feel better in my muscles,i do not feel better in my muscles,Muscle and joint pain,0.0,0.0294
+1249120_13842059_99243745.wav, discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen,discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen,Internal pain,0.0,0.0093
+1249120_6338946_100858969.wav, i have issue with my skin,i have issue with my skin,Hair and skin issues,0.0,0.04
+1249120_6338946_50603602.wav, my lungs feel heavy like they are filled with mucus,my lungs feel heavy like they are filled with mucus,Respiratory issue,0.0,0.0196
+1249120_2171654_84934574.wav, i have terrible pain in my heart,i have terrible pain in my heart,Chest pain,0.0,0.0312
+1249120_6338946_65481866.wav, surgical wound infections,surgical wound infections,Wound and injury,0.0,0.04
+1249120_2171654_40696122.wav, i had an accident and my wound was open when i arrived to hospital,i had an accident and my wound was open when i arrived to hospital,Wound and injury,0.0,0.0152
+1249120_6338946_47713512.wav, i fell through a window while i was cleaning it and i have a shard of glass stuck in my left eye i think it is pretty serious please help,i fell through a window while i was cleaning it and i have a shard of glass stuck in my left eye i think it is pretty serious please help,Wound and injury,0.0,0.0073
+1249120_6338946_98107593.wav, when i tried to be warm and wear more clothes i found that i was still cold,when i tried to be warm and wear more clothes i found that i was still cold,Feeling cold/hot,0.0,0.0133
+1249120_6338946_66648466.wav, i feel a sharp pain in my head when i think too hard,i feel a sharp pain in my head when i think too hard,,0.0,0.0192
+1249120_6338946_27206977.wav, i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain,i carried a heavy bag yesterday and when i get up today i felt a great shoulder pain,Shoulder pain,0.0,0.0119
+1249120_17632529_72258077.wav, i have a throbbing in my joints,i have a throbbing in my joints,Muscle and joint pain,0.0,0.0323
+1249120_14353703_23465450.wav, i dont do anything at home and i still feel exhausted,i dont do anything at home and still i feel exhausted,General weakness,0.1818,0.0943
+1249120_2171654_11877331.wav, i feel muscle pain every time i make an extra effort,i feel muscle pain every time i make an extra effort,Muscle and joint pain,0.0,0.0192
+1249120_15965551_63975814.wav, my hair is falling out after i take a shower,my hair is falling out after i take a shower,Hair and skin issues,0.0,0.0227
+1249120_1853182_87966641.wav, my son had his lip pierced and it is swollen and the skin inside on his lip is gray and looks infected,my son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected,Wound and injury,0.0455,0.0196
+1249120_13842059_19800134.wav, when i brush my hair i notice big clumps of hair coming out in the brush,when i brush my hair i notice big clumps of hair coming out in the brush,Hair and skin issues,0.0,0.0139
+1249120_14353703_32651672.wav, i have a great stomach ache and cant eat anything,i have a great stomach ache and i cant eat any thing,Digestive issues,0.25,0.0769
+1249120_1853182_13373036.wav, i walk every day but now i get short of breath after going only a short way,i walk every day but now i get short of breath after going only a short way,,0.0,0.0133
+1249120_6338946_32528486.wav, my knee is hurting so badly,my knee is hurting so badly,Muscle and joint pain,0.0,0.037
+1249120_13842059_91420763.wav, i have a paint in my traps,i have a pain in my trapes,Muscle and joint pain,0.2857,0.1154
+1249120_15830408_92962528.wav, the area around my heart doesnt feel good,the area around my heart doesnt feel good,Chest pain,0.0,0.0244
+1249120_6338946_71387965.wav, when i think of my parents i feel pain,when i think of my parents i feel pain,Emotional and mental health,0.0,0.0263
+1249120_1853182_23449156.wav, my chest break out with red pimples and white heads,my chest break out with red pimples and whiteheads,Hair and skin issues,0.2222,0.04
+1249120_2171654_72702596.wav, my calves feel like they are tight as knots and are throbbing,my calves feel like they are tight as knots and are throbbing,Muscle and joint pain,0.0,0.0164
+1249120_6338946_40270934.wav, i have pimples on my back,i have pimples on my back,Hair and skin issues,0.0,0.04
+1249120_15830408_94161309.wav, it is like i have a needle pushing through my heart,it is like i have a needle pushing through my heart,Chest pain,0.0,0.0196
+1249120_1853182_67549547.wav, i have a sharp pain in my neck,i have a sharp pain in my neck,"Neck, back or spinal issues",0.0,0.0333
+1249120_15830408_23699319.wav, my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing,my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing,Wound and injury,0.0,0.0084
+1249120_13842059_42977059.wav, i feel like i went to an acupuncture practice and had a hundred needles in my shoulder,i feel like i went to an acupunctures practice and had  needles in my shoulder,Shoulder pain,0.2,0.141
+1249120_15004831_105267523.wav, i get clusters of pimples on my face that never go away,i get clusters of pimples on my face that never go away,Hair and skin issues,0.0,0.0182
+1249120_6338946_43979955.wav, the severe pain in the stomach i feel,the severe pain in the stomach i feel,Digestive issues,0.0,0.027
+1249120_14353703_87680860.wav, i dont have full range of motion with my arms,i dont have full range of motion with my arms,Shoulder pain,0.0,0.0222
+1249120_6338946_60974534.wav, my body feels weak and i think that my face is fade and i cant sleep well,my body feels weak and i think that my face is fade and i cant sleep well,General weakness,0.0,0.0137
+1249120_13842059_39765754.wav, the acne was causing me to feel embarrassed,the acne was causing me to feel embarrassed,Hair and skin issues,0.0,0.0233
+1249120_6338946_13743770.wav, is there a cure for cancer,is there a cure for acne,Hair and skin issues,0.1667,0.2083
+1249120_6338946_93790761.wav, my knee hurts when i play squash,my knee hurts when i play squash,Leg and foot pain,0.0,0.0312
+1249120_17632529_36682898.wav, i feel pain in my stomach,i feel pain in my stomach,Digestive issues,0.0,0.04
+1249120_1853182_65648360.wav, my neck hurts me and i cant look down or up,my neck hurts me and i cant look down or up,"Neck, back or spinal issues",0.0,0.0233
+1249120_6338946_99780649.wav, i wake up at night feeling cold,i wake up at night feeling cold,Feeling cold/hot,0.0,0.0323
+1249120_13842059_21818546.wav, i sliced myself deeply with a knife while i was cooking,i sliced myself deeply with a knife while i was cooking,Wound and injury,0.0,0.0182
+1249120_6338946_99675257.wav, ive always been very active but now i just dont have the strength or energy to go for even a short walk,ive always been very active but now i just dont have the strength or energy to go for even a short walk,General weakness,0.0,0.0097
+1249120_17632529_24541156.wav, i have a dry throat,i have a dry throat,Respiratory issue,0.0,0.0526
+1249120_13842059_75126953.wav, my skin is itching,my skin is itching,Hair and skin issues,0.0,0.0556
+1249120_13842059_83673903.wav, i cant move my leg there is a pain in the joint,i cant move my leg there is pain in the joint,Muscle and joint pain,0.0909,0.0667
+1249120_6338946_42600414.wav, there is pain in the muscles i do not know caused,there is pain in the muscles i do not know caused,Muscle and joint pain,0.0,0.0204
+1249120_2171654_90588092.wav, i felt my heart hurts when i ran for a long distance,i felt my heart hurts when i ran for along distance,Chest pain,0.1818,0.0392
+1249120_15004831_109583467.wav, my heart hurts me,my heart hurts me,Chest pain,0.0,0.0588
+1249120_17632529_30619661.wav, i feel pain in my neck while im working,i feel pain in my neck while im working,"Neck, back or spinal issues",0.0,0.0256
+1249120_17632529_10666453.wav, i have difficulty in breathing in crowded places,i have difficulty in breathing in crowded places,,0.0,0.0208
+1249120_15965551_20749336.wav, i have blurry vision after i used a wrong medicine,i have blurry vision after i used a wrong medicine,Sensory issues,0.0,0.02
+1249120_1853182_43475712.wav, i do not feel better in my muscles,i do not feel better in my muscles,Muscle and joint pain,0.0,0.0294
+1249120_15004831_97118440.wav, my hair falling out,my hair falling out,Hair and skin issues,0.0,0.0526
+1249120_14353703_93481996.wav, i have acne in my face and other problems in my derma like itching,i have acne in my face and other problems in my derma like itching,Hair and skin issues,0.0,0.0152
+1249120_1853182_27132703.wav, i feel dizzy after severe diarrhea,i feel dizzy after severe diarrhea,Dizziness and vertigo,0.0,0.0294
+1249120_15004831_16727782.wav, i was diagnosed with b deficiency anemia which explains why i always felt cold,i was diagnosed with  bdeficiency anemia which explains why i always felt cold,Feeling cold/hot,0.1538,0.0385
+1249120_17632529_62603800.wav, i could not exercise because of my knee pain,i could not exercise because of my knee pain,Leg and foot pain,0.0,0.0227
+1249120_15965551_30586097.wav, my lower back hurts but it improves if i stretch it,my lower back hurts but it improves if i stretch it,Muscle and joint pain,0.0,0.0196
+1249120_1853182_14886599.wav, i feel headache,i feel head ache,,0.5,0.125
+1249120_15830408_93635039.wav, every time i comb my hair there are so many hair in my comb,every time i comb my hair there are so many hair in my comb,Hair and skin issues,0.0,0.0169
+1249120_1853182_55592493.wav, my acne gets worse when it is hot,my acne gets worse when it is hot,Hair and skin issues,0.0,0.0303
+1249120_1853182_77811398.wav, i feel a pain in my stomach,i feel pain in my stomach,Digestive issues,0.1667,0.12
+1249120_14353703_55737772.wav, i feel weak all over,i feel weak all over,General weakness,0.0,0.05
+1249120_6338946_86910481.wav, every time i look to left i feel a sharp pain in my neck,every time i look to left i feel a sharp pain in my neck,"Neck, back or spinal issues",0.0,0.0179
+1249120_15004831_10233205.wav, when i move my shoulder its like lightning is being sent through my shoulder,when i move my shoulder its like lightning is being sent through my shoulder,Shoulder pain,0.0,0.0132
+1249120_1853182_87286693.wav, i feel a huge emotional pain after i broke up with my girlfriend,i feel a huge emotional pain after i broke up with my girlfriend,Emotional and mental health,0.0,0.0156
+1249120_1853182_105033949.wav, i break out on my face very frequently,i break out on my face very frequently,Hair and skin issues,0.0,0.0263
+1249120_2171654_18050686.wav, when i force my eyes to view i have blurry vision,when i force my eyes to view i have blurry vision,Sensory issues,0.0,0.0204
+1249120_6338946_50763375.wav, when i stand up i feel like im going to fall down instantly,when i stand up i feel like im going to fall down instantly,Dizziness and vertigo,0.0,0.0169
+1249120_17632529_28083657.wav, i have throbbing in my shoulder,i have throbing in my shoulder,Shoulder pain,0.1667,0.0667
+1249120_1853182_33011030.wav, i feel like the room is spinning,i feel like the room is spinning,Dizziness and vertigo,0.0,0.0312
+1249120_13842059_28742137.wav, my television and computer seem out of focus even though i have new glasses,my television and computer seem out of focus even though i have new glasses,Sensory issues,0.0,0.0133
+1249120_1853182_68980426.wav, i used to have acne when i was  years old,i used to have acne when i was  years old,Hair and skin issues,0.0,0.0244
+1249120_1853182_21869573.wav, i have a dry throat,i have a dry throat,Respiratory issue,0.0,0.0526
+1249120_13842059_39081294.wav, my hair is falling when i am combing it,my hair is falling when i am combing it,Hair and skin issues,0.0,0.0256
+1249120_6338946_24164873.wav, i hardly have enough strength to get up,i hardly have enough stength to get up,General weakness,0.125,0.0526
+1249120_14353703_91022917.wav, i feel muscle pain every time i make an extra effort,i feel muscle pain every time i make an extra effort,Muscle and joint pain,0.0,0.0192
+1249120_15004831_85268007.wav, i have pimples and patches along with a lot of redness on my face,i have pimples in patches along with a lot of redness on my face,Hair and skin issues,0.0714,0.0469
+1249120_13842059_20699980.wav, my heart hurts when i exercise,my heart hurts when i exercise,Chest pain,0.0,0.0333
+1249120_17632529_63897766.wav, i feel a soreness in my knees when i walk,i feel a soreness in my knees when i walk,Muscle and joint pain,0.0,0.0244
+1249120_2171654_63059993.wav, when i stand up too quickly i start to feel dizzy and lightheaded,when i stand up too quickly i start to feel dizzy and lightheaded,Dizziness and vertigo,0.0,0.0154
+1249120_15004831_85768892.wav, i have a break pain in my thorax from harp injury,i have a great pain in my thorax from heart injury,Chest pain,0.1818,0.1
+1249120_14353703_97034137.wav, i started taking swimming lessons and i guess i swallowed too much water through my nose because the cyanitis is killing me now,i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,Wound and injury,0.087,0.062
+1249120_1853182_95429596.wav, i feel weak,i feel weak,General weakness,0.0,0.0909
+1249120_6338946_35065921.wav, my back hurts me and i cant bend it or walk,my back hurts me and i cant bend it or walk,"Neck, back or spinal issues",0.0,0.0233
+1249120_15004831_21767792.wav, i cant breathe,i cant breathe,Respiratory issue,0.0,0.0714
+1249120_1853182_104082860.wav, i have a cold and it makes me cough a lot,i have a cold and it makes me cough alot,Respiratory issue,0.2,0.05
+1249120_2171654_88522717.wav, i have a blurry vision and i cant see in the darkness what is the reason doctor,i have a blurry vision and i cant see in the darkness  what is the reason doctor ,Sensory issues,0.0,0.037
+1249120_6338946_44801358.wav, i cant stop coughing,i cant stop coughing,Respiratory issue,0.0,0.05
+1249120_15004831_68744262.wav, i got a divorce last year and i just cant stop dwelling on how to get revenge on my exhusband,i got a divorce last year and i just cant stop dwelling on how to get revenge on my ex husband,Emotional and mental health,0.0952,0.0213
+1249120_6338946_49284776.wav, i have internal pain whenever i come down with a cold,i have internal pain whenever i come down with a cold,Internal pain,0.0,0.0189
+1249120_13842059_21836537.wav, i feel cold,i feel cold,Feeling cold/hot,0.0,0.0909
+1249120_1853182_104662580.wav, when i was young i had an injury from sports in my knee,when i was young i had an injury from sports in my knee,Wound and injury,0.0,0.0182
+1249120_1853182_60001265.wav, my grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy,my grandson cut his foot on a seashell in the ocean and now the foot is turning gray and is puffy,Wound and injury,0.0,0.0103
+1249120_6338946_15070996.wav, i feel heart pain when i walk a lot,i feel heart pain when i walk a lot,Chest pain,0.0,0.0286
+1249120_6338946_13298292.wav, you wont believe me but this infected wound on my hand is from a paper cut i didnt take seriously,you wont believe me but this infected wound on my hand is from a paper cut i didnt take seriously,Wound and injury,0.0,0.0103
+1249120_2171654_64203995.wav, i have a pain in my stomach,i have a pain in my stomach,Internal pain,0.0,0.037
+1249120_1853182_75011889.wav, my back got injured while i was at the gym,my back got injured while i was lifting at the gym,Wound and injury,0.0909,0.18
+1249120_17632529_14316206.wav, i feel increased heart rate with prick,i feel increased heart rate with prick,Chest pain,0.0,0.0263
+1249120_17632529_20430895.wav, i have a pain in my stomach,i have a pain in my stomach,Internal pain,0.0,0.037
+1249120_1853182_36225218.wav, my head gets dizzy when i try to get up,my head gets dizzy when i try to get up,Dizziness and vertigo,0.0,0.0256
+1249120_15830408_33860008.wav, sometimes when its cold outside my face hurts especially around the pimples that are ready to pop,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,Hair and skin issues,0.1111,0.0303
+1249120_15830408_15899103.wav, when i stand up too quickly i start to feel dizzy and light headed,when i stand up too quickly i start to feel dizzy and lightheaded,Dizziness and vertigo,0.1538,0.0308
+1249120_15965551_50224784.wav, my entire body is freezing,my entire body is freezing,Feeling cold/hot,0.0,0.0385
+1249120_14353703_109462228.wav, when i force my eyes to view i have blurry vision,when i force my eyes to view i have blurry vision,Sensory issues,0.0,0.0204
+1249120_13842059_105045085.wav, the pain feels like its right below the skin,the pain feels like its right below the skin,Muscle and joint pain,0.0,0.0227
+1249120_2171654_67896312.wav, i was watching tv and suddenly have blurry vision,i was watching tv and suddenly have blurry vision,Sensory issues,0.0,0.0204
+1249120_15830408_67503671.wav, i got acne when i ate chilli,i got acne when i ate chili,Hair and skin issues,0.1429,0.0741
+1249120_2171654_26219012.wav, my chest acne breaks out and never clears up,my chest acne breaks out and never clears up,Hair and skin issues,0.0,0.0227
+1249120_15004831_60887727.wav, i was kicked in the head playing soccer last night,i was kicked in the head playing soccer last night,Wound and injury,0.0,0.02
+1249120_13842059_30159617.wav, my foot hurts me a lot playing football,my foot hurts me a lot of playing football,Leg and foot pain,0.1111,0.0952
+1249120_1853182_86907652.wav, theyre pain in my foot,there pain in my foot,Leg and foot pain,0.2,0.0952
+1249120_15830408_105973088.wav, i have a great stomachache and i cant eat anything,i have a great stomach ache and i cant eat any thing,Digestive issues,0.3333,0.0577
+1249120_2171654_61628879.wav, i have a great stomach ache and i cant eat anything,i have a great stomach ache and i cant eat any thing,Digestive issues,0.1667,0.0385
+1249120_2171654_20198863.wav, i dont have full range of motion with my arms,i dont have full range of motion with my arms,Shoulder pain,0.0,0.0222
+1249120_17632529_46567614.wav, i cant rotate my neck,i cant rotate my neck,"Neck, back or spinal issues",0.0,0.0476
+1249120_2171654_54633164.wav, i got acne when i ate chili,i got acne when i ate chili,Hair and skin issues,0.0,0.037
+1249120_1853182_97701404.wav, his infected wound was beginning to rot,his infected wound was beginning to rot,Wound and injury,0.0,0.0256
+1249120_13842059_44664241.wav, i have a cut that has become red and oozes pus,i have a cut that has become red and oozes puss,Wound and injury,0.0909,0.0426
+1249120_14353703_18344186.wav, i have a hard muscle pain since i went to the gym,i have a hard muscle pain since i went to the gym,Muscle and joint pain,0.0,0.0204
+1249120_14353703_103620863.wav, i get a knee pain when i walk a lot,i get a knee pain when i walk a lot,Leg and foot pain,0.0,0.0286
+1249120_13842059_80785413.wav, i have a mental suffering,i have a mental suffering,Emotional and mental health,0.0,0.04
+1249120_2171654_56118038.wav, i have a throbbing in my joints,i have a throbbing in my joints,Muscle and joint pain,0.0,0.0323
+1249120_15004831_26452554.wav, i have a split on my thumb that will not heal,i have a split on my thumb that will not heal,Wound and injury,0.0,0.0222
+1249120_6338946_35843727.wav, i couldnt stop shaking or unclench my jaw thats how cold i was,i couldnt stop shaking or unclench my jaw thats how cold i was,Feeling cold/hot,0.0,0.0161
+1249120_1853182_92248146.wav, im not feeling good i cant take my breath,im not feeling good i cant take my breath,,0.0,0.0244
+1249120_6338946_31729024.wav, i cant do anything i feel a weak in my body,i cant do anything i feel a weak in my body,General weakness,0.0,0.0233
+1249120_17632529_66524208.wav, i cant see well,i cant see well,Sensory issues,0.0,0.0667
+1249120_6338946_33732438.wav, i get breakouts on my chest with red patches that get more intense when i get hot,i get breakouts on my chest with red patches that get more intense when i get hot,Hair and skin issues,0.0,0.0123
+1249120_15004831_21045225.wav, i have tried to make massage on my foot but they still pain me,i have tried to make massage on my foot but they still pain me,Leg and foot pain,0.0,0.0161
+1249120_1853182_39620016.wav, i could not exercise because of my knee pain,i could not exercise because of my knee pain,Leg and foot pain,0.0,0.0227
+1249120_17632529_40628830.wav, his infected wound was beginning to rot,his infected wound was beginning to rot,Wound and injury,0.0,0.0256
+1249120_17632529_22635091.wav, i feel pain in the lower back,i feel pain in the lower back,"Neck, back or spinal issues",0.0,0.0345
+1249120_1853182_21608484.wav, my biceps started aching after i went to the gym,my biceps started aching after i went to the gym,Muscle and joint pain,0.0,0.0208
+1249120_17632529_18741252.wav, i feel that its hard to breathe for me especially after running or making any effort,i feel that its hard to breath for me specially after running or making any effort,,0.125,0.0366
+1249120_15004831_57497759.wav, i dont know why im constantly sad,i dont know why im constantly sad,Emotional and mental health,0.0,0.0303
+1249120_2171654_61725470.wav, my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing,my daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing,Wound and injury,0.0,0.0084
+1249120_15004831_103311186.wav, i feel depressed when i see my hair falling out,i feel depressed when i see my hair falling out,Hair and skin issues,0.0,0.0213
+1249120_6338946_102141965.wav, he was discovered to have an open wound,he was discovered to have an open wound,Wound and injury,0.0,0.0256
+1249120_15830408_20700304.wav, when i bend over i get a shooting pain down my back,when i bend over i get a shooting pain down my back,"Neck, back or spinal issues",0.0,0.0196
+1249120_15004831_77275003.wav, my heart hurts when i exercise,my heart hurts when i exercise,Chest pain,0.0,0.0333
+1249120_6338946_17006848.wav, i feel pain in my neck after waking up,i feel pain in my neck after waking up,"Neck, back or spinal issues",0.0,0.0263
+1249120_14353703_106042248.wav, i have an earache when i go to the pool,i have a ear ache when i go to the pool,Sensory issues,0.2727,0.0769
+1249120_1853182_31648376.wav, annoyance starts suddenly often after an injury or exercise,annoyance starts suddenly often after an injury or exercise,Leg and foot pain,0.0,0.0169
+1249120_6338946_106278244.wav, i suffered a deep wound in my hand and i cannot stop the bleeding,i suffered a deep wound in my hand and i can not stop the bleeding,Wound and injury,0.1333,0.0303
+1249120_1853182_20504574.wav, feel like something is being jabbed into my joints,feel like something is being jabbed into my joints,Muscle and joint pain,0.0,0.02
+1249120_13842059_24545917.wav, i dont have problems taking in breath but out breath is so heavy,i dont have problems taking in breath but out breath is so heavy,,0.0,0.0156
+1249120_14353703_45425658.wav, i got acne when i ate chili,i got acne when i ate chili,Hair and skin issues,0.0,0.037
+1249120_6338946_35137575.wav, i feel a pain in my back,i feel a pain in my back,"Neck, back or spinal issues",0.0,0.0417
+1249120_15965551_44782675.wav, i have eruptions on my face that come and go,i have eruptions on my face that come and go ,Hair and skin issues,0.0,0.0444
+1249120_17632529_17442112.wav, my acne gets worse when it is hot,my acne gets worse when it is hot,Hair and skin issues,0.0,0.0303
+1249120_13842059_19016138.wav, when i move my shoulder it is like lightning is being sent through my shoulder,when i move my shoulder its like lightning is being sent through my shoulder,Shoulder pain,0.1429,0.0395
+1249120_2171654_61801014.wav, i feel dizzy when i sit in front of my laptop for an hour or two what possibly could be the reason,i feel dizzy when i set infront of my laptop for an hour or two what possibly could be the reason,Dizziness and vertigo,0.1429,0.0309
+1249120_14353703_103040241.wav, i am having running nose,i am having running nose,Feeling cold/hot,0.0,0.0417
+1249120_13842059_55159061.wav, chronic bowel pain,chronic bowel pain,Internal pain,0.0,0.0556
+1249120_15830408_30764038.wav, i feel muscle pain every time i make an extra effort,i feel muscle pain every time i make an extra effort,Muscle and joint pain,0.0,0.0192
+1249120_13842059_95116374.wav, im not good i feel dizzy,im not good i feel dizzy,Dizziness and vertigo,0.0,0.0417
+1249120_6338946_63718750.wav, i noticed an important decrease in my vision when i tried to look at things up close,i noticed an important decrease in my vision when i try to look at things up close,Sensory issues,0.0588,0.0488
+1249120_1853182_83347773.wav, i cant sleep because of cough,i cant sleep because of cough,Respiratory issue,0.0,0.0345
+1249120_15965551_53555531.wav, my chest acne breaks out and never clears up,my chest acne breaks out and never clears up,Hair and skin issues,0.0,0.0227
+1249120_15965551_64170568.wav, fels skull is cracked like nuts,fell skull is cracked like nuts,,0.1667,0.0645
+1249120_15004831_91499716.wav, i feel pain in my right shoulder after the tennis match,i feel pain in my right shoulder after the tennis match,Wound and injury,0.0,0.0182
+1249120_17632529_18447121.wav, my neck hurts me and i cant look down or up,my neck hurts me and i cant look down or up,"Neck, back or spinal issues",0.0,0.0233
+1249120_17632529_57285505.wav, i usually have a bad cough when i get flu,i usually have a bad cough when i get flu,Respiratory issue,0.0,0.0244
+1249120_14353703_42327184.wav, i felt my heart hurts when i ran for a long distance,i felt my heart hurts when i ran for along distance,Chest pain,0.1818,0.0392
+1249120_15965551_64987640.wav, it is like having a needle pushing through my heart,it is like i have a needle pushing through my heart,Chest pain,0.1818,0.1176
+1249120_17632529_48151722.wav, i feel pain in my heart when i wake up,i feel pain in my heart when i wake up,Chest pain,0.0,0.0263
+1249120_13842059_17269028.wav, my left ear is okay but the right one feels like it is being stabbed with a nail,my left ear is ok but the right one feels like its being stabbed with a nail,Sensory issues,0.1765,0.0658
+1249120_1853182_41518759.wav, my kneecap feels like it is grating bone on bone when i walk,my kneecap feels like it is grating bone on bone when i walk,Leg and foot pain,0.0,0.0167
+1249120_6338946_30170052.wav, i dont have the energy to do the things that i used to,i dont have the energy to do the things that i used to,General weakness,0.0,0.0185
+1249120_13842059_90176324.wav, my heart hurts me,my heart hurts me,Chest pain,0.0,0.0588
+1249120_2171654_77229012.wav, im disappointed,im disappointed,Emotional and mental health,0.0,0.0667
+1249120_15830408_80692501.wav, i feel weak all over,i feel weak all over,General weakness,0.0,0.05
+1249120_2171654_21861362.wav, i have a headache every time i eat ice cream,i have a headache every time i eat ice cream,,0.0,0.0227
+1249120_13842059_94785546.wav, there are some pimples on my face that bother me a lot,there are some pimples on my face that bother me a lot,Hair and skin issues,0.0,0.0185
+1249120_2171654_29859521.wav, sometimes when its cold outside my face hurts especially around the pimples that are ready to pop,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,Hair and skin issues,0.1111,0.0303
+1249120_1853182_59775853.wav, i feel pain when i think of her,i feel pain when i think of her,Emotional and mental health,0.0,0.0323
+1249120_2171654_55752894.wav, every time i comb my hair there are so many hair in my comb,every time i comb my hair there are so many hair in my comb,Hair and skin issues,0.0,0.0169
+1249120_15004831_76313457.wav, i feel lightheaded when i stand up,i feel lightheaded when i stand up,Dizziness and vertigo,0.0,0.0294
+1249120_1853182_72433040.wav, im feeling cold though the temperature is high,i m feeling cold though the temperature is high,Feeling cold/hot,0.2222,0.0426
+1249120_15830408_29803997.wav, i have a pain in my stomach,i have a pain in my stomach,Internal pain,0.0,0.037
+1249120_15004831_69878350.wav, chronic disease of hair follicles and sebaceous glands,chronic disease of hair follicles and sebaceous glands,Hair and skin issues,0.0,0.0185
+1249120_1853182_16774392.wav, i cant sleep i have a hard cough,i cant sleep i have a hard cough,Respiratory issue,0.0,0.0312
+1249120_15004831_92499879.wav, i feel dizzy after doing a muscular effort,i feel dizzy after doing a muscular effort,Dizziness and vertigo,0.0,0.0238
+1249120_15965551_75075551.wav, i have a throbbing in my joints,i have a throbbing in my joints,Muscle and joint pain,0.0,0.0323
+1249120_6338946_90024404.wav, there must be something wrong with my blood circulation i have to wear socks even on the hottest days my toes are frozen,there must be something wrong with my blood circulation i have to wear socks even on the hottest days my toes are frozen,Feeling cold/hot,0.0,0.0083
+1249120_15965551_98145234.wav, my neck is annoying me i cant sleep a little bit,my neck is annoying me i cant sleep bacause of it,"Neck, back or spinal issues",0.2727,0.2245
+1249120_15830408_69507749.wav, i feel a burning sensation in my guts about two hours after each meal,i feel a burning sensation in my guts about  hours after each meal,Digestive issues,0.0769,0.0606
+1249120_6338946_88168612.wav, i used a lot of painkiller to get better but i still feel the same back pain,i used alot of pain killer to get better but i still feel the same back pain,"Neck, back or spinal issues",0.2353,0.0395
+1249120_14353703_43184435.wav, when i bend over i get a shooting pain down my back,when i bend over i get a shooting pain down my back,"Neck, back or spinal issues",0.0,0.0196
+1249120_1853182_104591849.wav, i have throbbing in my shoulder,i have throbing in my shoulder,Shoulder pain,0.1667,0.0667
+1249120_15965551_57015604.wav, i got acne when i ate chilli,i got acne when i ate chili,Hair and skin issues,0.1429,0.0741
+1249120_6338946_67908066.wav, i feel pain inside i do not know what it is,i feel pain inside i do not know what it is,Internal pain,0.0,0.0233
+1249120_13842059_13041979.wav, my shoulder hurts me so much,my shoulder hurts me so much,Shoulder pain,0.0,0.0357
+1249120_2171654_56814700.wav, my entire body is freezing,my entire body is freezing,Feeling cold/hot,0.0,0.0385
+1249120_6338946_15712228.wav, when i get up i see my skin vague,when i get up i see my skin vague,Hair and skin issues,0.0,0.0303
+1249120_13842059_11964685.wav, i feel suicidal,i feel suicidal,Emotional and mental health,0.0,0.0667
+1249120_15004831_91661588.wav, my neck feels stiff,my neck feels stiff,"Neck, back or spinal issues",0.0,0.0526
+1249120_14353703_59179591.wav, i feel very hard to breathe,i feel very hard to breathe,,0.0,0.037
+1249120_13842059_104469105.wav, i have a painful cramp in my feet,i have a painful cramp in my feet,Leg and foot pain,0.0,0.0303
+1249120_14353703_101806535.wav, i feel a great pain in my shoulder when i try to lift something heavy,i feel a great pain in my shoulder when i try to lift something heavy,Shoulder pain,0.0,0.0145
+1249120_15004831_50312267.wav, i cant get a girlfriend because of my acne,i cant get a girlfriend because of my acne,Hair and skin issues,0.0,0.0238
+1249120_6338946_86403094.wav, i have a blurry vision after my head was hit yesterday,i have a blurry vision after my head was hit yesterday,Sensory issues,0.0,0.0185
+1249120_1853182_11719913.wav, i cant move my head up and down,i cant move my head up and down,"Neck, back or spinal issues",0.0,0.0323
+1249120_13842059_98611758.wav, i feel a stiffness in my elbows and shoulders,i fell a stiffness in my elbows and shoulders,Muscle and joint pain,0.1111,0.0444
+1249120_15004831_17179802.wav, using here a tonic,using hair tonic,Hair and skin issues,0.6667,0.375
+1249120_15004831_56564278.wav, it feels like i cant take a deep breath,it feels like i cant take a deep breath,,0.0,0.0256
+1249120_15004831_108516031.wav, when i do hard exercises i feel great pain in my muscles,when i do hard exercises i feel great pain in my muscles,Muscle and joint pain,0.0,0.0179
+1249120_1853182_105717969.wav, i feel cold although we are in summer,i feel cold although we are in summer,Feeling cold/hot,0.0,0.027
+1249120_15004831_64958100.wav, i feel a lot of pain in the joints,i feel a lot of pain in the joints,Muscle and joint pain,0.0,0.0294
+1249120_1853182_58917703.wav, i have an open wound in my arm,i have an open wound in my arm,Wound and injury,0.0,0.0333
+1249120_1853182_18541998.wav, glass broken and wound my leg badly the wound is so wide,glass broken and wound my leg badly the wound is so wide,Wound and injury,0.0,0.0179
+1249120_13842059_35254053.wav, my grandmother last year went to hospital because she was having a hard time breathing,my grandmother last year went to hospital because she was having a hard time breathing,,0.0,0.0116
+1249120_13842059_34188483.wav, i was playing football and injured with joint pain,i was playing football and injuried with joint pain,Muscle and joint pain,0.1111,0.0392
+1249120_1853182_97080563.wav, i feel very weak in my body,i feel very weak in my body,General weakness,0.0,0.037
+1249120_15004831_53829738.wav, my skin is itching,my skin is itching,Hair and skin issues,0.0,0.0556
+1249120_2171654_88200667.wav, i have shoulder pain when i try to carry my groceries,i have shoulder pain when i try to carry my groceries,Shoulder pain,0.0,0.0189
+1249120_17632529_62131809.wav, i have blurred vision,i have blurred vision,Sensory issues,0.0,0.0476
+1249120_17632529_49432935.wav, heavy breath with fatigue,heavy breath with fatigue,Emotional and mental health,0.0,0.04
+1249120_1853182_68863089.wav, i have an internal pain i cannot describe,i have an internal pain i cannot describe,Internal pain,0.0,0.0244
+1249120_15965551_65155573.wav, the warming system of my house is broken and feel so cold,the warming system of my house is broken and  feel so cold,Feeling cold/hot,0.0,0.0345
+1249120_6338946_15167470.wav, im not feeling good i get infection wound,im not feeling good i get infection wound,Wound and injury,0.0,0.0244
+1249120_2171654_50700157.wav, my hair isnt well,my hair isnt well,Hair and skin issues,0.0,0.0588
+1249120_15004831_42760211.wav, i have a pain in my joint,i have a pain in my joint,Muscle and joint pain,0.0,0.04
+1249120_15830408_57076220.wav, i got injured exercising,i got injured exercising,Wound and injury,0.0,0.0417
+1249120_2171654_99667288.wav, i feel a burning sensation in my guts about two hours after each meal,i feel a burning sensation in my guts about  hours after each meal,Digestive issues,0.0769,0.0606
+1249120_1853182_107248900.wav, bone disease at the level of the doubles of the lower estromedates,chronic bone disease at the level of the doubles of the lower estremidades,Leg and foot pain,0.1538,0.1351
+1249120_15004831_49995030.wav, i am not good i feel dizzy,im not good i feel dizzy,Dizziness and vertigo,0.3333,0.125
+1249120_14353703_80140056.wav, yesterday i had a shoulder pain,yesterday i had a shouder pain,Shoulder pain,0.1667,0.0667
+1249120_15965551_42589900.wav, im disappointed,im disappointed,Emotional and mental health,0.0,0.0667
+1249120_13842059_46594173.wav, my neck hurts me and i cant stand with this pain,my neck hurts me and i cant stand with this pain,"Neck, back or spinal issues",0.0,0.0208
+1249120_15004831_79309370.wav, i feel a burning sensation in my shoulder muscle,i feel a burning sensation in my shoulder muscle,Muscle and joint pain,0.0,0.0208
+1249120_2171654_72896212.wav, i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,i started taking swimming lessons and i guess i swallowed too much water through my nose because this sinusitis is killing me now,Wound and injury,0.0,0.0078
+1249120_14353703_18316468.wav, i have eruptions on my face that come and go,i have eruptions on my face that come and go ,Hair and skin issues,0.0,0.0444
+1249120_13842059_42630071.wav, my chest hurts when i smoke,my chest hurts when i smoke,Internal pain,0.0,0.037
+1249120_13842059_15629457.wav, i have a hair shortage,i have a hair shortage,Hair and skin issues,0.0,0.0455
+1249120_15830408_20446817.wav, i feel my heart hurts when i run for a long distance,i felt my heart hurts when i ran for along distance,Chest pain,0.3636,0.098
+1249120_17632529_46123338.wav, i feel cold although we are in summer,i feel cold although we are in summer,Feeling cold/hot,0.0,0.027
+1249120_13842059_46343929.wav, i cant get a girlfriend because of my acne,i cant get a girlfriend because of my acne,Hair and skin issues,0.0,0.0238
+1249120_6338946_75803650.wav, i feel pain in the knee,i feel pain in the knee,Leg and foot pain,0.0,0.0435
+1249120_15004831_33938813.wav, i was playing football and injured with joint pain,i was playing football and injuried with joint pain,Muscle and joint pain,0.1111,0.0392
+1249120_14353703_23293673.wav, i have a blurry vision and i cant see in the darkness what is the reason doctor,i have a blurry vision and i cant see in the darkness  what is the reason doctor ,Sensory issues,0.0,0.037
+1249120_13842059_98325162.wav, i have cut my finger because of playing football and i apply pain relief cream but it does not help,i hve cut my finger because of playing football and i  to apply pain relief cream but it does not help,Wound and injury,0.0952,0.0588
+1249120_2171654_81550022.wav, i dont do anything at home and still i feel exhausted,i dont do anything at home and still i feel exhausted,General weakness,0.0,0.0189
+1249120_17632529_48764176.wav, my arm hurts when i stretch,my arm hurts when i stretch,Muscle and joint pain,0.0,0.037
+1249120_15004831_41941038.wav, my hair is falling without a reason i can see a lot of hair on my working desk,my hair is falling without a reason i can see a lot of hair on my working desk,Hair and skin issues,0.0,0.0128
+1249120_1853182_58078131.wav, my back hurts so much i cant bend down to tie my shoelaces,my back hurts so much i cant bend down to tie my shoelaces,"Neck, back or spinal issues",0.0,0.0172
+1249120_15004831_17819347.wav, i sliced myself deeply with a knife while i was cooking,i sliced myself deeply with a knife while i was cooking,Wound and injury,0.0,0.0182
+1249120_13842059_19948105.wav, i cant see the sign i have a blurry vision,i cant see the sign i have a blurry vision,Sensory issues,0.0,0.0238
+1249120_15004831_41074487.wav, i feel discomfort throughout the body in general,i feel discomfort throughout the body in general,General weakness,0.0,0.0208
+1249120_13842059_18087389.wav, i am suffering from sharp cough accompanied by phlegm,im suffering from sharp cough accompanied by  phlegm,Respiratory issue,0.25,0.0769
+1249120_14353703_45949288.wav, i feel a burning sensation in my guts about two hours after each meal,i feel a burning sensation in my guts about  hours after each meal,Digestive issues,0.0769,0.0606
+1249120_6338946_17384843.wav, i feel cold and chills even though my clothes are heavy,i feel cold and chills even though my clothes are heavy,Feeling cold/hot,0.0,0.0182
+1249120_13842059_82864672.wav, i have dry skin,i have a dry skin,Hair and skin issues,0.2,0.1765
+1249120_14353703_26349751.wav, i feel something hurt me in taking breath and i cant take my breath,i feel something hurt me in taking breath and i cant take my breath,,0.0,0.0149
+1249120_15004831_53007975.wav, i cant carry anything i have a pain in my shoulder,i cant carry anything i have a pain in my shoulder,Shoulder pain,0.0,0.02
+1249120_14353703_73504522.wav, i have a pain in my stomach,i have a pain in my stomach,Internal pain,0.0,0.037
+1249120_17632529_50143584.wav, glass broken and wound my leg badly the wound is so wide,glass broken and wound my leg badly the wound is so wide,Wound and injury,0.0,0.0179
+1249120_15004831_53994437.wav, my upper back has been sore for a week,my upper back has been sore for a week,"Neck, back or spinal issues",0.0,0.0263
+1249120_2171654_71143170.wav, i have injured myself during the soccer match,i have injured myself during the soccer match,Wound and injury,0.0,0.0222
+1249120_1853182_86923401.wav, my face break out badly every month around my cycle,my face break out badly every month around my cycle,Hair and skin issues,0.0,0.0196
+1249120_2171654_40843730.wav, the crushing sensation on my heart leaves me breathless,the crushing sensation on my heart leaves me breathless,Chest pain,0.0,0.0182
+1249120_14353703_13615707.wav, sometimes when its cold outside my face hurts especially around the pimples that are ready to pop,sometimes when it is cold outside my face hurts especially around the pimples that are ready to pop,Hair and skin issues,0.1111,0.0303
+1249120_15004831_102235056.wav, i feel a clicking sensation in my knee each time i step,i feel a clicking sensation in my knee each time i step,Muscle and joint pain,0.0,0.0182
+1249120_15004831_55550562.wav, when i go to stand my head starts swirling,when i go to stand my head starts swirling,Dizziness and vertigo,0.0,0.0238
+1249120_17632529_42877586.wav, i have a cold and it makes me cough a lot,i have a cold and it makes me cough alot,Respiratory issue,0.2,0.05
+1249120_17632529_21215852.wav, my knees hurt so bad to walk that i stay sitting more than i should,my knees hurt so bad to walk that i stay sitting more than i should,Leg and foot pain,0.0,0.0149
+1249120_1853182_21950254.wav, i have a foot ache in winter or when it feels cold why,i have a foot ache in winter or when it feels cold why,Leg and foot pain,0.0,0.0185
+1249120_6338946_93472974.wav, my back is hurting so much,my back is hurting so much,"Neck, back or spinal issues",0.0,0.0385
+1249120_2171654_41417201.wav, i feel weak all over,i feel weak all over,General weakness,0.0,0.05
+1249120_1853182_32862512.wav, i traveled by plane a few days ago and this time during landing my ears remained clogged and painful,i travelled by plane a few days ago and this time during landing my ears remained clogged and painful,Sensory issues,0.0526,0.0198
+1249120_15004831_107186195.wav, i complain a lot with my neck pain and i really need to be better,i complain alot with my neck pain and i really need to be better,"Neck, back or spinal issues",0.1429,0.0312
+1249120_6338946_73782556.wav, hearing any loud sounds makes my ear aches,hearing any loud sounds makes my ear aches,Sensory issues,0.0,0.0238
+1249120_15965551_65583273.wav, i got injured exercising,i got injured exercising,Wound and injury,0.0,0.0417
+1249120_2171654_89836131.wav, the area around my heart doesnt feel good,the area around my heart doesnt feel good,Chest pain,0.0,0.0244
+1249120_17632529_34804800.wav, i have a dull ache in my head,i have a dull ache in my head,,0.0,0.0345
+1249120_15004831_93458174.wav, my head gets dizzy when i try to get up,my head gets dizzy when i try to get up,Dizziness and vertigo,0.0,0.0256
+1249120_13842059_33116980.wav, i have tried to make massage on my foot but they still pain me,i have tried to make massage on my foot but they still pain me,Leg and foot pain,0.0,0.0161
+1249120_17632529_41977164.wav, i feel pain in my knee when i climb the stairs,i feel pain in my knee when i climb the stairs,Muscle and joint pain,0.0,0.0217
+1249120_6338946_14129561.wav, when i tried to take care of my hair i found that it is falling out,when i tried to take care if my hair i found that it is falling out,Hair and skin issues,0.0625,0.0299
+1249120_14353703_100698095.wav, when i stand up too quickly i start to feel dizzy and lightheaded,when i stand up too quickly i start to feel dizzy and lightheaded,Dizziness and vertigo,0.0,0.0154
+1249120_6338946_85634288.wav, i wake up with a stiff neck every morning massage helps but then a couple of days later its back again,i wake up with a stiff neck every morning  massage helps but then a couple of days later its back again,"Neck, back or spinal issues",0.0,0.0194
+1249120_14353703_106041220.wav, i was watching tv and suddenly have blurry vision,i was watching tv and suddenly have blurry vision,Sensory issues,0.0,0.0204
+1249120_13842059_25244471.wav, my upper back has been sore for a week,my upper back has been sore for a week,"Neck, back or spinal issues",0.0,0.0263
+1249120_1853182_27666952.wav, i have blurred vision,i have blurred vision,Sensory issues,0.0,0.0476
+1249120_15004831_21919890.wav, i have cut my finger because of playing football and i have to apply pain relief cream but it does not help,i have cut my finger because of playing football and i have to apply pain relief cream but it does not help,Wound and injury,0.0,0.0093
+1249120_2171654_56112117.wav, when i raise my hand i feel pain in my shoulder,when i raise my hand i feel pain in my shoulder,Shoulder pain,0.0,0.0213
+1249120_6338946_11265543.wav, i just cant seem to get warm even when everyone around me is warm i always feel cold,i just cant seem to get warm  even when everyone around me is warm i always feel cold,Feeling cold/hot,0.0,0.0235
+1249120_2171654_106871860.wav, when i bend over i get a shooting pain down my back,when i bend over i get a shooting pain down my back,"Neck, back or spinal issues",0.0,0.0196
+1249120_15965551_25492795.wav, my hair isnt well,my hair isnt well,Hair and skin issues,0.0,0.0588
+1249120_14353703_41394319.wav, im disappointed,im disappointed,Emotional and mental health,0.0,0.0667
+1249120_2171654_37539402.wav, i was traveling by ship and i feel dizzy,i was travelling by ship and i feel dizzy,Dizziness and vertigo,0.1111,0.0488
+1249120_13842059_21651846.wav, my hair is falling without a reason i can see a lot of hair on my working dust,my hair is falling without a reason i can see a lot of hair on my working desk,Hair and skin issues,0.0556,0.0385
+1249120_2171654_53079046.wav, i feel a great pain in my shoulder when i try to lift something heavy,i feel a great pain in my shoulder when i try to lift something heavy,Shoulder pain,0.0,0.0145
+1249120_13842059_73296559.wav, when i get up i feel dizzy and fall down,when i get up i feel dizzy and fall down,Dizziness and vertigo,0.0,0.025
+1249120_2171654_32465212.wav, i feel very hard to breathe,i feel very hard to breathe,,0.0,0.037
+1249120_6338946_25689186.wav, i had a pain in my knee when i was swimming,i had a pain in my knee when i was swimming,Leg and foot pain,0.0,0.0233
+1249120_1853182_38598866.wav, i feel pain in my knee when i climb the stairs,i feel pain in my knee when i climb the stairs,Muscle and joint pain,0.0,0.0217
+1249120_17632529_59148406.wav, im feeling cold though the temperature is high,i m feeling cold though the temperature is high,Feeling cold/hot,0.2222,0.0426
+1249120_15004831_58758228.wav, i have an earache that wont go away i dont have a cold or headache or any other symptoms just an earache,i have an ear ache that wont go away  i dont have a cold or headache or any other symptoms  just an earache,Sensory issues,0.087,0.0374
+1249120_14353703_42564912.wav, i usually have a bad cough when i get flu,i usually have a bad cough when i get flu,Respiratory issue,0.0,0.0244
+1249120_15004831_109812806.wav, i cant see the sign i have a blurry vision,i cant see the sign i have a blurry vision,Sensory issues,0.0,0.0238
+1249120_13842059_39489825.wav, he was discovered to have an open wound,he was discovered to have an open wound,Wound and injury,0.0,0.0256

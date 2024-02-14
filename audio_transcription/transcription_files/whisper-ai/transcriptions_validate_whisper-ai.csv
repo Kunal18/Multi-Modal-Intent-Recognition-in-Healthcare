@@ -1,0 +1,767 @@
+File,Transcription,Subset_Name
+1249120_44142156_102691000.wav,{'text': ' My knee feels weak and it gave away the other day at the top of the stairs. Luckily there was a rail to hold onto.'},train
+1249120_44142156_109272216.wav,"{'text': ' I think I sprained my ankle, it really hurts'}",train
+1249120_44142156_103207247.wav,{'text': ' Is my cut infected or just healing?'},train
+1249120_44142156_100535941.wav,{'text': ' I have some terrible problems when I am breathing during the night.'},train
+1249120_44142156_65967262.wav,"{'text': ' If I hit my head at the basketball game, could I have a concussion?'}",train
+1249120_44142156_104815781.wav,"{'text': "" what's the symptoms of appendicitis.""}",train
+1249120_44142156_108918007.wav,"{'text': ' After a breakup, I feel something strange in me.'}",train
+1249120_44142156_61923550.wav,{'text': ' I have a rash and it itches very bad.'},train
+1249120_44142156_108551604.wav,{'text': ' Something dark is there on my arm.'},train
+1249120_44142156_106992412.wav,{'text': ' I have pain in my chest that saddens me.'},train
+1249120_44142156_102100267.wav,{'text': ' I feel really sad all the time.'},train
+1249120_44142156_107416693.wav,"{'text': "" My heart feels like it's going to explode.""}",train
+1249120_44142156_82857166.wav,"{'text': ' When I play sports, I have some burning sensation in my spine.'}",train
+1249120_44142156_68965399.wav,{'text': ' I think there is fluid in my yards.'},train
+1249120_44142156_77498968.wav,{'text': ' There are lots of hairs on my pillow in the morning.'},train
+1249120_44142156_83374589.wav,"{'text': ' After playing tennis, I had a powerful sensation close to my neck.'}",train
+1249120_44142156_72079889.wav,{'text': ' My face is all broken out with pimples.'},train
+1249120_44142156_84118183.wav,"{'text': ' Even if the temperature is high in the house, my body is always cold.'}",train
+1249120_44142156_69073946.wav,"{'text': "" My lean doesn't want to bend well.""}",train
+1249120_44142156_67177464.wav,"{'text': "" My agony is really embarrassing. It's so red.""}",train
+1249120_44142156_72116310.wav,{'text': ' There is a tingling sensation in my neck.'},train
+1249120_44142156_78886399.wav,"{'text': ' When I wake in the morning, I feel strange and have a heart attack.'}",train
+1249120_44142156_81211021.wav,{'text': ' I have constant stomach pain and bloating.'},train
+1249120_44142156_71498583.wav,{'text': ' it inches inside my ears'},train
+1249120_44142156_72195575.wav,{'text': ' My stomach feels full and upset and bloating after big meals.'},train
+1249120_44142156_81969965.wav,"{'text': ' When I am doing sport, I have pain under my skin.'}",train
+1249120_44142156_68688606.wav,{'text': ' My head hurts in the back and the pain lasts all day.'},train
+1249120_44142156_72215245.wav,{'text': ' In the morning my respiration is loud.'},train
+1249120_44142156_85471796.wav,"{'text': "" I feel like I just can't cope anymore. I feel overwhelmed and like I just can't get a break.""}",train
+1249120_44142156_85979757.wav,{'text': ' When I am driving my eyes see in double'},train
+1249120_44142156_96389835.wav,{'text': ' When I woke up a flight upstairs my right knee hurts.'},train
+1249120_44142156_96248379.wav,"{'text': ' My mind feels very sad as if it hurts. The way I feel in my head is awful and when I think about my breakup, I cry with sadness.'}",train
+1249120_44142156_95959757.wav,{'text': ' I have a card that is red and so on.'},train
+1249120_44142156_98856249.wav,"{'text': "" I can't hear out of my ear properly. I feel like there is something in it causing irritation.""}",train
+1249120_44142156_87393869.wav,"{'text': "" My husband left me for another woman. My heart hurts so badly to the point I can't eat or sleep.""}",train
+1249120_44142156_95625169.wav,{'text': ' I cannot get warm no matter how much I work up or how high I put the heating on.'},train
+1249120_44142156_87050205.wav,{'text': ' Mr. Hair is falling out just by combing it.'},train
+1249120_44142156_92669868.wav,{'text': ' I get chills and aches all over.'},train
+1249120_44142156_92200558.wav,{'text': ' I have been over my cold for weeks but still cough everyday.'},train
+1249120_44160489_15134043.wav,"{'text': ' I have whooping cough with excess mucus, need mucolytic'}",train
+1249120_44160489_103212940.wav,{'text': ' After an hard working day I have food as a'},train
+1249120_44160489_10247966.wav,{'text': ' I have general discomfort on my torso'},train
+1249120_44160489_104477041.wav,{'text': ' The wound is still open'},train
+1249120_44142156_99940305.wav,{'text': ' I have a very rough sensation close to my arms.'},train
+1249120_44160489_102714693.wav,{'text': ' I have dark spot on my skin'},train
+1249120_44142156_98978171.wav,{'text': ' My hair is falling out in bunches.'},train
+1249120_44160489_107722835.wav,{'text': ' I feel deep tingling when I touch a nail followed by bad sensation'},train
+1249120_44160489_102101174.wav,{'text': ' I stopped sport because I got injured from sport'},train
+1249120_44160489_102120596.wav,{'text': ' Feels like there are pins and needles sticking my joints.'},train
+1249120_44142156_99534301.wav,{'text': ' It feels like my heart is going to leap out of my body. It hurts.'},train
+1249120_44160489_107692984.wav,{'text': ' My coach is very heavy and I have muckers.'},train
+1249120_44160489_10758647.wav,{'text': ' can click focus'},train
+1249120_44160489_84795394.wav,{'text': ' My right shoulder clicks when I move my arm'},train
+1249120_44160489_64500032.wav,{'text': ' My wand opened up again.'},train
+1249120_44160489_53189650.wav,{'text': ' I feel pain in my back'},train
+1249120_44160489_85279792.wav,{'text': ' I can hardly breath it.'},train
+1249120_44160489_39396966.wav,{'text': ' My head is spinning when I get up.'},train
+1249120_44160489_90541690.wav,{'text': ' I have a sharp pain in my ear'},train
+1249120_44160489_51266275.wav,{'text': ' I feel severe tingling in the skin with redness'},train
+1249120_44160489_68617378.wav,{'text': ' I think my wand is infected'},train
+1249120_44160489_54954142.wav,{'text': ' There is a sharp pain in my bicep'},train
+1249120_44160489_80710551.wav,{'text': ' I have severe shoulder pain'},train
+1249120_44160489_27371028.wav,"{'text': "" I have a problem in my back I can't extend it either""}",train
+1249120_44160489_16357195.wav,{'text': ' I feel pain in the joint after an injury in the last football match I played.'},train
+1249120_44160489_54710844.wav,{'text': ' My shoulder is hurting me.'},train
+1249120_44160489_28078826.wav,{'text': ' I feel pain in my knee.'},train
+1249120_44160489_24871058.wav,{'text': ' I feel pain in my throat.'},train
+1249120_44176037_104828775.wav,{'text': ' I was traveling by ship and I feel dizzy.'},train
+1249120_44176037_20693902.wav,{'text': ' I feel a great pain in my shoulder when I try to lift something heavy.'},train
+1249120_44176037_20150035.wav,{'text': ' I got injured exercising.'},train
+1249120_44174241_12756709.wav,"{'text': "" Don't try.""}",train
+1249120_44176037_30126275.wav,"{'text': "" My head hurts when I'm doing this.""}",train
+1249120_44176037_101499318.wav,{'text': ' Fell skull is cracked like nuts.'},train
+1249120_44176037_102837935.wav,{'text': ' I have a pain in my head.'},train
+1249120_44176037_103421573.wav,{'text': ' I have injured myself during the soccer match.'},train
+1249120_44176037_100251532.wav,{'text': ' My lower back hurts but it improves if I stretch it.'},train
+1249120_44176037_31708444.wav,"{'text': "" I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.""}",train
+1249120_44174241_49139594.wav,"{'text': ' Hello, I am Chauhan.'}",train
+1249120_44176037_105110482.wav,{'text': ' I got acne when I ate chili.'},train
+1249120_44174241_106127699.wav,{'text': ' I am not shea cat'},train
+1249120_44160489_93769999.wav,"{'text': ' It started as a timid it was, but today the pain is growing and unbearable.'}",train
+1249120_44176037_17869624.wav,{'text': ' My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.'},train
+1249120_44176037_46744530.wav,{'text': ' Yesterday I had a shouter pain.'},train
+1249120_44176037_35370988.wav,"{'text': "" I feel something hurt me in taking breath and I can't take my breath.""}",train
+1249120_44176037_58635902.wav,"{'text': "" I was diagnosed with pneumonia. I can't breathe easily.""}",train
+1249120_44176037_43767120.wav,{'text': ' itch at front and center of scalp'},train
+1249120_44176037_60338690.wav,{'text': ' I have a headache every time I eat ice cream.'},train
+1249120_44176037_31789912.wav,"{'text': ' When I force my eyes to view, I have blurry vision.'}",train
+1249120_44176037_51165744.wav,{'text': ' My shoulder has a great pain.'},train
+1249120_44176037_49505826.wav,{'text': ' My entire body is freezing.'},train
+1249120_44176037_42605776.wav,{'text': ' I do not know why I feel cold.'},train
+1249120_44176037_48938284.wav,{'text': ' The warming system of my house is broken and feel so cold.'},train
+1249120_44176037_55180782.wav,{'text': ' I feel weak all over.'},train
+1249120_44176037_55272412.wav,"{'text': "" I have a great stomach ache and I can't eat anything.""}",train
+1249120_44176037_43171240.wav,{'text': ' I feel a burning sensation in my guts about two hours after each meal.'},train
+1249120_44176037_36286796.wav,{'text': ' My calves feel like they are tight as knots and are throbbing.'},train
+1249120_44176037_60482144.wav,{'text': ' I started taking swimming lessons and I guess I swallowed too much water through my nose because this cyanestis is killing me now.'},train
+1249120_44176037_39613511.wav,{'text': ' It is like I have a needle pushing through my heart.'},train
+1249120_44176037_87479535.wav,"{'text': "" I don't have full range of motion with my arms.""}",train
+1249120_44176037_91490605.wav,"{'text': "" The area around my heart doesn't feel good.""}",train
+1249120_44176037_85896912.wav,{'text': ' I feel dizzy when I sit in front of my laptop for an hour or two. What possibly could be the reason?'},train
+1249120_44176037_67765155.wav,{'text': ' stiffness and ability to look right or left except by moving the whole body.'},train
+1249120_44176037_85065458.wav,"{'text': ' Every time I comb my hair, there are so many hair in my comb.'}",train
+1249120_44176037_70844058.wav,{'text': ' I have a neck pain when I sit in front of my laptop.'},train
+1249120_44176037_96532055.wav,{'text': ' I feel muscle pain every time I make an extra effort.'},train
+1249120_44176037_78861186.wav,"{'text': "" I can't stand up or sit down. I have a pain in my back that annoys me.""}",train
+1249120_44176037_73192675.wav,{'text': ' I have eruptions on my face that come and go.'},train
+1249120_44176037_93714115.wav,{'text': ' I have a hard muscle pain since I went to the gym.'},train
+1249120_44176037_92329827.wav,{'text': ' I have terrible pain in my heart.'},train
+1249120_44176037_70263526.wav,{'text': ' I feel a soreness in my knees when I walk.'},train
+1249120_44188922_39157694.wav,{'text': ' When I play football I have muscle pain.'},train
+1249120_44188922_37008932.wav,"{'text': "" I can't do anything, I feel a weak in my body.""}",train
+1249120_44188922_16615356.wav,{'text': ' When I tried to be warm and wear more clothes I found that I was still cold'},train
+1249120_44188922_16063469.wav,{'text': ' Surgical wood infections.'},train
+1249120_44188922_72403928.wav,{'text': ' I carried a heavy bag yesterday and when I get up today I felt a great shoulder pain.'},train
+1249120_44188922_87700489.wav,{'text': ' Every time I look to the left I feel a sharp pain in my neck.'},train
+1249120_44188922_44459296.wav,"{'text': "" I can't stand with this horrible feeling in my stomach.""}",train
+1249120_44188922_27414258.wav,{'text': ' The severe pain in the stomach I feel.'},train
+1249120_44188922_100192750.wav,{'text': ' My left side aches much.'},train
+1249120_44188922_24155893.wav,"{'text': "" I can't stand up, I feel my brain is moving inside my skull.""}",train
+1249120_44188922_72628605.wav,{'text': ' my knee is hurting so bad'},train
+1249120_44188922_49011235.wav,{'text': ' When I get up I see my knees fake.'},train
+1249120_44188922_47265010.wav,{'text': ' The wrist pain and the muscles I do not know caused.'},train
+1249120_44176037_97090559.wav,{'text': ' My chest acne breaks out and never clears up.'},train
+1249120_44176037_98460166.wav,"{'text': ' When I move on my shoulder, pain shoots down my arm.'}",train
+1249120_44194084_101287990.wav,{'text': ' My hair is falling out after I take a shower.'},train
+1249120_44188922_11401591.wav,{'text': ' I wake up at night feeling cold.'},train
+1249120_44188922_65865605.wav,{'text': ' My lungs feel heavy like they are filled with mucus.'},train
+1249120_44194084_102319210.wav,{'text': ' I feel joint pain every time I move.'},train
+1249120_44194084_33388678.wav,{'text': ' There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.'},train
+1249120_44194084_21837810.wav,"{'text': "" I have a blurry vision and I can't see in the darkness. What is the reason doctor?""}",train
+1249120_44194084_14380548.wav,{'text': ' When I played football I dislocated my shoulder.'},train
+1249120_44194084_23344116.wav,"{'text': ' I am always cold, even when I am wearing layers.'}",train
+1249120_44194084_106877624.wav,{'text': ' When I force my eyes to view I have blurry vision.'},train
+1249120_44194084_11548354.wav,{'text': ' I was traveling by ship and I feel dizzy.'},train
+1249120_44194084_23561131.wav,{'text': ' I had an accident and my wound was open when I arrived to hospital.'},train
+1249120_44194084_30706560.wav,{'text': ' I have a hard muscle pain since I went to the gym.'},train
+1249120_44194084_73260076.wav,{'text': ' It is like I have a needle pushing through my heart.'},train
+1249120_44194084_44797818.wav,{'text': ' I have cloudy eyes.'},train
+1249120_44194084_42535299.wav,{'text': ' My knees swell right below the kneecap and hurt when I put weight on them.'},train
+1249120_44194084_63274838.wav,{'text': ' My entire body is freezing.'},train
+1249120_44194084_75430110.wav,{'text': ' I had a lot of exercise yesterday so I feel sharp muscle pains.'},train
+1249120_44194084_76179803.wav,"{'text': "" The area around my heart doesn't feel good.""}",train
+1249120_44194084_66799562.wav,{'text': ' I have muscle pain at my left leg.'},train
+1249120_44194084_57451169.wav,{'text': ' The nerves were so damaged during the operation on my ankle that I cannot stand being touched on the scar.'},train
+1249120_44194084_38897026.wav,"{'text': "" I don't know why I feel cold.""}",train
+1249120_44194084_36071243.wav,"{'text': ' Redness, swelling and difficulty walking.'}",train
+1249120_44194084_64350531.wav,{'text': ' I feel very hard to breathe.'},train
+1249120_44194084_60307790.wav,{'text': ' I got acne when I ate chili.'},train
+1249120_44194084_99534522.wav,"{'text': "" Had I stepped on a needle it wouldn't have hurt so much like this damned spur in my heel.""}",train
+1249120_44194084_78425142.wav,"{'text': ' I feel a pain on the left side of my chest, where my heart is.'}",train
+1249120_44194084_84444846.wav,"{'text': "" I have a great stomach ache and I can't eat anything.""}",train
+1249120_44194084_82467491.wav,{'text': ' When I extend my leg there is pain in knee joint.'},train
+1249120_44194084_84873413.wav,"{'text': "" I have pain, but I can't specify a place.""}",train
+1249120_44197979_101179113.wav,{'text': ' I have some pain when I am walking around my knees'},train
+1249120_44194084_78628508.wav,{'text': ' My abdominal muscles have great pain since I was a gym.'},train
+1249120_44194084_96884094.wav,{'text': ' My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.'},train
+1249120_44194084_90297861.wav,{'text': ' I feel a pain in my back when I sit on a chair for long.'},train
+1249120_44194084_86305259.wav,{'text': ' I cannot breathe because of this dull ache below my left shoulder.'},train
+1249120_44197979_17790138.wav,{'text': ' In the morning my respiration is loud.'},train
+1249120_44197979_28613717.wav,{'text': ' I have shooting pains up and down my back'},train
+1249120_44197979_33751084.wav,"{'text': "" My knee feels weak and it can't weigh the other day at the top of the chair. Luckily there was a reel to hold onto.""}",train
+1249120_44197979_28707699.wav,{'text': ' I have a shoppin in my app'},train
+1249120_44197979_25913472.wav,{'text': ' there is a tingling sensation in my neck'},train
+1249120_44197979_24602195.wav,"{'text': "" I'm having a hard time hearing""}",train
+1249120_44197979_20569127.wav,"{'text': "" I can't hear out of my ear properly I feel like there is something in it's cause and effect""}",train
+1249120_44197979_15645117.wav,"{'text': "" My foot hurts and I can't turn it. Maybe it's broken.""}",train
+1249120_44197979_109954671.wav,{'text': ' When I get out of bed in the morning my body feels very weak'},train
+1249120_44197979_20013077.wav,{'text': ' I was very active in sports but now my body is feeling pain'},train
+1249120_44197979_101938772.wav,{'text': ' My hair is coming out in chunks especially when I wash it'},train
+1249120_44197979_105003496.wav,{'text': ' there are a lot of hair on my pillow in the morning'},train
+1249120_44197979_32298536.wav,{'text': ' Is my cut infected or just healing?'},train
+1249120_44197979_13841335.wav,{'text': ' When I play sports I have some burning sensation in my spins.'},train
+1249120_44197979_20977118.wav,"{'text': ' I can hardly move my neck, it hurts'}",train
+1249120_44197979_16652752.wav,"{'text': "" My knee doesn't want to bend well.""}",train
+1249120_44197979_10146538.wav,{'text': ' I cut myself and I am bleeding'},train
+1249120_44197979_23991689.wav,{'text': ' I have a sharp pain in my lower'},train
+1249120_44197979_24171259.wav,{'text': ' It feels like my heart is going to leak out of my body.'},train
+1249120_44197979_10689366.wav,{'text': ' I have a head pain every single day.'},train
+1249120_44197979_16640086.wav,"{'text': ' I have a dull acne in my stomach, it gets worse after I eat.'}",train
+1249120_44197979_39556611.wav,{'text': ' After eating I have burning sensation inside of me.'},train
+1249120_44197979_57846774.wav,{'text': ' I have pain in my chest that saddens me.'},train
+1249120_44197979_54284586.wav,{'text': ' I feel really sad all the time'},train
+1249120_44197979_45397169.wav,{'text': ' I have constant storm watch pain and bloating'},train
+1249120_44197979_55734126.wav,{'text': ' when I am driving my ICs in double'},train
+1249120_44197979_47304903.wav,"{'text': "" My sore is not healing well and it's been like this for two weeks.""}",train
+1249120_44197979_54337120.wav,"{'text': "" My husband left me from another woman my heart hurt so badly to the point I can't eat or sleep""}",train
+1249120_44197979_57390405.wav,{'text': ' I have some terrible problems when I am breathing during the nights'},train
+1249120_44197979_44403240.wav,{'text': ' I have the impression of having no strength in my body'},train
+1249120_44197979_34315354.wav,{'text': ' My hair is falling out just by combing it.'},train
+1249120_44197979_44219331.wav,"{'text': "" my acne is really embarrassing it's so weird""}",train
+1249120_44197979_49597906.wav,{'text': ' My head hurts in the back and the pain lasts all day.'},train
+1249120_44197979_41621256.wav,{'text': ' Even if the temperature is high in the house my body is always cold'},train
+1249120_44197979_39096146.wav,"{'text': "" I hit myself and the wood doesn't want to heal""}",train
+1249120_44197979_37064130.wav,"{'text': "" I think they'll explode in my ears""}",train
+1249120_44197979_51659394.wav,{'text': ' I have a rash and it eats very bad'},train
+1249120_44197979_36600706.wav,{'text': ' My heart is pumping fast and I am having a hard time to breathe.'},train
+1249120_44197979_80062945.wav,{'text': ' I have a dull edge in my lower back which makes it difficult to move.'},train
+1249120_44197979_67157406.wav,{'text': ' My hair is falling out in punches'},train
+1249120_44197979_65625118.wav,{'text': ' After playing tennis I had a powerful sensation close to my neck.'},train
+1249120_44197979_83749143.wav,{'text': ' My air is ringing'},train
+1249120_44197979_82186125.wav,"{'text': "" My sword looks like I'm not hitting well""}",train
+1249120_44197979_79023640.wav,{'text': ' My skin is very dry and peeling'},train
+1249120_44197979_69352124.wav,{'text': ' I knocked my foot and it really hurts'},train
+1249120_44197979_58181708.wav,"{'text': "" My heart feels like it's going to explode""}",train
+1249120_44197979_60646664.wav,{'text': ' When I eat sugar I notice my vision blur.'},train
+1249120_44197979_80721411.wav,{'text': ' They are swelling in my neck and it hurts.'},train
+1249120_44197979_59418827.wav,"{'text': "" It's pimples skin disease""}",train
+1249120_44197979_73991480.wav,{'text': ' Even though I am adult my face keeps breaking out in pimples.'},train
+1249120_44197979_68219301.wav,{'text': ' My shoulder hurts when I try to reach something above my head.'},train
+1249120_44197979_64673870.wav,"{'text': "" I can't turn my neck to the left without feeling a stabbing pain.""}",train
+1249120_44197979_66969521.wav,"{'text': "" I can't get warm no matter how much I wrap or how I put the heating on""}",train
+1249120_44197979_83243623.wav,{'text': ' I hit my head at the basketball game could I have a confusion?'},train
+1249120_44197979_75966548.wav,"{'text': "" When I'm tired I feel my head heavy""}",train
+1249120_44197979_76013119.wav,"{'text': "" I have a scab on the back of my hand that just won't go away.""}",train
+1249120_44197979_63101594.wav,{'text': ' Something dark is there on my arm'},train
+1249120_44197979_65618217.wav,{'text': ' I get chills and acne all over'},train
+1249120_44197979_76321767.wav,{'text': ' I have a cut that is red and swollen'},train
+1249120_44197979_58095075.wav,{'text': ' it touches inside my ears'},train
+1249120_44220382_11789129.wav,{'text': ' I need a kind of cream which makes my muscles more relaxed.'},train
+1249120_44220382_10727042.wav,"{'text': "" I have been but I can't specify a place.""}",train
+1249120_44220382_25011036.wav,{'text': ' I have a pain in my elbow joint.'},train
+1249120_44220382_106653870.wav,"{'text': "" I'm not good, I'm feeling so cold.""}",train
+1249120_44197979_99361949.wav,{'text': ' My stomach feels full and upset and bloating after beginning.'},train
+1249120_44220382_17940239.wav,{'text': ' I feel a pain in my back when I sit on a chair for long.'},train
+1249120_44220382_27243340.wav,{'text': ' Severe pain in the upper left side of chest and may have pain to back.'},train
+1249120_44220382_14046541.wav,{'text': ' The nerves were so damaged during the operation of my ankle that I cannot stand being touched on the scar.'},train
+1249120_44220382_29085776.wav,"{'text': ' I feel a pain on the left side of my chest, where my heart is.'}",train
+1249120_44220382_103725302.wav,{'text': ' I had a lot of exercise yesterday so I feel sharp muscle pains.'},train
+1249120_44197979_96903123.wav,"{'text': "" My acne it's and o's""}",train
+1249120_44220382_104802531.wav,{'text': ' I lose a lot of my hair.'},train
+1249120_44220382_30498427.wav,{'text': ' My abdominal muscles have great pain since I was a chimp.'},train
+1249120_44220382_11878893.wav,"{'text': ' Laceration, rupture or opening in the skin.'}",train
+1249120_44220382_18567582.wav,"{'text': ' When I wake up, I am feeling cold.'}",train
+1249120_44197979_92132061.wav,{'text': ' I have a pain that radiates up from my right hip to my rib cage. It is that it pours when I purine.'},train
+1249120_44220382_27478194.wav,"{'text': ' When I lift my arms up, I have a soreness in my shoulders.'}",train
+1249120_44220382_102604190.wav,{'text': ' My knees swell right below the kneecap and hurt when I put weight on them.'},train
+1249120_44197979_93597396.wav,{'text': ' When I eat too much sugar my body gets weak and dizzy.'},train
+1249120_44197979_85270905.wav,{'text': ' when I am doing sport I have pain under my skin'},train
+1249120_44220382_23959561.wav,{'text': ' My infected wound caused a fever.'},train
+1249120_44220382_20998521.wav,{'text': ' I have an earache when showering.'},train
+1249120_44197979_93192537.wav,{'text': ' My knees seem to grind as I go up on downstairs'},train
+1249120_44220382_63850186.wav,{'text': ' I read a book for a long time and when I finished reading I feel headache.'},train
+1249120_44220382_60801132.wav,"{'text': ' When I extend my leg, there is pain in knee joint.'}",train
+1249120_44220382_67921078.wav,{'text': ' I feel great pain in my feet after playing one of the sports games.'},train
+1249120_44220382_51018374.wav,"{'text': "" My head hurts when I'm doing this.""}",train
+1249120_44220382_52686818.wav,{'text': ' I have cloudy eyes.'},train
+1249120_44220382_42961845.wav,{'text': ' My hand open wound got infected.'},train
+1249120_44220382_64348737.wav,"{'text': "" I can't really jump on my left foot because my triple fracture of the ankle left me with never-ending pains.""}",train
+1249120_44220382_61938277.wav,"{'text': ' When I played football, I dislocated my shoulder.'}",train
+1249120_44220382_30888646.wav,{'text': ' My stomach has been sore since yesterday.'},train
+1249120_44220382_34886445.wav,{'text': ' I feel pain in my head with a vertigo.'},train
+1249120_44220382_65422893.wav,{'text': ' I have a pain in my head.'},train
+1249120_44220382_60080281.wav,{'text': ' Why is my shoulder aching when I try to pick up the laundry?'},train
+1249120_44220382_52518266.wav,{'text': ' I have a problem in the expiration because I have a bronchial asthma.'},train
+1249120_44220382_58288702.wav,{'text': ' I fell off my bike and since then I had hard knee pain.'},train
+1249120_44220382_63464751.wav,{'text': ' I feel like my heart is on fire.'},train
+1249120_44220382_51740266.wav,{'text': ' There is acne on my face.'},train
+1249120_44220382_34322806.wav,"{'text': ' redness, welling, and difficulty walking.'}",train
+1249120_44220382_64354562.wav,{'text': ' I feel joint pain every time I move.'},train
+1249120_44220382_45758718.wav,{'text': ' I feel a sharp pain in my stomach.'},train
+1249120_44220382_48462181.wav,{'text': ' I chopped off the tip of my finger while I was cutting some cardboard and I cannot stop the bleeding.'},train
+1249120_44220382_56651795.wav,{'text': ' I have a lot of knee pain whenever I go running.'},train
+1249120_44220382_41016711.wav,{'text': ' I have a back pain since I fell on the floor.'},train
+1249120_44220382_41432308.wav,{'text': ' I feel great pressure in my chest.'},train
+1249120_44220382_50020297.wav,"{'text': ' I used to be out of breath after going up a dozen of stairs, but now I struggle to breathe even when I sit down.'}",train
+1249120_44220382_62767071.wav,"{'text': ' When I sneeze very hard, I feel earache.'}",train
+1249120_44220382_62940465.wav,{'text': ' It feels like someone stuck a knife into my shoulder.'},train
+1249120_44220382_82052300.wav,"{'text': "" Had I stepped on a needle it wouldn't have hurt so much, like this damn spur in my heel.""}",train
+1249120_44220382_79705872.wav,{'text': ' I have a pain internal.'},train
+1249120_44220382_72437470.wav,{'text': ' I love to walk and be outside but the bottoms of my feet get sore so quickly.'},train
+1249120_44220382_75955065.wav,"{'text': ' When I carry heavy things, I feel like breaking my back.'}",train
+1249120_44220382_81232608.wav,{'text': ' There is so much pain when I move my arm.'},train
+1249120_44220382_82404119.wav,"{'text': ' When I was washing my hair, it was falling out heavily.'}",train
+1249120_44220382_68839138.wav,{'text': ' I have disturbance in my emotion.'},train
+1249120_44220382_77525606.wav,"{'text': "" I tried to put my glasses to see more clear but can't find any change.""}",train
+1249120_44220382_81292221.wav,{'text': ' I am always cold if even I am wearing layers.'},train
+1249120_44220382_85329668.wav,"{'text': "" It's hard to stand up and I'm moving very slowly.""}",train
+1249120_44220382_79734792.wav,{'text': ' There feels like a swollen knot at my shoulder blade with pain showing from that.'},train
+1249120_44220382_68372240.wav,{'text': ' There is a red stain in my skin.'},train
+1249120_44220382_72693363.wav,"{'text': ' Anytime I play tennis, I feel a shoulder pain.'}",train
+1249120_44220382_75303599.wav,"{'text': ' My son squeezed a pimple and it broke open, only just cab over and now looks like it is infected.'}",train
+1249120_44220382_83567201.wav,"{'text': ' When I stand up too quickly, I start to feel dizzy and lightheaded.'}",train
+1249120_44220382_88604885.wav,{'text': ' I have this strange rash on my arm.'},train
+1249120_44220382_76831590.wav,{'text': ' I feel like the room is spinning.'},train
+1249120_44220382_73167442.wav,"{'text': "" When get up, I found that I have a stomach ache and I tried to take medicine but my stomach's still hurting me.""}",train
+1249120_44220382_72530590.wav,{'text': ' My shoulder muscle hurts when I try to reach up.'},train
+1249120_44220382_69001547.wav,{'text': ' stiffness and ability to look right or left except by moving the whole body.'},train
+1249120_44220382_85606050.wav,"{'text': ' When my grandfather died, I felt a hard emotional pain.'}",train
+1249120_44220382_71387272.wav,{'text': ' I have muscle pain at my left leg.'},train
+1249120_44220382_83334524.wav,{'text': ' There is an extreme pressure below my belly button at the right which I feel every time I go out for a jog.'},train
+1249120_44235678_30259629.wav,{'text': ' My skin is itchy and inflamed.'},train
+1249120_44220382_96437900.wav,{'text': ' I can see well.'},train
+1249120_44220382_97754696.wav,{'text': ' I cannot breathe because of this dull ache below my left shoulder.'},train
+1249120_44235678_105750406.wav,"{'text': ' Even though I am an adult, my face keeps breaking out in pimples.'}",train
+1249120_44235678_21718488.wav,{'text': ' I have a pain that radiates up from my right hip to my rib cage. It is at its worst when I urinate.'},train
+1249120_44220382_95472690.wav,{'text': ' My muscles in my lower back are aching.'},train
+1249120_44220382_92518551.wav,{'text': ' I feel pain when parting loved ones.'},train
+1249120_44220382_93846550.wav,{'text': ' I have a neck pain when I sit in front of my laptop.'},train
+1249120_44220382_97217225.wav,{'text': ' My lower back hurts but it improves if I stretch it.'},train
+1249120_44235678_22937832.wav,"{'text': ' My head hurts and I lost the sensation in my face, then lost sight in my eye.'}",train
+1249120_44220382_94690679.wav,"{'text': "" I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.""}",train
+1249120_44235678_13002551.wav,"{'text': ' I have front head pain and when I get it, the light bothers me.'}",train
+1249120_44235678_103932475.wav,{'text': ' I have a sharp pain in my lower stomach.'},train
+1249120_44220382_95370886.wav,"{'text': "" Can't do any exercise. I feel weak.""}",train
+1249120_44220382_98734293.wav,{'text': ' There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.'},train
+1249120_44235678_13910368.wav,{'text': ' My hair is coming out in chunks especially when I wash it.'},train
+1249120_44235678_81459407.wav,"{'text': ' When I eat sugar, I notice my vision blur.'}",train
+1249120_44235678_65385937.wav,{'text': ' I knocked my foot and it really hurts.'},train
+1249120_44235678_61143318.wav,{'text': ' I had a cut that was stitched together but it is not healing. It is oozing green pus and buns.'},train
+1249120_44235678_49221773.wav,"{'text': "" I cut my finger opening a can. It won't stop bleeding and the wound is gaping and open.""}",train
+1249120_44235678_54535805.wav,"{'text': "" My ear hurts and it's worse when I swallow. My ear is very painful and Tylenol hasn't helped.""}",train
+1249120_44235678_62476079.wav,{'text': ' I have a powerful pain inside my neck.'},train
+1249120_44235678_30693047.wav,{'text': ' I am having a hard time hearing.'},train
+1249120_44235678_76400301.wav,"{'text': "" I think there is something wrong with my wound. It doesn't seem to heal like it should.""}",train
+1249120_44235678_80508606.wav,"{'text': ' When I stand up to pick, my vision is blurry.'}",train
+1249120_44235678_85355864.wav,"{'text': ' When I stand up too quickly, I feel as though I am going to faint.'}",train
+1249120_44235678_35080267.wav,{'text': ' I have a dull ache in my lower back which makes it difficult to move.'},train
+1249120_44246595_10393597.wav,"{'text': "" Pain feels like it's right below the skin.""}",train
+1249120_44246595_10077677.wav,"{'text': ' The pain is intense, especially when I go down the stairs. It feels like something has snapped inside my knee.'}",train
+1249120_44246595_21583004.wav,{'text': ' I have internal pain whenever I come down with a cold.'},train
+1249120_44235678_98666570.wav,"{'text': "" My foot hurts and I can't turn it. Maybe it's broken.""}",train
+1249120_44235678_93900687.wav,"{'text': ' When I eat too much sugar, my body gets weak and die.'}",train
+1249120_44246595_12356944.wav,{'text': ' chronic disease of hair follicles and sebaceous glands.'},train
+1249120_44246595_11477954.wav,"{'text': "" I have an earache that won't go away. I don't have a cold or headache or any other symptoms. Just an earache.""}",train
+1249120_44235678_90339410.wav,"{'text': "" My soul looks like it's not healing well.""}",train
+1249120_44235678_87414469.wav,{'text': ' I have a sharp pain in my abdomen.'},train
+1249120_44235678_90292962.wav,{'text': ' My heart is beating fast and it scares me.'},train
+1249120_44246595_19400019.wav,{'text': ' I had a pain in my knee when I was swimming.'},train
+1249120_44246595_14680847.wav,{'text': ' My hair is falling without a reason. I can see a lot of hair on my working desk.'},train
+1249120_44235678_90041214.wav,{'text': ' I can hardly move my neck. It hurts.'},train
+1249120_44246595_18219512.wav,{'text': ' The knee feels like it is rested and I suddenly cannot bend it anymore.'},train
+1249120_44246595_13494572.wav,{'text': ' Sometimes I feel like a claw on my chest that leaves me breathless.'},train
+1249120_44246595_26959468.wav,{'text': ' My heart hurts when I exercise.'},train
+1249120_44246595_23729452.wav,"{'text': ' I was diagnosed with B12 deficiency anemia, which explains why I always felt cold.'}",train
+1249120_44246595_40204318.wav,{'text': ' There are some pimples on my face that bother me a lot.'},train
+1249120_44246595_31879288.wav,"{'text': ' When I think of my parents, I feel pain.'}",train
+1249120_44246595_36089089.wav,{'text': ' using Hair Tonic.'},train
+1249120_44246595_40637850.wav,{'text': ' There is pain in the muscles. I do not know caused.'},train
+1249120_44246595_28001300.wav,{'text': ' I feel like I went to an acupuncturist practice and had a hundred needles in my shoulder.'},train
+1249120_44246595_39161628.wav,"{'text': ' When I play football, I have muscle pain.'}",train
+1249120_44246595_25466020.wav,{'text': ' I feel pain in my body.'},train
+1249120_44246595_38852436.wav,{'text': ' My shoulder hurts me so much.'},train
+1249120_44246595_41594719.wav,"{'text': "" I'm having problems seeing things. Feel like a cloud in my eyes. Everything is blurry.""}",train
+1249120_44246595_34981278.wav,{'text': ' I have a great pain in my thorax from heart injury.'},train
+1249120_44246595_35641157.wav,{'text': ' I have a mental suffering.'},train
+1249120_44246595_27538143.wav,{'text': ' I feel a pain in my neck.'},train
+1249120_44246595_26715904.wav,"{'text': "" My neck hurts me and I can't stand with this pain.""}",train
+1249120_44246595_34665713.wav,{'text': ' I had a cold the last time I traveled by plane and I still have a discomfort in my ears.'},train
+1249120_44246595_40811075.wav,"{'text': ' My husband has a spot on his lip that he thought was cold sore, but now it has broken open and leaks fluid all day.'}",train
+1249120_44246595_23019203.wav,"{'text': "" I had a collision while playing soccer. My knee buckled and now it's unstable.""}",train
+1249120_44246595_36064910.wav,{'text': ' My left side aches much.'},train
+1249120_44246595_39730117.wav,{'text': ' My knee is hurting so badly.'},train
+1249120_44246595_25957473.wav,"{'text': "" My body feels weak and I think that my face is fade and I can't sleep well.""}",train
+1249120_44246595_34223800.wav,{'text': ' I get clusters of whiteheads and blackheads on my back.'},train
+1249120_44246595_41995447.wav,{'text': ' The severe pain in the stomach I feel.'},train
+1249120_44246595_54009181.wav,"{'text': "" I'm feeling nauseous.""}",train
+1249120_44246595_42990999.wav,"{'text': "" There's this pain that radiates from my chest up to my left arm.""}",train
+1249120_44246595_56139659.wav,{'text': ' This long scar on my left buttock is from falling off my mountain bike.'},train
+1249120_44246595_60134578.wav,{'text': ' I have a painful cramp in my feet.'},train
+1249120_44246595_62158232.wav,{'text': ' My stomach aches when I eat hot food. Why?'},train
+1249120_44246595_49630911.wav,{'text': ' My head hurts whenever I try to do something.'},train
+1249120_44246595_60938320.wav,{'text': ' My ear hurts me badly.'},train
+1249120_44246595_53142700.wav,{'text': ' My knee hurts when I walk.'},train
+1249120_44246595_46752969.wav,{'text': ' I have cut my finger because of playing football and I had to apply pain relief cream but it does not help.'},train
+1249120_44246595_62839015.wav,{'text': ' I feel a clicking sensation in my knee each time I step.'},train
+1249120_44246595_56897538.wav,"{'text': "" I don't have problems taking in breath, but out-breath is so heavy.""}",train
+1249120_44246595_48215657.wav,{'text': ' My ear hurts when I touch it.'},train
+1249120_44246595_71984487.wav,"{'text': "" I'm injured. I can't play sports.""}",train
+1249120_44246595_62065592.wav,"{'text': "" My left ear is okay, but the right one feels like it's being stabbed with a nail.""}",train
+1249120_44246595_51049878.wav,{'text': ' I get tired too fast. I can barely put on my clothes in the morning.'},train
+1249120_44246595_43497809.wav,{'text': ' My ear ache when I am listening to music.'},train
+1249120_44246595_57907447.wav,{'text': ' My shower drain is full of hair every time.'},train
+1249120_44246595_60122298.wav,{'text': ' discomfort or pain that is felt at some point along the front of the body between the neck and upper abdomen.'},train
+1249120_44246595_71250003.wav,"{'text': "" I can't ride my car at night because I have blurry vision.""}",train
+1249120_44246595_47270208.wav,"{'text': "" My back hurts me and I can't bend it or walk.""}",train
+1249120_44246595_72677345.wav,{'text': ' I have a paint in my trapeze.'},train
+1249120_44246595_73301906.wav,{'text': ' I have a cut on my foot that became infected from using the showers at the gym.'},train
+1249120_44246595_72597543.wav,{'text': ' I feel pain in my neck.'},train
+1249120_44246595_73273010.wav,{'text': ' I fell through a window while I was cleaning it and I have a shard of glass stuck in my left eye. I think it is pretty serious. Please help!'},train
+1249120_44246595_72846473.wav,{'text': ' My chest hurts when I smoke.'},train
+1249120_44246595_89466082.wav,"{'text': "" I often get a stomach ache after I eat. I haven't been able to pinpoint which foods may be the trigger.""}",validate
+1249120_44246595_101823153.wav,{'text': ' I feel pain in my right shoulder after the tennis match.'},validate
+1249120_44246595_94621639.wav,{'text': ' I feel pain inside. I do not know what it is.'},validate
+1249120_44246595_89680770.wav,"{'text': "" I don't have the energy to do the things that I used to.""}",validate
+1249120_44246595_107248522.wav,{'text': ' I notice an important decrease in my vision when I try to look at things up close.'},validate
+1249120_44246595_77258445.wav,{'text': ' I was playing soccer and I twisted my ankle.'},validate
+1249120_44246595_99457284.wav,"{'text': ' When I eat, I feel my stomach hurts.'}",validate
+1249120_44246595_85567147.wav,"{'text': ' When I get up, I see my skin vag.'}",validate
+1249120_44246595_76562955.wav,{'text': ' When I go to stand my head starts swirling.'},validate
+1249120_44246595_92310242.wav,{'text': ' I wake up at night feeling cold.'},validate
+1249120_44246595_89098147.wav,"{'text': "" I don't know why I'm constantly sad.""}",validate
+1249120_44246595_105657955.wav,{'text': ' I have a feeling like my whole body is complaining.'},validate
+1249120_44246595_95208403.wav,"{'text': "" I can't stand this horrible feeling in my stomach.""}",validate
+1249120_44246595_86895734.wav,{'text': ' Surgical wound infections.'},validate
+1249120_44246595_95549576.wav,{'text': ' I have issue with my skin.'},validate
+1249120_44246595_108705425.wav,"{'text': "" I have a foot ache although I don't walk a lot.""}",validate
+1249120_44246595_92462780.wav,{'text': ' He was discovered to have an open wound.'},validate
+1249120_44246595_95437414.wav,{'text': ' I feel shoulder pain at intervals of time.'},validate
+1249120_44259428_55288440.wav,"{'text': ' My chest is very comfortable, my chest is very simple and my head is very comfortable.'}",validate
+1249120_44259428_19293556.wav,"{'text': "" My business don't take action after I went to the gym.""}",validate
+1249120_44259428_50949983.wav,{'text': ' I have an internal pain. I cannot describe.'},validate
+1249120_44259428_19250068.wav,"{'text': "" I'm not feeling good. I can't take my breath.""}",validate
+1249120_44259428_25649773.wav,"{'text': "" I can't breathe.""}",validate
+1249120_44259428_45992221.wav,{'text': ' I feel pain in my stomach.'},validate
+1249120_44259428_49203869.wav,{'text': ' I feel depressed when I see my hair falling out.'},validate
+1249120_44259428_45195927.wav,{'text': ' I have problem in my shoulder'},validate
+1249120_44259428_54532216.wav,{'text': ' I feel hard. There are pain in my head.'},validate
+1249120_44259428_58709056.wav,"{'text': ' When I do hard exercises, I feel great pain in my muscles.'}",validate
+1249120_44259428_100658896.wav,{'text': ' I have a legacy in my head.'},validate
+1249120_44259428_56567581.wav,"{'text': ' I go straight in the head, price out of less than nine.'}",validate
+1249120_44259428_34993210.wav,{'text': ' I feel very weak in my body.'},validate
+1249120_44259428_100443017.wav,{'text': ' Their pain is my fault.'},validate
+1249120_44259428_17428469.wav,{'text': ' I feel pain in my neck when I climb the stairs.'},validate
+1249120_44259428_105662498.wav,{'text': ' I was playing basketball yesterday. I had a sprained ankle.'},validate
+1249120_44259428_53172278.wav,{'text': ' I have a blurry vision since I woke up this morning. What could be the reason?'},validate
+1249120_44259428_46472982.wav,"{'text': ' My favorite cup, badly, every now and then, around my side.'}",validate
+1249120_44259428_39681967.wav,"{'text': "" Grounding uses of iron for lignite on St. Marys' Gland.""}",validate
+1249120_44259428_67815432.wav,"{'text': "" I've had this cough for two weeks.""}",validate
+1249120_44259428_56194683.wav,{'text': ' I have a driver'},validate
+1249120_44259428_58867514.wav,"{'text': ' I talked about things, but I still feel the same skin problem.'}",validate
+1249120_44259428_108477882.wav,"{'text': ' Many cars are back to grow. That is, they are eating more than I should.'}",validate
+1249120_44259428_53848525.wav,{'text': ' I can move my head up and down.'},validate
+1249120_44259428_38940948.wav,{'text': ' I think also we are in summer.'},validate
+1249120_44259428_75102963.wav,"{'text': "" I cut my hand a couple of years ago and also I didn't think I needed to see it, it hasn't closed up.""}",validate
+1249120_44259428_72865674.wav,{'text': ' My eyes fall when I stretch.'},validate
+1249120_44259428_31222743.wav,"{'text': ' My body feels weak and I try to make it feel less, but it still feels tiny.'}",validate
+1249120_44259428_72249048.wav,{'text': ' I break out on my face very frequently'},validate
+1249120_44259428_59884279.wav,{'text': ' I have a blood vision during my swimming training in the pool. Why?'},validate
+1249120_44259428_26033114.wav,{'text': ' His effective run was beginning to drop.'},validate
+1249120_44259428_105786249.wav,{'text': ' I feel a burning sensation in my shoulder muscles.'},validate
+1249120_44259428_108958575.wav,"{'text': "" I'm feeling cold. So I'm gonna finish high.""}",validate
+1249120_44259428_65420088.wav,{'text': ' I feel pain when I think of her.'},validate
+1249120_44259428_54344716.wav,{'text': ' I feel the heat of emotional pain as the local will make it free.'},validate
+1249120_44259428_106881229.wav,"{'text': ' I go everywhere, but now I get tired of this after going only a short way.'}",validate
+1249120_44259428_102515958.wav,"{'text': ' When I was young, I had an injury from a spore in my knee.'}",validate
+1249120_44259428_16757387.wav,"{'text': ' I fit this cloth or drug oil, the body in general.'}",validate
+1249120_44259428_108575544.wav,{'text': ' My next boost is...'},validate
+1249120_44259428_71308387.wav,{'text': ' Any past running or thereafter an injury or exercise.'},validate
+1249120_44259428_107932197.wav,"{'text': "" I can't update my net.""}",validate
+1249120_44259428_36852781.wav,"{'text': "" I got a divorce last year and I just can't stop drawing on how to get revenge on my ex-husband.""}",validate
+1249120_44259428_52976378.wav,"{'text': "" My back hurts so much. I can't bend down to thin my shoelace.""}",validate
+1249120_44259428_54047497.wav,"{'text': "" I'm having a heart attack because the nerves are all fussy.""}",validate
+1249120_44259428_103086666.wav,"{'text': "" I can't carry anything. I have a pain in my shoulder.""}",validate
+1249120_44259428_52926868.wav,"{'text': ' Have a great week, everyone.'}",validate
+1249120_44259428_32632229.wav,{'text': ' I feel pain in my hand when I wake up.'},validate
+1249120_44259428_61618701.wav,{'text': ' My head gets messy when I try to get up.'},validate
+1249120_44259428_17570271.wav,"{'text': ' I traveled by plane a few days ago, and this time getting landing my air-bomane, cloth and tennis shoes.'}",validate
+1249120_44259428_107372342.wav,{'text': ' I feel headache.'},validate
+1249120_44259428_46527054.wav,{'text': ' I have not click on my phone that will not heal'},validate
+1249120_44259428_20551217.wav,{'text': ' I have difficulty moving my neck'},validate
+1249120_44259428_57761508.wav,{'text': ' I came in peace. I have not had a cough.'},validate
+1249120_44259428_51361064.wav,{'text': ' It is hard to breathe when I am in the underground metro station. Why?'},validate
+1249120_44259428_50914735.wav,{'text': ' I feel like today going to stand up'},validate
+1249120_44259428_34986999.wav,"{'text': "" I get crossed on the pimple on my face. That's another world-way.""}",validate
+1249120_44259428_28102523.wav,{'text': ' I have an open wound in my arm.'},validate
+1249120_44259428_91754229.wav,"{'text': "" Oh, my hair's falling. I think they can't, and I can't.""}",validate
+1249120_44259428_88280001.wav,{'text': ' My kneecap feels like it is going down and down when I hold it.'},validate
+1249120_44259428_90522474.wav,{'text': ' Chronic burn is at the level of the turbo of the lower SME-S.'},validate
+1249120_44259428_77483299.wav,"{'text': ' I have a few days in winter, and when it will go, why?'}",validate
+1249120_44259428_75809403.wav,{'text': ' I have a real issue'},validate
+1249120_44263136_106922287.wav,{'text': ' I have a back pain since I turned 70 years old.'},validate
+1249120_44263136_101522822.wav,{'text': ' I have a pain in my muscle.'},validate
+1249120_44259428_96688403.wav,{'text': ' I have difficulty breathing in crowded places.'},validate
+1249120_44263136_108585886.wav,"{'text': "" I've always been very active, but now I just don't have the strength or energy to go for even a short walk.""}",validate
+1249120_44259428_82428785.wav,{'text': ' Glass bottle and one my leg matless. The one is so wide.'},validate
+1249120_44259428_84387587.wav,"{'text': "" My neck hurts and I can't look down.""}",validate
+1249120_44259428_84461460.wav,"{'text': ' Whenever I stand up, I feel this.'}",validate
+1249120_44259428_87762932.wav,{'text': ' I have adnex all over my face.'},validate
+1249120_44263136_107507771.wav,{'text': ' My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.'},validate
+1249120_44263136_106766278.wav,{'text': ' I feel like I fell in the hot water.'},validate
+1249120_44263136_103802215.wav,"{'text': "" My child has cough all night, she can't sleep.""}",validate
+1249120_44259428_86445054.wav,{'text': ' My son has his leg bruised and it is swollen and the skin is grey and looks infected.'},validate
+1249120_44263136_107482610.wav,{'text': ' I feel like something is squeezing my lungs.'},validate
+1249120_44259428_83019694.wav,{'text': ' I feel pain in the lower back'},validate
+1249120_44263136_106227417.wav,{'text': ' heart aches so much'},validate
+1249120_44259428_92199033.wav,{'text': ' I feel good after doing a mouselage of'},validate
+1249120_44259428_97884452.wav,{'text': ' I am pretty sure this is not very soft for my room.'},validate
+1249120_44263136_100870435.wav,{'text': ' The joints in my fingers are painful in the morning'},validate
+1249120_44263136_101812019.wav,{'text': ' I feel hurt in my heart.'},validate
+1249120_44263136_107636900.wav,{'text': ' I may have overdone it with the weight lifting because I am afraid I may have torn a muscle on my back.'},validate
+1249120_44259428_89970708.wav,{'text': ' I have a tepee in my neck.'},validate
+1249120_44259428_76204403.wav,{'text': ' I feel this heart rate we pray.'},validate
+1249120_44259428_95841310.wav,{'text': ' I could not exercise because of my head pain.'},validate
+1249120_44263136_15762375.wav,"{'text': "" I always feel like I have menstrual pains even if I don't have my period.""}",validate
+1249120_44263136_20870238.wav,"{'text': ' My body feels weak, although I take my vitamins regularly.'}",validate
+1249120_44263136_31123906.wav,{'text': ' I get big patches of irritated pimples on my back and they hurt'},validate
+1249120_44263136_34327747.wav,{'text': ' My hair always falls out and I have lost a lot of hair really.'},validate
+1249120_44263136_27728779.wav,{'text': ' I have a heart pain in my stomach.'},validate
+1249120_44263136_28094510.wav,"{'text': "" I couldn't stop shaking or unclench my jaw. That's how cold I was.""}",validate
+1249120_44263136_31607750.wav,{'text': ' I feel aching on my insides.'},validate
+1249120_44263136_11828866.wav,{'text': ' There is a sharp pain in my bicep. I have tried to apply an emery lip cream but it does not help.'},validate
+1249120_44263136_26194304.wav,{'text': ' My foot have been aching since last Tuesday.'},validate
+1249120_44263136_13172477.wav,{'text': ' Sometimes my body feels weak without reason.'},validate
+1249120_44263136_18526428.wav,"{'text': ' In high school, I had a lot of acne.'}",validate
+1249120_44263136_12662866.wav,{'text': ' I feel pain in the knee'},validate
+1249120_44263136_22818184.wav,{'text': ' I have a red brush that is itching on my skin.'},validate
+1249120_44263136_25998544.wav,{'text': ' I have paint like needles in my joints.'},validate
+1249120_44263136_10880734.wav,{'text': ' I had internal pain and gasses when I ate Indian spicy food yesterday.'},validate
+1249120_44263136_30518887.wav,{'text': ' Longitudinal burning line across back with heart-spiratory movements.'},validate
+1249120_44263136_13332887.wav,{'text': ' My knee touches and hurts when I first stand up after seating.'},validate
+1249120_44263136_13651055.wav,{'text': ' My ankle joints ropes when I put pressure on my foot.'},validate
+1249120_44263136_36286570.wav,{'text': ' My neck has been sore since the accident.'},validate
+1249120_44263136_41431969.wav,{'text': ' I have a headache almost every day.'},validate
+1249120_44263136_58592964.wav,{'text': ' My chest hurts when I got to take a breath.'},validate
+1249120_44263136_36341086.wav,{'text': ' I feel cold when night comes.'},validate
+1249120_44263136_46878275.wav,"{'text': "" I'm not hearing well, I have a problem with my ear.""}",validate
+1249120_44263136_42546148.wav,{'text': ' I feel pain inside and I cannot identify it.'},validate
+1249120_44263136_55671220.wav,{'text': ' I feel that is great pain in my left shoulder'},validate
+1249120_44263136_51547342.wav,{'text': ' I feel emotionally crushed.'},validate
+1249120_44263136_57609608.wav,{'text': ' My body aches on the inside between my hips and shoulders.'},validate
+1249120_44263136_42090113.wav,{'text': ' There are times when I feel crushed under a huge weight and no air passes through my lungs. It actually scares the hell out of me when it happens.'},validate
+1249120_44263136_43213149.wav,{'text': ' having difficulty moving my knee.'},validate
+1249120_44263136_49448724.wav,{'text': ' Is there a cure for acne?'},validate
+1249120_44263136_44160087.wav,{'text': ' I feel a sharp pain in the stomach after eating'},validate
+1249120_44263136_47696189.wav,{'text': ' The worst headache was during a hangover in my 20s. I sincerely thought I was going to die from brain inflammation.'},validate
+1249120_44263136_49038863.wav,{'text': ' I have a Maygreen and a Tinted Candle but it does not help.'},validate
+1249120_44263136_34906231.wav,{'text': ' I have severe dry cough.'},validate
+1249120_44263136_51762834.wav,{'text': ' My back hurts a lot when I bend.'},validate
+1249120_44263136_50406387.wav,{'text': ' I feel pain in the knee when walking.'},validate
+1249120_44263136_52222173.wav,{'text': ' Every time I make an effort I felt dizzy.'},validate
+1249120_44263136_82626452.wav,"{'text': ' I have a problem in my middle ear, maybe I have an infection.'}",validate
+1249120_44263136_59289865.wav,"{'text': "" When I'm too high, I start to feel dizzy.""}",validate
+1249120_44263136_87409253.wav,{'text': ' Star lives are for the eye.'},validate
+1249120_44263136_81225662.wav,"{'text': "" I feel like I can hardly breathe unless I take what's in my lungs out.""}",validate
+1249120_44263136_58938609.wav,"{'text': ' When I drink a lot, I get a headache.'}",validate
+1249120_44263136_86205654.wav,{'text': ' My body feels weak although I eat a lot. Why?'},validate
+1249120_44263136_70702677.wav,{'text': ' I feel a great pain in my shoulder joint and it does not go away.'},validate
+1249120_44263136_87455428.wav,{'text': ' My ankle is hurting me.'},validate
+1249120_44263136_82613525.wav,"{'text': "" I feel like I've always got something in my throat""}",validate
+1249120_44263136_85067361.wav,{'text': ' My throat is so sore.'},validate
+1249120_44263136_83669979.wav,{'text': ' I hardly have enough strength to get up.'},validate
+1249120_44263136_63958069.wav,{'text': ' I feel pain in my back.'},validate
+1249120_44263136_88227448.wav,{'text': ' I cut my foot at the pool and it breaks open every day when I walk in it.'},validate
+1249120_44263136_78833554.wav,{'text': ' I feel sad.'},validate
+1249120_44263136_79226700.wav,"{'text': "" I'm very worried that I'll go bald soon. Am I very sick?""}",validate
+1249120_44263136_64809479.wav,{'text': ' My foot is hurting so much.'},validate
+1249120_44263136_71092044.wav,"{'text': "" My body feels like it's in a refrigerator.""}",validate
+1249120_44263136_68968933.wav,{'text': ' I used a lot of painkiller to get better but I still feel the same back pain.'},validate
+1249120_44263136_78073786.wav,"{'text': ' My knee is swallowing, which indicates that I have an infected wound.'}",validate
+1249120_44263136_77095387.wav,{'text': ' Have severe cold and cough.'},validate
+1249120_44273314_103514863.wav,{'text': ' My body feels weak although I take my vitamins regularly.'},validate
+1249120_44273314_109807607.wav,"{'text': "" I feel like I can hardly breathe unless I get what's in my lungs out.""}",validate
+1249120_44273314_106442057.wav,{'text': ' Sterilizer for the eye'},validate
+1249120_44273314_17246181.wav,{'text': ' My throat is so sore'},validate
+1249120_44273314_18787091.wav,{'text': ' I have a back pain since I turned 17 years old.'},validate
+1249120_44263136_89689013.wav,"{'text': "" I can't walk, my knee hurts me.""}",validate
+1249120_44263136_94477614.wav,{'text': ' my shoulder aches when I try to lift five pounds.'},validate
+1249120_44273314_107500628.wav,"{'text': "" I can't walk, my knee hurts me.""}",validate
+1249120_44263136_92015834.wav,"{'text': ' When I wake up in the morning, I feel dizzy.'}",validate
+1249120_44273314_104690533.wav,"{'text': "" My body feels like it's in a refrigerator.""}",validate
+1249120_44263136_93647784.wav,{'text': ' Everything looks like being in a smoky area.'},validate
+1249120_44273314_102521547.wav,{'text': ' The worst headache was during a hangover in my 20s. I sincerely thought I was going to die from brain inflammation.'},validate
+1249120_44273314_16049788.wav,{'text': ' My chest hurts when I go to take a breath.'},validate
+1249120_44263136_89141475.wav,"{'text': "" My heart hurts while I'm sad. What?""}",validate
+1249120_44273314_16303816.wav,{'text': ' I have a problem in my middle ear made by infection.'},validate
+1249120_44273314_21492329.wav,{'text': ' I have a pain in my muscle.'},validate
+1249120_44263136_95817458.wav,"{'text': "" I can't walk well, I have an ache in my foot.""}",validate
+1249120_44273314_13390025.wav,{'text': ' I feel pain inside and I cannot identify it.'},validate
+1249120_44263136_93996655.wav,"{'text': "" I have found some issues with my skin and tried to use cream but it doesn't get better.""}",validate
+1249120_44273314_106435928.wav,"{'text': "" I've tried reading books but nothing can cheer me up.""}",validate
+1249120_44273314_56365443.wav,{'text': ' I have a rash on my skin.'},validate
+1249120_44273314_59068162.wav,{'text': ' I have paint like needles in my joints.'},validate
+1249120_44273314_38073414.wav,{'text': ' I feel like I fell in hot water.'},validate
+1249120_44273314_40698632.wav,{'text': ' I feel a great amount of pressure on the sides of my neck.'},validate
+1249120_44273314_28827187.wav,"{'text': "" My child has cough all night. She can't sleep.""}",validate
+1249120_44273314_31545094.wav,{'text': ' The joints in my fingers are painful in the morning.'},validate
+1249120_44273314_26783687.wav,{'text': ' My knee catches and hurts when I first stand up after sitting.'},validate
+1249120_44273314_67775131.wav,{'text': ' My back hurts a lot when I bend.'},validate
+1249120_44273314_57161236.wav,"{'text': "" I can't walk well. I have an ache in my foot.""}",validate
+1249120_44273314_47748885.wav,{'text': ' My body feels weak although I eat a lot. Why?'},validate
+1249120_44273314_32293213.wav,{'text': ' I feel that something is squeezing my lungs.'},validate
+1249120_44273314_21942140.wav,"{'text': ' When I drink a lot, I get a headache.'}",validate
+1249120_44273314_54417923.wav,"{'text': "" I'm very worried that I'll go bald soon. Am I very sick?""}",validate
+1249120_44273314_31089974.wav,{'text': ' I feel cold when the night comes.'},validate
+1249120_44273314_25005396.wav,{'text': ' Everything looks like being in a smoky area.'},validate
+1249120_44273314_30937230.wav,{'text': ' I feel pain in the knee when walking.'},validate
+1249120_44273314_35569629.wav,{'text': ' I have a red rash that is itchy on my skin.'},validate
+1249120_44273314_47534753.wav,{'text': ' I cut my foot at the pool and it breaks open every day when I walk on it.'},validate
+1249120_44273314_52748628.wav,{'text': ' I feel aching on my insides.'},validate
+1249120_44273314_68456497.wav,{'text': ' I feel sad'},validate
+1249120_44273314_45479897.wav,{'text': ' I feel hurt in my heart.'},validate
+1249120_44273314_24711015.wav,"{'text': "" My heart hurts while I'm sad. Why?""}",validate
+1249120_44273314_38687390.wav,"{'text': "" When I'm too high, I start to feel dizzy.""}",validate
+1249120_44273314_45748543.wav,{'text': ' My joints feel swollen.'},validate
+1249120_44273314_72971747.wav,{'text': ' I feel emotionally crushed.'},validate
+1249120_44273314_71015022.wav,{'text': ' My ankle joint throbs when I put pressure on my foot.'},validate
+1249120_44273314_76615195.wav,{'text': ' My shoulder aches when I try to lift 5 pounds.'},validate
+1249120_44273314_69418683.wav,"{'text': "" I feel like I've always got something in my throat.""}",validate
+1249120_44273314_91569607.wav,{'text': ' There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.'},validate
+1249120_44273314_71205285.wav,"{'text': "" I'm not hearing well, I have problem with my ear.""}",validate
+1249120_44273314_70276723.wav,{'text': ' I may have overdone it with the weight lifting because I am afraid I may have torn a muscle on my back.'},validate
+1249120_44273314_76070691.wav,"{'text': "" I have a migraine and I took Panadol but it doesn't help.""}",validate
+1249120_44273314_73290676.wav,{'text': ' My hair always falls out and I have lost a lot of hair lately.'},validate
+1249120_44273314_69242491.wav,{'text': ' My body aches on the inside between my hips and shoulders.'},validate
+1249120_44273314_87229465.wav,{'text': ' I feel a sharp pain in the stomach after eating.'},validate
+1249120_44273314_77840631.wav,{'text': ' I wish this excruciating feeling of loss could go away.'},validate
+1249120_44273314_94623228.wav,"{'text': ' When I wake up in the morning, I feel dizzy.'}",validate
+1249120_44273314_84611968.wav,{'text': ' My neck has been sore since the accident.'},validate
+1249120_44273314_84076771.wav,{'text': ' having difficulty moving my knee.'},validate
+1249120_44273314_69108455.wav,{'text': ' Have severe cold and cough.'},validate
+1249120_44273314_70741506.wav,{'text': ' I notice a lot more hair coming out than usual when I brush my hair.'},validate
+1249120_44273314_75699317.wav,{'text': ' I have severe dry cough.'},validate
+1249120_44273314_93618448.wav,{'text': ' I have a heart pain in my stomach.'},validate
+1249120_44273314_96091387.wav,{'text': ' I feel that there is great pain in my left shoulder.'},validate
+1249120_44292353_25313684.wav,{'text': ' Sometimes I feel like a claw on my chest that leaves me breathless.'},validate
+1249120_44292353_40076348.wav,"{'text': "" Sometimes when it's cold outside my face hurts especially around the pimples that are ready to pop.""}",validate
+1249120_44273314_96055783.wav,"{'text': "" My head is so heavy I can't think normally.""}",validate
+1249120_44292353_67132028.wav,{'text': ' I feel weak all over.'},validate
+1249120_44273314_95639193.wav,{'text': ' I hit the ground when trying to shoot a basketball.'},validate
+1249120_44292353_47569087.wav,{'text': ' I feel I went to an acupuncturist practice and had a hundred needles in my shoulder.'},validate
+1249120_44292353_69566092.wav,{'text': ' I love to garden but I get a terrible twinge in my lower back when I lean over.'},validate
+1249120_44273314_98448714.wav,{'text': ' I feel sad like hurt or pain.'},validate
+1249120_44292353_38765156.wav,{'text': ' I started taking swimming lessons and I guess I swallowed too much water through my nose because this sinusitis is killing me now.'},validate
+1249120_44292353_25851801.wav,"{'text': ' When I stand up too quickly, I start to feel dizzy and lightheaded.'}",validate
+1249120_44292353_71029438.wav,"{'text': "" My neck is annoying me. I can't sleep because of it.""}",validate
+1249120_44273314_97771287.wav,{'text': ' My foot had been aching since last Tuesday.'},validate
+1249120_44292353_62335378.wav,{'text': ' I have eruptions on my face that come and go.'},validate
+1249120_44292353_23165570.wav,{'text': ' I feel my heart hurts when I ran for a long distance.'},validate
+1249120_44292353_53318642.wav,{'text': ' My shower drain is full of hair every time.'},validate
+1249120_44292353_70288448.wav,{'text': ' When I raise my hand I feel pain in my shoulder'},validate
+1249120_44292353_31900996.wav,{'text': ' I have mental suffering.'},validate
+1249120_44292353_53478447.wav,{'text': ' I have a painful cramp in my feet.'},validate
+1249120_44292353_18156280.wav,{'text': ' I am having running nose.'},validate
+1249120_44292353_107326859.wav,{'text': ' I feel dizzy when I step in front of my laptop for an hour or two. What possibly could be the reason?'},validate
+1249120_44294866_102078306.wav,{'text': ' I showed him pain in my kneecap after working out.'},validate
+1249120_44294866_105332708.wav,"{'text': "" I don't have full range of motion with my arms.""}",validate
+1249120_44294866_104430582.wav,{'text': ' I have a throbbing in my joints.'},validate
+1249120_44294866_102664880.wav,"{'text': "" I often gain sharp pain in my chest and I can't tell what I'm doing that might be triggering it.""}",validate
+1249120_44292353_79362392.wav,{'text': ' I feel very hard to breathe.'},validate
+1249120_44292353_83240359.wav,{'text': ' I was watching TV and suddenly have blurry vision.'},validate
+1249120_44294866_106050928.wav,"{'text': "" I was diagnosed with pneumonia. I can't breathe easily.""}",validate
+1249120_44292353_95216909.wav,{'text': ' I got injured exercising.'},validate
+1249120_44294866_102554677.wav,{'text': ' They are frightening in my face and other problems in my derma like itching.'},validate
+1249120_44294866_103485284.wav,"{'text': "" My daughter had her age brown 3D and it all it on openings of skin in one of her braoms that it's not puffy and easy.""}",validate
+1249120_44292353_95558066.wav,"{'text': "" I have a great stomach ache and I can't eat anything.""}",validate
+1249120_44294866_103743912.wav,{'text': ' Yesterday I had a shoulder pain.'},validate
+1249120_44294866_104237668.wav,{'text': ' I have a pain in my head.'},validate
+1249120_44294866_103812071.wav,{'text': ' I have a rake when I go to the pool'},validate
+1249120_44294866_104890103.wav,{'text': ' I have a hurt muscle pain since I went to the gym.'},validate
+1249120_44294866_37364395.wav,{'text': ' severe pain in the upper left side of chest and may have pain to back.'},validate
+1249120_44294866_23003547.wav,{'text': ' I feel weak all over'},validate
+1249120_44294866_14283535.wav,{'text': ' I start taking swim relation and I guess I swallow too much water from my nose because this sinusitis is killing me now.'},validate
+1249120_44294866_30296550.wav,{'text': ' The crushing sensation on my heart leave me breathless.'},validate
+1249120_44294866_20041027.wav,{'text': ' I am disappointed.'},validate
+1249120_44294866_29285051.wav,{'text': ' And having runic nose.'},validate
+1249120_44294866_13068476.wav,"{'text': "" The area around my heart doesn't feel good.""}",validate
+1249120_44294866_19000724.wav,"{'text': ' When I stand up too quickly, I start to feel dizzy and lightheaded.'}",validate
+1249120_44294866_21761084.wav,{'text': ' I got acne when I had titty.'},validate
+1249120_44294866_16718315.wav,{'text': ' I get a knee pain when I walk a lot'},validate
+1249120_44294866_29194304.wav,{'text': ' I usually have a bad cough when I get food.'},validate
+1249120_44294866_30450066.wav,{'text': ' I have a neck pain when I sit in front of my laptop.'},validate
+1249120_44294866_15891095.wav,{'text': ' I have shoulder pain when I try to carry my groceries.'},validate
+1249120_44294866_107429604.wav,"{'text': ' Every time I comb my hair, there are so many hairs in my comb.'}",validate
+1249120_44294866_18570665.wav,{'text': ' I have a rupseum on my face.com and go.'},validate
+1249120_44294866_52604131.wav,"{'text': ' stiffness, inability to look right or left except by moving the whole body'}",validate
+1249120_44294866_49687487.wav,{'text': ' I had an accident and my wound was opened when I arrived to hospital.'},validate
+1249120_44294866_43326442.wav,{'text': ' I have a vein in my elbow joint.'},validate
+1249120_44294866_58377113.wav,"{'text': ' Sometimes when it is cold outside, my face hurts, especially around the peoples that are ready to go.'}",validate
+1249120_44294866_52206190.wav,{'text': ' My shoulder has a great pain.'},validate
+1249120_44294866_53414183.wav,"{'text': "" I'm not God. I'm feeling so cold.""}",validate
+1249120_44294866_53713877.wav,{'text': ' I feel very hard to breathe.'},validate
+1249120_44294866_56914981.wav,{'text': ' My lower back hurts but it improves if I stretch it.'},validate
+1249120_44294866_52332577.wav,"{'text': "" I don't do anything at home and still I feel exhausted.""}",validate
+1249120_44294866_57205296.wav,{'text': ' I feel a burning sensation in my gut about 2 hours after each meal.'},validate
+1249120_44294866_38949666.wav,{'text': ' Files call is cracked like nuts.'},validate
+1249120_44294866_39510206.wav,"{'text': ' I love to grab them, but I get a terrible pinch in my lower back when I lean over.'}",validate
+1249120_44294866_72495478.wav,"{'text': "" My head hurts when I'm doing this""}",validate
+1249120_44294866_69316456.wav,{'text': ' My hair is falling out after I take a shower.'},validate
+1249120_44294866_73599319.wav,"{'text': ' When I force my eyes to view, I have blurry vision.'}",validate
+1249120_44294866_67568437.wav,"{'text': "" My hair isn't well.""}",validate
+1249120_44294866_64368433.wav,{'text': ' I was traveling by ship and I feel dizzy'},validate
+1249120_44294866_61770999.wav,"{'text': ' When I move on my shoulder, pain shoots down my arms.'}",validate
+1249120_44294866_74679338.wav,"{'text': "" I have a stomach ache and I can't eat anything.""}",validate
+1249120_44294866_76461050.wav,"{'text': "" My neck is annoying me. I can't sleep because of it.""}",validate
+1249120_44294866_60643161.wav,"{'text': "" I can't stand up or sit down. I have a pain in my back. That annoys me.""}",validate
+1249120_44294866_63987415.wav,"{'text': ' When I raise my head, I feel pain in my shoulder.'}",validate
+1249120_44294866_63568111.wav,{'text': ' I feel a great pain in my shoulder when I try to lift something heavy.'},validate
+1249120_44294866_68130365.wav,{'text': ' I have a pain in my stomach.'},validate
+1249120_44294866_61858983.wav,{'text': ' I got injured exercising.'},validate
+1249120_44294866_77416341.wav,{'text': ' The warming system of my house is broken and feels cold.'},validate
+1249120_44294866_63476113.wav,"{'text': "" I was watching TV and it's hopefully have a better vision""}",validate
+1249120_44294866_90929031.wav,{'text': ' It is like I have a needle push and throw my arrow'},validate
+1249120_44294866_86233279.wav,"{'text': "" I have a blurry vision and it can't see in the darkness. What is the reason doctor?""}",validate
+1249120_44294866_90790242.wav,{'text': ' it adds from end center of top'},validate
+1249120_44294866_98831261.wav,"{'text': ' I feel dizzy when I sit in front of my laptop for an hour or two, what possibly could be the reason.'}",validate
+1249120_44294866_80026823.wav,{'text': ' I felt my heart hurt when I ran for a long distance.'},validate
+1249120_44294866_96337692.wav,"{'text': ' When it bends over, I get a shooting bang down my back.'}",validate
+1249120_44294866_89734541.wav,{'text': ' My entire body is breathing'},validate
+1249120_44294866_78490603.wav,{'text': ' My nose is congested all the time and there is this glowy secretion in my throat that make it impossible for me to sleep. I often have to not sit down.'},validate
+1249120_44294866_94282612.wav,{'text': ' I have terrible pain in my heart'},validate
+1249120_44294866_94374240.wav,"{'text': "" I feel something hurt me in taking breath and I can't take my breath.""}",validate
+1249120_44294866_92792208.wav,"{'text': ' When I stand up too quickly, I start to feel dizzy and lightheaded.'}",validate
+1249120_44323331_14650475.wav,{'text': ' I can hardly breathe'},validate
+1249120_44294866_99659302.wav,{'text': ' I feel a soreness in my knees when I walk.'},validate
+1249120_44323331_13821399.wav,{'text': ' the'},validate
+1249120_44323331_16235297.wav,{'text': ' the'},validate
+1249120_44323331_15655234.wav,{'text': ' when I remember here I feel down'},validate
+1249120_44323331_109641805.wav,{'text': ' the'},validate
+1249120_44323331_16590901.wav,{'text': ' the'},validate
+1249120_44323331_22225771.wav,{'text': ' the'},validate
+1249120_44323331_12481133.wav,{'text': ' the'},validate
+1249120_44323331_18782425.wav,{'text': ' the'},validate
+1249120_44323331_20802934.wav,{'text': ' I cannot be a'},validate
+1249120_44323331_10095808.wav,{'text': ' the'},validate
+1249120_44323331_17693815.wav,{'text': ' I cannot bark because of'},validate
+1249120_44323331_15039513.wav,{'text': ' I get IE John. Where I try to'},validate
+1249120_44323331_24602215.wav,{'text': ' the'},validate
+1249120_44323331_27898617.wav,{'text': ' I feel easy whenever I stand up.'},validate
+1249120_44323331_24461872.wav,{'text': ' I cannot stop going.'},validate
+1249120_44323331_30817447.wav,{'text': ' the'},validate
+1249120_44323331_28822792.wav,{'text': ' the'},validate
+1249120_44323331_26386155.wav,{'text': ' the'},validate
+1249120_44323331_23606264.wav,{'text': ' I'},validate
+1249120_44323331_25847807.wav,{'text': ' the'},validate
+1249120_44323331_22949427.wav,{'text': ' the'},validate
+1249120_44323331_25968681.wav,{'text': ' I have'},validate
+1249120_44323331_26408664.wav,{'text': ' the'},validate
+1249120_44323331_23843315.wav,{'text': ' my son I scared had made with an old road or add that sport has become in the end and you like it is'},validate
+1249120_44323331_26313266.wav,{'text': ' I am'},validate
+1249120_44323331_53313006.wav,{'text': ' the'},validate
+1249120_44323331_59510879.wav,{'text': ' and'},validate
+1249120_44323331_54400222.wav,{'text': ' the'},validate
+1249120_44323331_34357709.wav,{'text': ' my old'},validate
+1249120_44323331_55722581.wav,{'text': ' the'},validate
+1249120_44323331_47564425.wav,{'text': ' the'},validate
+1249120_44323331_33624071.wav,{'text': ' the'},validate
+1249120_44323331_51610812.wav,{'text': ' the'},validate
+1249120_44323331_38538892.wav,{'text': ' I had a thought that you might want'},validate
+1249120_44323331_42291661.wav,{'text': ' I have a strong Sulaim.'},validate
+1249120_44323331_45513911.wav,{'text': ' the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'},validate
+1249120_44323331_35285585.wav,{'text': ' I feel a great amount of pressure of my head.'},validate
+1249120_44323331_59191528.wav,{'text': ' I get an air AC when it is cold'},validate
+1249120_44323331_61837950.wav,{'text': ' I have been feeling very sad lately.'},validate
+1249120_44323331_70756728.wav,{'text': ' the'},validate
+1249120_44323331_63059317.wav,{'text': ' my back hurts me a lot'},validate
+1249120_44323331_63393498.wav,{'text': ' I have a great.'},validate
+1249120_44323331_66888889.wav,{'text': ' the'},validate
+1249120_44323331_75046615.wav,{'text': ' I have a problem in my back. I cannot stand it.'},validate
+1249120_44323331_63502960.wav,{'text': ' the'},validate
+1249120_44323331_77964928.wav,{'text': ' the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the'},validate
+1249120_44323331_72563945.wav,{'text': ' the'},validate
+1249120_44323331_63258394.wav,{'text': ' I have got four'},validate
+1249120_44323331_95281494.wav,{'text': ' I have'},validate
+1249120_44323331_88012031.wav,{'text': ' the'},validate
+1249120_44323331_89173398.wav,{'text': ' I have a'},validate
+1249120_44323331_81285987.wav,{'text': ' the'},validate
+1249120_44323331_94962408.wav,{'text': ' I feel bad in my'},validate
+1249120_44323331_89529293.wav,{'text': ' my hair is feeling out in hog amount'},validate
+1249120_44323331_86516132.wav,{'text': ' the'},validate
+1249120_44323331_82659146.wav,{'text': ' when I walk you'},validate
+1249120_44323331_81893062.wav,{'text': ' the'},validate
+1249120_44323331_84030889.wav,{'text': ' I feel great pain in the head.'},validate
+1249120_44323331_84928769.wav,{'text': ' I have pain in my stomach.'},validate
+1249120_44323331_79182023.wav,{'text': ' the'},validate
+1249120_44323331_95219530.wav,{'text': ' I feel pain in my knee.'},validate
+1249120_44323331_95860925.wav,{'text': ' the'},validate
+1249120_44442354_97149231.wav,{'text': ' and suffering from shark company being fed'},validate
+1249120_44323331_95484507.wav,{'text': ' the'},validate
+1249120_44323331_95561004.wav,{'text': ' the'},validate
+1249120_44442354_25790660.wav,{'text': ' I am a hair shorter'},validate
+1249120_44387284_64093494.wav,"{'text': "" What's the way over? What's the magic?""}",validate
+1249120_44415714_12774994.wav,"{'text': "" I think it's hot enough.""}",validate
+1249120_44442354_57228239.wav,{'text': ' My skiing is the chain.'},validate
+1249120_44442354_96518720.wav,{'text': ' I film the state net in my elbows and shoulder.'},validate
+1249120_44442354_52494335.wav,"{'text': "" I can't hate an girlfriend because of my anger""}",validate
