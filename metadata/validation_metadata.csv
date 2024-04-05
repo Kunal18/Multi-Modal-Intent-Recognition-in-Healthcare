@@ -1,0 +1,343 @@
+file_name,medical intent,phrase,label
+1249120_44415714_12774994.wav,Head and Neck Discomfort,I read a book for along time and when I finished reading I feel head ache,2
+1249120_44323331_89529293.wav,Dermatological Issues,My hair is falling out in huge amount,1
+1249120_44259428_45992221.wav,Abdominal Pain and Weakness,i feel pain in my stomach,0
+1249120_44273314_28827187.wav,Respiratory and Ear Issues,"my child has cough all night, she can't sleep",4
+1249120_44294866_98831261.wav,Head and Neck Discomfort,"I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",2
+1249120_44263136_42546148.wav,Abdominal Pain and Weakness,I feel pain inside and I can not identify it,0
+1249120_44323331_89173398.wav,Abdominal Pain and Weakness,I have an indigestion,0
+1249120_44323331_27898617.wav,Head and Neck Discomfort,I feel dizzy whenever I stand up.,2
+1249120_44259428_102515958.wav,Wound Trauma,When I was young I had an injury from sports in my knee.,5
+1249120_44259428_108958575.wav,Respiratory and Ear Issues,I m feeling cold though the temperature is high,4
+1249120_44259428_17428469.wav,Musculoskeletal Pain,I feel pain in my knee when I climb the stairs.,3
+1249120_44259428_19293556.wav,Musculoskeletal Pain,My biceps started aching after I went to the gym,3
+1249120_44259428_38940948.wav,Respiratory and Ear Issues,I feel cold although we are in summer.,4
+1249120_44259428_39681967.wav,Dermatological Issues,Chronic disease of hair follicles and sebaceous glands,1
+1249120_44259428_46527054.wav,Wound Trauma,I have a split on my thumb that will not heal.,5
+1249120_44259428_50914735.wav,Head and Neck Discomfort,I feel lightheaded when I stand up,2
+1249120_44259428_53172278.wav,Head and Neck Discomfort,"I have a blurry vision since I woke up this morning, what could be the reason?",2
+1249120_44259428_58867514.wav,Dermatological Issues,I tried alot of cream but i still feel the same skin problem,1
+1249120_44259428_59884279.wav,Head and Neck Discomfort,"I have a blurry vision during my swimming training in the pool, why?",2
+1249120_44259428_71308387.wav,Musculoskeletal Pain,"Annoyance starts suddenly, often after an injury or exercise.",3
+1249120_44259428_75102963.wav,Wound Trauma,I cut my hand a couple of days ago and although I didn't think I needed it stitches it hasn't closed up.,5
+1249120_44259428_82428785.wav,Wound Trauma,glass broken and wound my leg badly the wound is so wide,5
+1249120_44263136_107507771.wav,Wound Trauma,My son had a root canal and the dentist accidentally cut the inside of his cheek and now it will not heal.,5
+1249120_44263136_13332887.wav,Musculoskeletal Pain,My knee catches and hurts when I first stand up after sitting.,3
+1249120_44263136_27728779.wav,Abdominal Pain and Weakness,i have a hard pain in my stomach,0
+1249120_44263136_34906231.wav,Respiratory and Ear Issues,i have severe dry cough,4
+1249120_44263136_47696189.wav,Head and Neck Discomfort,The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.,2
+1249120_44263136_83669979.wav,Abdominal Pain and Weakness,"I hardly have enough stength to get up,",0
+1249120_44263136_87409253.wav,Head and Neck Discomfort,Sterilizer for the eye,2
+1249120_44263136_94477614.wav,Musculoskeletal Pain,My shoulder aches when I try to lift five pounds.,3
+1249120_44273314_93618448.wav,Abdominal Pain and Weakness,i have a hard pain in my stomach,0
+1249120_44294866_102078306.wav,Musculoskeletal Pain,I have shooting pain in my kneecap after working out.,3
+1249120_44294866_103485284.wav,Wound Trauma,My daughter had her eyebrows threaded and it pulled an opening of skin in one of her brows that is now puffy and oozing.,5
+1249120_44294866_15891095.wav,Musculoskeletal Pain,I have shoulder pain when I try to carry my groceries.,3
+1249120_44294866_23003547.wav,Abdominal Pain and Weakness,I feel weak all over.,0
+1249120_44294866_30296550.wav,Abdominal Pain and Weakness,The crushing sensation on my heart leaves me breathless.,0
+1249120_44294866_53414183.wav,Respiratory and Ear Issues,I'm not good i'm feeling so cold,4
+1249120_44294866_72495478.wav,Head and Neck Discomfort,My head hurts when I'm doing this.,2
+1249120_44294866_73599319.wav,Head and Neck Discomfort,When I force my eyes to view I have blurry vision.,2
+1249120_44294866_90929031.wav,Abdominal Pain and Weakness,It is like I have a needle pushing through my heart.,0
+1249120_44323331_16235297.wav,Musculoskeletal Pain,When I play football I have joint pain.,3
+1249120_44323331_17693815.wav,Respiratory and Ear Issues,i can't breath because of  Cough,4
+1249120_44323331_24602215.wav,Musculoskeletal Pain,There is pain in my joints. I can not bear pain,3
+1249120_44323331_25847807.wav,Musculoskeletal Pain,My right shoulder clicks when I move my arm.,3
+1249120_44323331_42291661.wav,Musculoskeletal Pain,i have a strong shoulder pain,3
+1249120_44323331_53313006.wav,Wound Trauma,I broke my ankle while doing rock climbing in the Carpathians.,5
+1249120_44323331_63502960.wav,Musculoskeletal Pain,Feels like there are pins and needles sticking in my joints,3
+1249120_44323331_81893062.wav,Respiratory and Ear Issues,I feel pain in my ears with tinnitus,4
+1249120_44323331_95219530.wav,Musculoskeletal Pain,i feel pain in my knee,3
+1249120_44323331_95484507.wav,Dermatological Issues,My son has a lot of acne.,1
+1249120_44323331_95561004.wav,Respiratory and Ear Issues,When I go to sleep I am feeling cold,4
+1249120_44442354_52494335.wav,Dermatological Issues,I can't get a girlfriend because of my acne.,1
+1249120_44259428_100658896.wav,Head and Neck Discomfort,I have a dull ache in my head,2
+1249120_44259428_103086666.wav,Musculoskeletal Pain,I can't carry anything I have a pain in my shoulder,3
+1249120_44259428_106881229.wav,Respiratory and Ear Issues,I walk every day but now I get short of breath after going only a short way.,4
+1249120_44259428_107372342.wav,Head and Neck Discomfort,i feel head ache,2
+1249120_44259428_17570271.wav,Respiratory and Ear Issues,I travelled by plane a few days ago and this time during landing my ears remained clogged and painful.,4
+1249120_44259428_26033114.wav,Wound Trauma,His infected wound was beginning to rot.,5
+1249120_44259428_28102523.wav,Wound Trauma,I have an open wound in my arm,5
+1249120_44259428_31222743.wav,Abdominal Pain and Weakness,My body feels weak and I tried to make it relax but it stills pain me,0
+1249120_44259428_34993210.wav,Abdominal Pain and Weakness,I feel very weak in my body,0
+1249120_44259428_45195927.wav,Musculoskeletal Pain,I have throbing in my shoulder,3
+1249120_44259428_49203869.wav,Dermatological Issues,I feel depressed when I see my hair falling out,1
+1249120_44259428_51361064.wav,Respiratory and Ear Issues,"It is hard to breath when I am in the underground metro station, why?",4
+1249120_44259428_54047497.wav,Head and Neck Discomfort,I'm having a hard time reading because the letters are all fuzzy,2
+1249120_44259428_61618701.wav,Head and Neck Discomfort,My head gets dizzy when I try to get up.,2
+1249120_44259428_86445054.wav,Wound Trauma,My son had his lip pierced and it is swollen and the skin inside on his lip is grey and looks infected.,5
+1249120_44259428_95841310.wav,Musculoskeletal Pain,I could not exercise because of my knee pain,3
+1249120_44259428_96688403.wav,Respiratory and Ear Issues,I have difficulty in breathing in crowded places.,4
+1249120_44263136_103802215.wav,Respiratory and Ear Issues,"my child has cough all night, she can't sleep",4
+1249120_44263136_107482610.wav,Respiratory and Ear Issues,I feel like something is squeezing my lungs.,4
+1249120_44263136_12662866.wav,Musculoskeletal Pain,I feel pain in the knee,3
+1249120_44263136_13651055.wav,Musculoskeletal Pain,My ankle joint throbs when I put pressure on my foot.,3
+1249120_44263136_15762375.wav,Abdominal Pain and Weakness,I always feel like I have menstrual pains even if I don't have my period.,0
+1249120_44263136_18526428.wav,Dermatological Issues,In highschool I had a lot of acne.,1
+1249120_44263136_22818184.wav,Dermatological Issues,I have a red rash that is itchy on my skin,1
+1249120_44263136_25998544.wav,Musculoskeletal Pain,i have pain like needles in my joints.,3
+1249120_44263136_28094510.wav,Respiratory and Ear Issues,"I couldn't stop shaking or unclench my jaw, that's how cold I was.",4
+1249120_44263136_31607750.wav,Abdominal Pain and Weakness,I feel aching on my insides.,0
+1249120_44263136_34327747.wav,Dermatological Issues,My hair always falls out and i have lost a lot of hair lately,1
+1249120_44263136_36286570.wav,Head and Neck Discomfort,My neck has been sore since the accident.,2
+1249120_44263136_41431969.wav,Head and Neck Discomfort,I have a headache almost every day,2
+1249120_44263136_49038863.wav,Head and Neck Discomfort,i have a migrain and i took panadol but it doesn√ït help,2
+1249120_44263136_58592964.wav,Respiratory and Ear Issues,My chest hurts when I go to take a breath,4
+1249120_44263136_77095387.wav,Respiratory and Ear Issues,Have severe cold and cough,4
+1249120_44263136_78073786.wav,Wound Trauma,My kee is swallowing which indicates i have an infected wound,5
+1249120_44263136_79226700.wav,Dermatological Issues,I'm very worried that I'll go bald soon. Am I very sick?,1
+1249120_44263136_81225662.wav,Respiratory and Ear Issues,I feel like I can hardly breathe unless I get what's in my lungs out,4
+1249120_44263136_85067361.wav,Head and Neck Discomfort,My throught is so sore.,2
+1249120_44263136_86205654.wav,Abdominal Pain and Weakness,"My body feels weak although I eat a lot, why?",0
+1249120_44263136_87455428.wav,Musculoskeletal Pain,my ankle is hurting me,3
+1249120_44263136_88227448.wav,Wound Trauma,I cut my foot at the pool and it breaks open every day when I walk on it.,5
+1249120_44263136_89141475.wav,Abdominal Pain and Weakness,"My heart hurts while I'm sad, why?",0
+1249120_44263136_93647784.wav,Head and Neck Discomfort,Everything looks like beeing in a smoky area.,2
+1249120_44273314_104690533.wav,Respiratory and Ear Issues,My body feels like it's in a refrigerator.,4
+1249120_44273314_106442057.wav,Head and Neck Discomfort,Sterilizer for the eye,2
+1249120_44273314_16049788.wav,Respiratory and Ear Issues,My chest hurts when I go to take a breath,4
+1249120_44273314_24711015.wav,Abdominal Pain and Weakness,"My heart hurts while I'm sad, why?",0
+1249120_44273314_25005396.wav,Head and Neck Discomfort,Everything looks like beeing in a smoky area.,2
+1249120_44273314_30937230.wav,Musculoskeletal Pain,I feel pain in the knee when walking,3
+1249120_44273314_35569629.wav,Dermatological Issues,I have a red rash that is itchy on my skin,1
+1249120_44273314_38073414.wav,Dermatological Issues,I feel like l fell in hot water,1
+1249120_44273314_47748885.wav,Abdominal Pain and Weakness,"My body feels weak although I eat a lot, why?",0
+1249120_44273314_69242491.wav,Abdominal Pain and Weakness,My body aches on the inside between my hips and shoulders.,0
+1249120_44273314_71015022.wav,Musculoskeletal Pain,My ankle joint throbs when I put pressure on my foot.,3
+1249120_44273314_71205285.wav,Respiratory and Ear Issues,I'm not hearing well I have problem with my ear,4
+1249120_44273314_91569607.wav,Musculoskeletal Pain,There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.,3
+1249120_44294866_104237668.wav,Head and Neck Discomfort,I have a pain in my head,2
+1249120_44294866_104430582.wav,Musculoskeletal Pain,I have a throbbing in my joints,3
+1249120_44294866_104890103.wav,Musculoskeletal Pain,I have a hard muscle pain since i went to the gym,3
+1249120_44294866_105332708.wav,Musculoskeletal Pain,I don't have full range of motion with my arms,3
+1249120_44294866_106050928.wav,Respiratory and Ear Issues,"i was diagnosed with pneumonia, i can't breath easily.",4
+1249120_44294866_13068476.wav,Abdominal Pain and Weakness,The area around my heart doesn't feel good.,0
+1249120_44294866_16718315.wav,Musculoskeletal Pain,I get a knee pain when I walk a lot,3
+1249120_44294866_19000724.wav,Head and Neck Discomfort,When I stand up too quickly I start to feel dizzy and light-headed,2
+1249120_44294866_21761084.wav,Dermatological Issues,I got acne when I ate chili,1
+1249120_44294866_29194304.wav,Respiratory and Ear Issues,I usually have a bad cough when I get flu.,4
+1249120_44294866_30450066.wav,Head and Neck Discomfort,I have a neck pain when I sit in-front of my laptop.,2
+1249120_44294866_37364395.wav,Abdominal Pain and Weakness,severe pain in the upper left side of chest and may have pain to back,0
+1249120_44294866_43326442.wav,Musculoskeletal Pain,i have a pain in my elbow joint,3
+1249120_44294866_49687487.wav,Wound Trauma,I had an accident and my wound was open when I arrived to hospital,5
+1249120_44294866_52332577.wav,Abdominal Pain and Weakness,I don't do anything at home and still I feel exhausted.,0
+1249120_44294866_53713877.wav,Respiratory and Ear Issues,I feel very hard to breathe,4
+1249120_44294866_56914981.wav,Musculoskeletal Pain,My lower back hurts but it improves if I stretch it,3
+1249120_44294866_57205296.wav,Abdominal Pain and Weakness,I feel a burning sensation in my guts about 2 hours after each meal.,0
+1249120_44294866_58377113.wav,Dermatological Issues,"Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",1
+1249120_44294866_61770999.wav,Musculoskeletal Pain,"When I move on my shoulder, pain shoots down my arm",3
+1249120_44294866_63568111.wav,Musculoskeletal Pain,I feel a great pain in my shoulder when i try to lift something heavy,3
+1249120_44294866_64368433.wav,Head and Neck Discomfort,i was travelling by ship and i feel dizzy.,2
+1249120_44294866_67568437.wav,Dermatological Issues,my hair isn't well,1
+1249120_44294866_68130365.wav,Abdominal Pain and Weakness,I have a pain in my stomach,0
+1249120_44294866_74679338.wav,Abdominal Pain and Weakness,I have a great stomach ache and i can't eat any thing,0
+1249120_44294866_89734541.wav,Respiratory and Ear Issues,My entire body is freezing.,4
+1249120_44294866_92792208.wav,Head and Neck Discomfort,When I stand up too quickly I start to feel dizzy and light-headed,2
+1249120_44294866_99659302.wav,Musculoskeletal Pain,I feel a soreness in my knees when I walk,3
+1249120_44323331_10095808.wav,Musculoskeletal Pain,There is a sharp pain in my bicep,3
+1249120_44323331_14650475.wav,Respiratory and Ear Issues,i can hardly breathe,4
+1249120_44323331_23606264.wav,Wound Trauma,I toppled over while jumping to catch the ball.,5
+1249120_44323331_55722581.wav,Musculoskeletal Pain,When I wake up in the morning I feel a soreness in my body,3
+1249120_44323331_59191528.wav,Respiratory and Ear Issues,I get an ear ache when it is cold,4
+1249120_44323331_84030889.wav,Head and Neck Discomfort,I feel great pain in the head,2
+1249120_44323331_94962408.wav,Respiratory and Ear Issues,I feel pain in my throat,4
+1249120_44323331_95860925.wav,Abdominal Pain and Weakness,I made lots and lots of analysis to know the main reason for my stomach ache,0
+1249120_44442354_25790660.wav,Dermatological Issues,I have a hair shortage,1
+1249120_44442354_96518720.wav,Musculoskeletal Pain,I fell a stiffness in my elbows and shoulders,3
+1249120_44442354_97149231.wav,Respiratory and Ear Issues,I'm suffering from sharp cough Accompanied by  phlegm,4
+1249120_44259428_105662498.wav,Wound Trauma,"i was playing basketball yesterday, i have sprained ankle",5
+1249120_44259428_105786249.wav,Musculoskeletal Pain,I feel a burning sensation in my shoulder muscle.,3
+1249120_44259428_108477882.wav,Musculoskeletal Pain,My knees hurt so bad to walk that I stay sitting more than I should.,3
+1249120_44259428_16757387.wav,Abdominal Pain and Weakness,I feel discomfort throughout the body in general,0
+1249120_44259428_20551217.wav,Head and Neck Discomfort,i have difficulty moving my neck,2
+1249120_44259428_25649773.wav,Respiratory and Ear Issues,i cant breathe,4
+1249120_44259428_32632229.wav,Abdominal Pain and Weakness,I feel pain in my heart when I wake up,0
+1249120_44259428_34986999.wav,Dermatological Issues,I get clusters of pimples on my face that never go away.,1
+1249120_44259428_46472982.wav,Dermatological Issues,My face break out badly every month around my cycle.,1
+1249120_44259428_55288440.wav,Dermatological Issues,My chest break out with red pimples and whiteheads.,1
+1249120_44259428_56567581.wav,Wound Trauma,I was kicked in the head playing soccer last night.,5
+1249120_44259428_57761508.wav,Respiratory and Ear Issues,I can't sleep I have a hard cough,4
+1249120_44259428_58709056.wav,Musculoskeletal Pain,When I do hard exercises I feel great pain in my muscles.,3
+1249120_44259428_67815432.wav,Respiratory and Ear Issues,I've had this cough for two weeks.,4
+1249120_44259428_72249048.wav,Dermatological Issues,I break out on my face very frequently,1
+1249120_44259428_76204403.wav,Abdominal Pain and Weakness,I feel increased heart rate with prick,0
+1249120_44259428_84461460.wav,Head and Neck Discomfort,Whenever I stand up I feel dizzy.,2
+1249120_44259428_87762932.wav,Dermatological Issues,I have acne all over my face,1
+1249120_44259428_88280001.wav,Musculoskeletal Pain,My kneecap feels like it is grating bone on bone when I walk.,3
+1249120_44259428_92199033.wav,Head and Neck Discomfort,I feel dizzy after doing a muscular effort.,2
+1249120_44263136_100870435.wav,Musculoskeletal Pain,The joints in my fingers are painful in the morning.,3
+1249120_44263136_101522822.wav,Musculoskeletal Pain,I have a pain in my muscle,3
+1249120_44263136_101812019.wav,Abdominal Pain and Weakness,I feel hurts in my heart,0
+1249120_44263136_106227417.wav,Abdominal Pain and Weakness,heart aches so much,0
+1249120_44263136_107636900.wav,Wound Trauma,"I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",5
+1249120_44263136_11828866.wav,Musculoskeletal Pain,There is a sharp pain in my bicep. I have tried to apply pain relief cream but it does not help.,3
+1249120_44263136_13172477.wav,Abdominal Pain and Weakness,Sometimes my body feels week without reason,0
+1249120_44263136_20870238.wav,Abdominal Pain and Weakness,My body feels weak although I take my vitamins regularly.,0
+1249120_44263136_42090113.wav,Respiratory and Ear Issues,"There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens.",4
+1249120_44263136_43213149.wav,Musculoskeletal Pain,having difficulty moving my knee,3
+1249120_44263136_44160087.wav,Abdominal Pain and Weakness,I feel a sharp pain in the stomach after eating,0
+1249120_44263136_46878275.wav,Respiratory and Ear Issues,I'm not hearing well I have problem with my ear,4
+1249120_44263136_49448724.wav,Dermatological Issues,Is there a cure for acne?,1
+1249120_44263136_52222173.wav,Head and Neck Discomfort,"Every time I make an effort, I felt dizzy.",2
+1249120_44263136_55671220.wav,Musculoskeletal Pain,i feel that is great pain in my left shoulder,3
+1249120_44263136_57609608.wav,Abdominal Pain and Weakness,My body aches on the inside between my hips and shoulders.,0
+1249120_44263136_59289865.wav,Head and Neck Discomfort,When I'm too high I start to feel dizzy,2
+1249120_44263136_71092044.wav,Respiratory and Ear Issues,My body feels like it's in a refrigerator.,4
+1249120_44263136_82613525.wav,Respiratory and Ear Issues,I feel like I've always got something in my throat,4
+1249120_44263136_92015834.wav,Head and Neck Discomfort,when i wake up in the morning i feel dizzy,2
+1249120_44263136_93996655.wav,Dermatological Issues,I have found some issues in my skin and tried to use cream but it doesn't get better,1
+1249120_44273314_102521547.wav,Head and Neck Discomfort,The worst headache was during a hangover in my twenties: I sincerely thought I was going to die from brain inflammation.,2
+1249120_44273314_16303816.wav,Respiratory and Ear Issues,i have a problem in my middle ear made by infection,4
+1249120_44273314_52748628.wav,Abdominal Pain and Weakness,I feel aching on my insides.,0
+1249120_44273314_70276723.wav,Wound Trauma,"I may have overdone it with the weightlifting, because I am afraid I may have torn a muscle on my back.",5
+1249120_44273314_70741506.wav,Dermatological Issues,I notice a lot more hair coming out than usual when I brush my hair,1
+1249120_44273314_73290676.wav,Dermatological Issues,My hair always falls out and i have lost a lot of hair lately,1
+1249120_44273314_75699317.wav,Respiratory and Ear Issues,i have severe dry cough,4
+1249120_44273314_76070691.wav,Head and Neck Discomfort,i have a migrain and i took panadol but it doesn√ït help,2
+1249120_44273314_96055783.wav,Head and Neck Discomfort,My head is so heavy can't think normally,2
+1249120_44294866_102554677.wav,Dermatological Issues,I have acne in my face and other problema in my derma like itching,1
+1249120_44294866_103743912.wav,Musculoskeletal Pain,Yesterday I had a shouder pain,3
+1249120_44294866_103812071.wav,Respiratory and Ear Issues,I have a ear ache when I go to the pool,4
+1249120_44294866_14283535.wav,Wound Trauma,"I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",5
+1249120_44294866_18570665.wav,Dermatological Issues,I have eruptions on my face that come and go .,1
+1249120_44294866_29285051.wav,Respiratory and Ear Issues,I am having running nose,4
+1249120_44294866_38949666.wav,Head and Neck Discomfort,fell skull is cracked like nuts,2
+1249120_44294866_52206190.wav,Musculoskeletal Pain,My shoulder has agreat pain,3
+1249120_44294866_52604131.wav,Head and Neck Discomfort,stiffness inability to look right or left except by moving the whole body,2
+1249120_44294866_61858983.wav,Wound Trauma,I got injured exercising,5
+1249120_44294866_63476113.wav,Head and Neck Discomfort,i was watching tv and suddenly have blurry vision,2
+1249120_44294866_63987415.wav,Musculoskeletal Pain,when i raise my hand i feel pain in my shoulder.,3
+1249120_44294866_69316456.wav,Dermatological Issues,My hair is falling out after I take a shower.,1
+1249120_44294866_76461050.wav,Head and Neck Discomfort,My neck is annoying me I can't sleep bacause of it,2
+1249120_44294866_77416341.wav,Respiratory and Ear Issues,The warming system of my house is broken and  feel so cold,4
+1249120_44294866_78490603.wav,Respiratory and Ear Issues,My nose is congested all the time and there's this gluey secretion in my throat that makes it impossible for me to sleep. I often have to nap sitting down.,4
+1249120_44294866_86233279.wav,Head and Neck Discomfort,"I have a blurry vision and i can't see in the darkness , what is the reason doctor ?",2
+1249120_44294866_90790242.wav,Dermatological Issues,itch at front and center of scalp,1
+1249120_44294866_94282612.wav,Abdominal Pain and Weakness,I have terrible pain in my heart,0
+1249120_44294866_94374240.wav,Respiratory and Ear Issues,I feel something hurt me in taking breath and I cant take my breath,4
+1249120_44323331_28822792.wav,Head and Neck Discomfort,All of a sudden I felt dizzy when I stood up.,2
+1249120_44323331_35285585.wav,Head and Neck Discomfort,I feel a great amount of pressure of my head.,2
+1249120_44323331_47564425.wav,Wound Trauma,"surgical wounds red, firing pus, painful and hot to the touch",5
+1249120_44323331_63258394.wav,Dermatological Issues,I have dark spots on my skin,1
+1249120_44323331_81285987.wav,Wound Trauma,I feel strong pain in my knee after it was hit during the football match.,5
+1249120_44323331_86516132.wav,Wound Trauma,There is an injured person,5
+1249120_44442354_57228239.wav,Dermatological Issues,My skin is itching.,1
+1249120_44246595_89466082.wav,Abdominal Pain and Weakness,I often get a stomach ache after I eat.  I haven't been able to pinpoint which foods might be the trigger.,0
+1249120_44259428_107932197.wav,Head and Neck Discomfort,i can't rotate my neck,2
+1249120_44259428_108575544.wav,Head and Neck Discomfort,My neck feels stiff,2
+1249120_44259428_50949983.wav,Abdominal Pain and Weakness,I have an internal pain I cannot describe,0
+1249120_44259428_53848525.wav,Head and Neck Discomfort,I can't move my head up and down.,2
+1249120_44259428_56194683.wav,Respiratory and Ear Issues,I have a dry throat,4
+1249120_44259428_72865674.wav,Musculoskeletal Pain,My arm hurts when I stretch,3
+1249120_44259428_84387587.wav,Head and Neck Discomfort,my neck hurts me and i can't look down or up,2
+1249120_44259428_89970708.wav,Head and Neck Discomfort,I have a sharp pain in my neck,2
+1249120_44263136_106766278.wav,Dermatological Issues,I feel like l fell in hot water,1
+1249120_44263136_108585886.wav,Abdominal Pain and Weakness,I've always been very active but now I just don't have the strength or energy to go for even a short walk.,0
+1249120_44263136_10880734.wav,Abdominal Pain and Weakness,I had internal pain and gases when I ate indian spicy food yesterday,0
+1249120_44263136_31123906.wav,Dermatological Issues,I get big patches of irritated pimples on my back and they hurt.,1
+1249120_44263136_36341086.wav,Respiratory and Ear Issues,I feel cold when the night comes,4
+1249120_44263136_50406387.wav,Musculoskeletal Pain,I feel pain in the knee when walking,3
+1249120_44263136_58938609.wav,Head and Neck Discomfort,"When I drink a lot, I get a headache",2
+1249120_44263136_70702677.wav,Musculoskeletal Pain,I feel a great pain in my shoulder joint and it does not go away,3
+1249120_44263136_82626452.wav,Respiratory and Ear Issues,i have a problem in my middle ear made by infection,4
+1249120_44263136_89689013.wav,Musculoskeletal Pain,"i can't walk, my knee hurts me",3
+1249120_44273314_21942140.wav,Head and Neck Discomfort,"When I drink a lot, I get a headache",2
+1249120_44273314_26783687.wav,Musculoskeletal Pain,My knee catches and hurts when I first stand up after sitting.,3
+1249120_44273314_31545094.wav,Musculoskeletal Pain,The joints in my fingers are painful in the morning.,3
+1249120_44273314_40698632.wav,Musculoskeletal Pain,I feel a great amount of pressure on the sides of my neck,3
+1249120_44273314_45479897.wav,Abdominal Pain and Weakness,I feel hurts in my heart,0
+1249120_44273314_47534753.wav,Wound Trauma,I cut my foot at the pool and it breaks open every day when I walk on it.,5
+1249120_44273314_54417923.wav,Dermatological Issues,I'm very worried that I'll go bald soon. Am I very sick?,1
+1249120_44273314_59068162.wav,Musculoskeletal Pain,i have pain like needles in my joints.,3
+1249120_44273314_76615195.wav,Musculoskeletal Pain,My shoulder aches when I try to lift five pounds.,3
+1249120_44273314_96091387.wav,Musculoskeletal Pain,i feel that is great pain in my left shoulder,3
+1249120_44294866_102664880.wav,Abdominal Pain and Weakness,I often get a sharp pain in my chest and I can't tell what I'm doing that might be triggering it.,0
+1249120_44294866_107429604.wav,Dermatological Issues,Every time I comb my hair there are so many hair in my comb.,1
+1249120_44294866_80026823.wav,Abdominal Pain and Weakness,I felt my heart hurts when I ran for along distance,0
+1249120_44323331_12481133.wav,Wound Trauma,I cut my hand a couple of weeks ago and even though I keep using an antibiotic cream it's not getting better.,5
+1249120_44323331_18782425.wav,Wound Trauma,My son got a tattoo several weeks ago and the skin around it is raised and hot and it looks infected.,5
+1249120_44387284_64093494.wav,Wound Trauma,"i was injured during football match, i was diagnosed with Cruciate ligament",5
+1249120_44323331_51610812.wav,Head and Neck Discomfort,Pain in the large neck,2
+1249120_44273314_69418683.wav,Respiratory and Ear Issues,I feel like I've always got something in my throat,4
+1249120_44323331_23843315.wav,Wound Trauma,My son nicked his neck with an old razor and that spot has become inflamed and looks like it is infected.,5
+1249120_44323331_24461872.wav,Respiratory and Ear Issues,I can`t stop coughing.,4
+1249120_44323331_26408664.wav,Wound Trauma,The wound is still open,5
+1249120_44323331_45513911.wav,Wound Trauma,I stopped sports because I get Injury from sports,5
+1249120_44323331_66888889.wav,Musculoskeletal Pain,My joints ache whenever it is cold,3
+1249120_44323331_70756728.wav,Respiratory and Ear Issues,"It started as a tinnitus, but today the pain is throbbing and unbearable.",4
+1249120_44323331_72563945.wav,Dermatological Issues,I feel deep Tingling when I touch Acne followed by bad sensation,1
+1249120_44323331_79182023.wav,Respiratory and Ear Issues,Every time I take a deep breath I start coughing,4
+1249120_44246595_85567147.wav,Dermatological Issues,When i get up i see my skin vague,1
+1249120_44273314_21492329.wav,Musculoskeletal Pain,I have a pain in my muscle,3
+1249120_44273314_31089974.wav,Respiratory and Ear Issues,I feel cold when the night comes,4
+1249120_44273314_45748543.wav,Musculoskeletal Pain,My joints feel swollen,3
+1249120_44273314_69108455.wav,Respiratory and Ear Issues,Have severe cold and cough,4
+1249120_44273314_87229465.wav,Abdominal Pain and Weakness,I feel a sharp pain in the stomach after eating,0
+1249120_44292353_38765156.wav,Wound Trauma,"I started taking swimming lessons and I guess I swallowed too much water through my nose, because this sinusitis is killing me now.",5
+1249120_44292353_47569087.wav,Musculoskeletal Pain,I feel like I went to an acupuncture's practice and had 100 needles in my shoulder,3
+1249120_44292353_53318642.wav,Dermatological Issues,My shower drain is full of hair every time.,1
+1249120_44292353_71029438.wav,Head and Neck Discomfort,My neck is annoying me I can't sleep bacause of it,2
+1249120_44323331_16590901.wav,Dermatological Issues,I feel severe itching in the skin with redness,1
+1249120_44323331_22225771.wav,Respiratory and Ear Issues,I have a sharp pain in my ear,4
+1249120_44323331_25968681.wav,Musculoskeletal Pain,I have severe shoulder pain,3
+1249120_44323331_26313266.wav,Respiratory and Ear Issues,"I am worried how cold intolerant I am, I am always shivering, even out in the sun.",4
+1249120_44323331_33624071.wav,Abdominal Pain and Weakness,"My body feels weak after my first day in the gym, why?",0
+1249120_44323331_38538892.wav,Abdominal Pain and Weakness,I had a sharp pain in my stomach,0
+1249120_44323331_59510879.wav,Abdominal Pain and Weakness,Sharp pain and heavy breathing,0
+1249120_44323331_82659146.wav,Respiratory and Ear Issues,When I walk it's hard to breath.,4
+1249120_44246595_105657955.wav,Musculoskeletal Pain,I have a feeling like my whole body is complaining,3
+1249120_44246595_107248522.wav,Head and Neck Discomfort,I noticed an important decrease in my vision when I try to look at things up close.,2
+1249120_44246595_76562955.wav,Head and Neck Discomfort,"When I go to stand, my head starts swirling",2
+1249120_44246595_77258445.wav,Wound Trauma,I was playing soccer and I twisted my ankle,5
+1249120_44246595_92462780.wav,Wound Trauma,He was discovered to have an open wound.,5
+1249120_44246595_94621639.wav,Abdominal Pain and Weakness,I feel pain inside I do not know what it is,0
+1249120_44246595_95208403.wav,Abdominal Pain and Weakness,I can't stand with this horrible feeling in my stomach,0
+1249120_44246595_95437414.wav,Musculoskeletal Pain,I feel shoulder pain at intervals of time.,3
+1249120_44246595_95549576.wav,Dermatological Issues,i have issue with my skin,1
+1249120_44246595_99457284.wav,Abdominal Pain and Weakness,When i eat i feel my stomach hurts,0
+1249120_44259428_90522474.wav,Musculoskeletal Pain,Chronic bone disease at the level of the doubles of the lower Estremidades,3
+1249120_44259428_91754229.wav,Abdominal Pain and Weakness,Oh my heart hurts me I tried to be calm and I can't,0
+1249120_44259428_97884452.wav,Abdominal Pain and Weakness,"i am feeling so dizzy, body is so fragile.",0
+1249120_44273314_107500628.wav,Musculoskeletal Pain,"i can't walk, my knee hurts me",3
+1249120_44273314_109807607.wav,Respiratory and Ear Issues,I feel like I can hardly breathe unless I get what's in my lungs out,4
+1249120_44273314_13390025.wav,Abdominal Pain and Weakness,I feel pain inside and I can not identify it,0
+1249120_44273314_17246181.wav,Head and Neck Discomfort,My throught is so sore.,2
+1249120_44273314_32293213.wav,Respiratory and Ear Issues,I feel like something is squeezing my lungs.,4
+1249120_44273314_38687390.wav,Head and Neck Discomfort,When I'm too high I start to feel dizzy,2
+1249120_44273314_56365443.wav,Dermatological Issues,I have a rash on my skin,1
+1249120_44273314_84611968.wav,Head and Neck Discomfort,My neck has been sore since the accident.,2
+1249120_44273314_95639193.wav,Wound Trauma,i hit the ground when trying to shoot a basketball,5
+1249120_44292353_18156280.wav,Respiratory and Ear Issues,I am having running nose,4
+1249120_44292353_62335378.wav,Dermatological Issues,I have eruptions on my face that come and go .,1
+1249120_44292353_67132028.wav,Abdominal Pain and Weakness,I feel weak all over.,0
+1249120_44292353_95558066.wav,Abdominal Pain and Weakness,I have a great stomach ache and i can't eat any thing,0
+1249120_44323331_109641805.wav,Respiratory and Ear Issues,Severe pain in the ear,4
+1249120_44323331_13821399.wav,Musculoskeletal Pain,There is a sharp pain in my calve.,3
+1249120_44323331_20802934.wav,Abdominal Pain and Weakness,I cannot bear this squeezing sensation I have in my chest.,0
+1249120_44323331_30817447.wav,Dermatological Issues,red flushes accompanied with itchy,1
+1249120_44323331_95281494.wav,Musculoskeletal Pain,It hurts when I bent my arm,3
+1249120_44246595_101823153.wav,Wound Trauma,I feel pain in my right shoulder after the tennis match.,5
+1249120_44246595_86895734.wav,Wound Trauma,Surgical wound infections,5
+1249120_44246595_89680770.wav,Abdominal Pain and Weakness,I don't have the energy to do the things that I used to,0
+1249120_44246595_92310242.wav,Respiratory and Ear Issues,I wake up at night feeling cold,4
+1249120_44259428_19250068.wav,Respiratory and Ear Issues,I'm not feeling good I can't take my breath,4
+1249120_44259428_75809403.wav,Head and Neck Discomfort,I have blurred vision.,2
+1249120_44273314_94623228.wav,Head and Neck Discomfort,when i wake up in the morning i feel dizzy,2
+1249120_44292353_25313684.wav,Respiratory and Ear Issues,Sometimes I feel like a claw on my chest that leaves me breathless.,4
+1249120_44292353_25851801.wav,Head and Neck Discomfort,When I stand up too quickly I start to feel dizzy and light-headed,2
+1249120_44292353_40076348.wav,Dermatological Issues,"Sometimes when it is cold outside, my face hurts, especially around the pimples that are ready to pop.",1
+1249120_44292353_79362392.wav,Respiratory and Ear Issues,I feel very hard to breathe,4
+1249120_44292353_83240359.wav,Head and Neck Discomfort,i was watching tv and suddenly have blurry vision,2
+1249120_44292353_95216909.wav,Wound Trauma,I got injured exercising,5
+1249120_44323331_15039513.wav,Musculoskeletal Pain,I get i joint pain when i try to bend my leg or my arm,3
+1249120_44323331_22949427.wav,Musculoskeletal Pain,I feel pain in my joint after an injury in the last football match I played.,3
+1249120_44323331_26386155.wav,Head and Neck Discomfort,My head is spinning when I get up.,2
+1249120_44323331_34357709.wav,Wound Trauma,My wound opened up again,5
+1249120_44323331_77964928.wav,Dermatological Issues,"I never had any acne problem until my last pregnancy, when all of a sudden my back got covered in zits.",1
+1249120_44323331_84928769.wav,Abdominal Pain and Weakness,I have pain in my stomach,0
+1249120_44323331_88012031.wav,Musculoskeletal Pain,It hurts when I raise my arm up,3
+1249120_44292353_107326859.wav,Head and Neck Discomfort,"I feel dizzy when I set in-front of my laptop for an hour or two, what possibly could be the reason?",2
+1249120_44292353_23165570.wav,Abdominal Pain and Weakness,I felt my heart hurts when I ran for along distance,0
+1249120_44292353_70288448.wav,Musculoskeletal Pain,when i raise my hand i feel pain in my shoulder.,3
+1249120_44273314_103514863.wav,Abdominal Pain and Weakness,My body feels weak although I take my vitamins regularly.,0
+1249120_44273314_84076771.wav,Musculoskeletal Pain,having difficulty moving my knee,3

@@ -1,27 +1,25 @@
 import joblib
 from transformers import pipeline
-from sklearn.feature_extraction.text import TfidfVectorizer
-
-import pandas as pd
 import numpy as np
 import re
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
-from sklearn.preprocessing import LabelEncoder
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import classification_report
+from scipy.special import softmax
+import json
 
 
-
-
+with open('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/metadata/class_labels.json', 'r') as f:
+    class_mapping = json.load(f)
+    print(class_mapping)
 
 # Load models
 whisper = pipeline('automatic-speech-recognition', model='openai/whisper-small')
-tfidf_vectorizer = joblib.load('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/project/models/tfidf_vectorizer.pkl')
-random_forest_model = joblib.load('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/project/models/random_forest_model.pkl')
-label_encoder = joblib.load('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/project/models/label_encoder.pkl')
+tfidf_vectorizer = joblib.load('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/project/models/tfidf_vectorizer_v3.pkl')
+random_forest_model = joblib.load('/Users/kunalindore/Library/CloudStorage/OneDrive-NortheasternUniversity/Capstone/Multi-Modal-Intent-Recognition-in-Healthcare/project/models/random_forest_model_v3.pkl')
+
+#Pipeline for Fine tuned model
+fine_tuned_model = pipeline("audio-classification", model="kunal18/wav2vec2-conformer-rel-pos-large-medical-intent-fine-tuned")
 
 # Preprocess text
 def preprocess_text(text):
@@ -35,6 +33,7 @@ def preprocess_text(text):
     return cleaned_text
 
 def predict_label_from_audio(file_path):
+    print("Whisper and RFE Approach")
     with open(file_path, "rb") as f:
         audio_data = f.read()
         # print(audio_data)
@@ -60,7 +59,8 @@ def predict_label_from_audio(file_path):
             # Check if the maximum probability is above the confidence threshold
             if max_prob >= confidence_threshold:
                 # Map encoded prediction back to original label
-                prediction_label = label_encoder.inverse_transform([max_prob_index])[0]
+                # prediction_label = label_encoder.inverse_transform([max_prob_index])[0]
+                prediction_label = class_mapping[str(max_prob_index)]
                 return transcription['text'], prediction_label
             else:
                 # Return None or some indication of low confidence
@@ -69,26 +69,29 @@ def predict_label_from_audio(file_path):
         print("An error occurred during transcription:", e)
         return None, None
 
-    # try:
-    #     transcription = whisper(audio_data)
-    #     if transcription['text']:
-    #     # Preprocess text
-    #         preprocessed_text = preprocess_text(transcription['text'])
-
-    #         # Vectorize text
-    #         vectorized_text = tfidf_vectorizer.transform([preprocessed_text])
-            
-    #         # Predict using Random Forest model
-    #         prediction_encoded = random_forest_model.predict(vectorized_text)
-            
-    #         # Map encoded prediction back to original label
-    #         prediction_label = label_encoder.inverse_transform(prediction_encoded)[0]
+def predict_class_from_audio(file_path):
+    print("Fine Tuned Approach")
+    with open(file_path, "rb") as f:
+        audio_data = f.read()
+        # print(audio_data)
+    # Transcribe audio
+    try:
+        predicted_class = fine_tuned_model(audio_data)
+        print(predicted_class)
+        scores = [pred['score'] for pred in predicted_class]
         
-    #         return transcription['text'], prediction_label
-    # except Exception as e:
-    #     print("An error occurred during transcription:", e)
+        probabilities = softmax(scores)
 
-    
-    # return "None"
+        # Find index of max probability
+        max_index = np.argmax(probabilities)
+        predicted_label = predicted_class[max_index]['label']
+        max_probability = probabilities[max_index]
 
+        print("Predicted Label:", predicted_label)
+        print("Max Probability:", max_probability)
+        return predicted_label 
+
+    except Exception as e:
+        print("An error occurred during transcription:", e)
+        return None
 

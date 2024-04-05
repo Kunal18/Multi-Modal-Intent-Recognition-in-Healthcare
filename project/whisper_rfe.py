@@ -27,20 +27,22 @@ def process_audio(audio_data, recorder_flag):
     
     result_placeholder.empty()
 
-# Set title and description
-st.title("Audio Classification App")
-st.write("This app allows you to record audio or upload an audio file for classification.")
+def whisper_rfe_model():
+    st.write("This app allows you to record audio or upload an audio file for classification.")
+    # Audio recording section
+    st.header("Record Audio")
+    wav_audio_data = st_audiorec()
+    if wav_audio_data is not None:
+        if st.button("Process Recorded Audio"):
+            process_audio(wav_audio_data, True)
 
-# Audio recording section
-st.header("Record Audio")
-wav_audio_data = st_audiorec()
-if wav_audio_data is not None:
-    if st.button("Process Recorded Audio"):
-        process_audio(wav_audio_data, True)
+    # Audio upload section
+    st.header("Upload Audio File")
+    uploaded_file = st.file_uploader("Upload an audio file", type=["wav"])
+    if uploaded_file is not None:
+        if st.button("Process Uploaded Audio"):
+            process_audio(uploaded_file, False)
 
-# Audio upload section
-st.header("Upload Audio File")
-uploaded_file = st.file_uploader("Upload an audio file", type=["wav"])
-if uploaded_file is not None:
-    if st.button("Process Uploaded Audio"):
-        process_audio(uploaded_file, False)
+
+if __name__ == "__main__":
+    whisper_rfe_model()
