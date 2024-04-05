@@ -51,20 +51,21 @@ def predict_label_from_audio(file_path):
 
             # Predict probabilities using Random Forest model
             prediction_probs = random_forest_model.predict_proba(vectorized_text)
-            
+            # print(prediction_probs)
             # Get the maximum probability and its corresponding class index
             max_prob_index = np.argmax(prediction_probs)
             max_prob = prediction_probs[0, max_prob_index]
-
+            
             # Check if the maximum probability is above the confidence threshold
             if max_prob >= confidence_threshold:
                 # Map encoded prediction back to original label
                 # prediction_label = label_encoder.inverse_transform([max_prob_index])[0]
                 prediction_label = class_mapping[str(max_prob_index)]
-                return transcription['text'], prediction_label
+                
+                return transcription['text'], prediction_label, prediction_probs
             else:
                 # Return None or some indication of low confidence
-                return transcription['text'], "Low confidence prediction, please try again!"
+                return transcription['text'], "Low confidence prediction, please try again!", None
     except Exception as e:
         print("An error occurred during transcription:", e)
         return None, None
@@ -77,7 +78,7 @@ def predict_class_from_audio(file_path):
     # Transcribe audio
     try:
         predicted_class = fine_tuned_model(audio_data)
-        print(predicted_class)
+        # print(predicted_class)
         scores = [pred['score'] for pred in predicted_class]
         
         probabilities = softmax(scores)
@@ -89,9 +90,9 @@ def predict_class_from_audio(file_path):
 
         print("Predicted Label:", predicted_label)
         print("Max Probability:", max_probability)
-        return predicted_label 
+        return predicted_label, predicted_class 
 
     except Exception as e:
         print("An error occurred during transcription:", e)
-        return None
+        return None, None
 
