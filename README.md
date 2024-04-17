@@ -70,3 +70,7 @@ Training and Validation Results-
 | 6     | 0.3092        | 0.7844          | 0.7456   | 0.7800    | 0.7456 |
 | 7     | 0.2968        | 0.7393          | 0.7544   | 0.7960    | 0.7544 |
 | 8     | 0.3001        | 0.6879          | 0.7719   | 0.8161    | 0.7719 |
+
+## DEMO
+https://github.com/Kunal18/Multi-Modal-Intent-Recognition-in-Healthcare/assets/20738263/b5069db0-8b21-43cf-bee2-da022cfa596f
+
