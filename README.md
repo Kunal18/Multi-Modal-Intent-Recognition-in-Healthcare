@@ -22,3 +22,49 @@ Training and Validation Results-
 
 
 
+## Setup Instructions
+
+### Prerequisites
+
+Before running this project, ensure you have the following installed:
+
+- Python 3
+- Streamlit
+- st_audiorec
+- joblib
+- transformers
+- numpy
+- nltk
+- scipy
+
+### Installation
+
+1. Clone the repository to your local machine:
+
+    ```bash
+    git clone https://github.com/yourusername/project.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd project
+    ```
+
+3. Install the required Python packages mentioned above
+
+
+### Running the Project
+
+1. After installing the necessary dependencies, navigate to the project directory.
+
+2. Run the following command to start the Streamlit app:
+
+    ```bash
+    streamlit run project/app/index.py
+    ```
+
+3. This will launch the Streamlit application in your default web browser. You can now interact with the project as per its functionality.
+
+4. Follow the on-screen instructions to utilize the features of the project.
+
