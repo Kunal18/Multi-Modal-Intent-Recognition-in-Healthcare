@@ -1,0 +1,7 @@
+streamlit
+st_audiorec
+joblib
+transformers
+numpy
+nltk
+scipy
