@@ -51,16 +51,6 @@ Before you begin, ensure you have met the following requirements:
 
 4. Follow the on-screen instructions to utilize the features of the project.
 
-## Contributing
-
-If you're interested in contributing to this project, please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get started.
-
-## Libraries and Tools Used
-
-- Flask - The web framework used
-- NumPy - Library for numerical calculations
-- Other relevant libraries or tools
-
 ## Additional Information
 
 The original dataset with audio utterances can be found [here](https://www.kaggle.com/datasets/paultimothymooney/medical-speech-transcription-and-intent/data). The audio classification model is trained on the pre-processed dataset available [here](https://huggingface.co/datasets/shreyas1104/medical-intent-audio-dataset-consolidated).
