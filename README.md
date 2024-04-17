@@ -51,8 +51,10 @@ Before running this project, ensure you have the following installed:
     cd project
     ```
 
-3. Install the required Python packages mentioned above
-
+3. Install the required Python packages mentioned:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ### Running the Project
 
@@ -67,4 +69,6 @@ Before running this project, ensure you have the following installed:
 3. This will launch the Streamlit application in your default web browser. You can now interact with the project as per its functionality.
 
 4. Follow the on-screen instructions to utilize the features of the project.
+
+
 
