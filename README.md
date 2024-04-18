@@ -10,14 +10,15 @@ The project aims to automate and streamline clerical processes in healthcare by 
 
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
-- Python 3
-- st_audiorec
-- joblib
-- transformers
-- numpy
-- nltk
-- scipy
-- Streamlit - For web UI hosting
+- Python 3 - foundational programming language for our project, providing a versatile and user-friendly environment for development
+- st_audiorec - used for audio recording and processing, allowing us to capture and analyze audio data in real-time
+- joblib - used for efficient data caching and parallel computing, optimizing the performance of our data processing tasks
+- transformers -  utilized for state-of-the-art natural language processing (NLP), enabling us to implement advanced text-based models and algorithms
+- numpy - provides essential numerical computing capabilities, facilitating efficient array operations and mathematical computations
+- nltk - leveraged for natural language processing tasks such as tokenization, stemming, and part-of-speech tagging, enhancing text data preprocessing and analysis
+- scipy - used for scientific computing and advanced mathematical functions, supporting various data analysis and statistical operations
+- Streamlit - employed as our web application framework, enabling easy and interactive data visualization and deployment of machine learning models
+
 
 ### Installation Steps
 
