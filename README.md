@@ -42,7 +42,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. After installing the necessary dependencies, navigate to the project directory.
 
-2. Run the following command to start the Streamlit app:
+2. Run the following command in command prompt to start the Streamlit app:
     ```bash
     streamlit run project/app/index.py
     ```
