@@ -11,13 +11,13 @@ The project aims to automate and streamline clerical processes in healthcare by 
 ### Prerequisites
 Before you begin, ensure you have met the following requirements:
 - Python 3
-- Streamlit
 - st_audiorec
 - joblib
 - transformers
 - numpy
 - nltk
 - scipy
+- Streamlit - For web UI hosting
 
 ### Installation Steps
 
